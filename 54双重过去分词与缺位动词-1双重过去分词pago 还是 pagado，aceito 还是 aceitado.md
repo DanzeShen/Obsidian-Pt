@@ -6,10 +6,6 @@
 
 ser / estar + 短的不规则分词 → foi pago、está aceito · ter / haver + 长的规则分词 → tinha pagado、havia aceitado
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - **一条规则，两组助动词** ： **ser** 和 **estar** 用 **短** 分词（ *foi pago* 、 *está aceito* ）； **ter** 和 **haver** 用 **长** 分词（ *tinha pagado* 、 *havia aceitado* ）。
@@ -21,14 +17,6 @@ ser / estar + 短的不规则分词 → foi pago、está aceito · ter / haver +
 - **不是每个动词都有一对** ： *trazer* 、 *chegar* 、 *empregar* 只有规则形式，不管配哪个助动词。
 - ***Morto* 是借来的** ：它是 *matar* （杀）的短分词， *morrer* （死）在需要 *ser* / *estar* 时借用它，而给 *ter* 留着 *morrido* 。
 - 最后是相反的一族： **verbos defectivos** —— *colorir* 、 *abolir* 、 *falir* 、 *reaver* 、 *precaver-se* ——它们干脆缺形式。
-
-### 为什么重要？
-
-这是认真写的葡语和其他一切之间最后一条看得见的线，也是巴西人自己会盯的少数几条之一。 *O projeto foi aprovado e o pagamento já foi feito* 不会引起任何注意； *o pagamento já foi fazido* 根本不成句。两个极端之间是一个真实的选择，你在任何正式文本里每页都要做好几次：合同、给客户的邮件、Celpe-Bras 作文、公务员考试的答题纸。
-
-这也是你已经学过的两套系统终于碰头的地方： *ser* 和 *estar* 的被动， *ter* 和 *haver* 的复合时态。到目前为止，过去分词在两边看起来是同一个词。对约四十个动词来说并不是——而这里就是它不再隐形的地方。
-
-阅读上也有回报： *ele tinha aceitado* 和 *ele foi aceito* 是两件不同的事——一件是他做的，一件是别人对他做的。把分词扫过去，你丢掉的正是这个差别。
 
 ### 深入解析
 

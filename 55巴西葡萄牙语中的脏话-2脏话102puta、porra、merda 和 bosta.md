@@ -6,10 +6,6 @@
 
 puta que pariu / filho da puta = 固定感叹 | puta + 名词 = '真他妈'强化槽 | porra! / porra nenhuma = 单独感叹 + 强烈否认 | merda + bosta = 感叹/评价/人物标签
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - *Puta que pariu* 与 *filho da puta* 是固定感叹——不真涉及谁的母亲。
@@ -18,10 +14,6 @@ puta que pariu / filho da puta = 固定感叹 | puta + 名词 = '真他妈'强�
 - *Porra nenhuma* 接分句 = 强烈否认，不是'没有'。
 - *Merda* 偏感叹/乱套； *bosta* 偏给人或物贴'烂'标签。
 - *Putz* / *poxa* 是大众版本，电视也用。
-
-### 为什么重要？
-
-如果把 *puta que pariu* 按字面读，会把日常抱怨当成马上要打架。在巴西的 C2 听力，就是把 *que puta filme* 、 *porra nenhuma* 、 *vá à merda* 、 *é uma bosta* 当成单位识别，而不是字面相加。多数母语者已经讲不清字面词源，他们只熟悉结构。
 
 ### 深入解析
 

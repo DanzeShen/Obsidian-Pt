@@ -6,10 +6,6 @@
 
 ficar em/na/no + 地点（位于；待着）· ficar + 形容词（变成）· ficar com + 名词（进入某个状态；留下某物）· ficar bem em alguém（适合某人）· ficar com alguém（暧昧、在一起）
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - **不会动的地方在哪里** → *ficar* ，不是 *ser* 也不是 *estar* ： *O banco fica na esquina.*（银行在拐角。）
@@ -20,14 +16,6 @@ ficar em/na/no + 地点（位于；待着）· ficar + 形容词（变成）· f
 - **ficar bem em alguém** = **适合** ： *Essa camisa fica bem em você.*（这件衬衫很适合你。）中文正好有一个词对上。
 - **ficar com alguém** = 关系不正式地在一起，接近中文的 **暧昧** ： *Eles ficaram na festa.*
 - 中文一律用「在」说位置，葡语却按 **会不会动** 分成两个动词，这是本节唯一真正要新学的切法。
-
-### 为什么重要？
-
-问巴西人药店在哪儿，回来的答案里带着 *fica* —— *Fica ali, depois do semáforo.*（就在那边，过了红绿灯。）只有 *ser* 和 *estar* 的学习者听到一个自以为是「待着」的动词，整句就丢了。
-
-「变成」这一层也躲不掉： *fiquei com fome* （我饿了）和 *ela ficou brava* （她生气了）标记的是某样东西 **改变** 的那一刻， *ser* 和 *estar* 都做不到。而付钱的时候， *pode ficar com o troco* （零钱你留着）是你需要的那一句。
-
-对中文母语者来说，这一节 **一半白拿、一半要真学** 。「变成」那一层和中文的 **变／〜了** 完全重合， *ficar bem* 更是直接对上 **适合** 。难的是第一层——地点的 *fica* 。中文说位置一律用「在」：「银行 **在** 拐角」「书 **在** 桌上」「他 **在** 外面」。葡语却按会不会动，把这一个「在」劈成了三个动词。
 
 ### 深入解析
 

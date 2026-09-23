@@ -6,16 +6,6 @@ Poder（能够 / 可以）、querer（想要）和 precisar（需要）是葡语
 
 poder / querer / precisar（变位）+ 不定式 —— precisar 在名词前加 de
 
-### 你的进度
-
-掌握等级:
-
-Mestre
-
-准确率:
-
-100.0%
-
 ### 快速概览
 
 - **Poder** （能 / 可以）：posso, pode, podemos, podem —— 能力、许可、可能。
@@ -24,10 +14,6 @@ Mestre
 - 三个后面都直接加 **动词原形（不定式）** ： *Posso ajudar* 、 *Quero viajar* 、 *Preciso trabalhar* 。
 - 只有 **precisar** 在名词前要加 **de** ： *Preciso **de** ajuda* 。
 - **Poder** 不规则（eu **posso** ）；querer 和 precisar 规则 —— 只需记住 você/ele/ela 的短形式 **quer** 。
-
-### 为什么重要？
-
-葡语这三个动词后面直接加动词原形（不定式），就像中文「能 / 想 / 需要 + 动词」一样：poder ≈ 能/可以，querer ≈ 想/要，precisar ≈ 需要。用它们就能把普通句子变成你 *能* 做、 *想* 做、 *需要* 做的事 —— 这是日常对话的骨架。你可以请求许可（ **Posso** entrar? 我能进来吗？）、礼貌地点单（ **Quero** um café 我要一杯咖啡）、说出需求（ **Preciso** de ajuda 我需要帮助）。和中文最大的不同是：葡语动词要 **变位** ，而且 precisar 在名词前要加 **de** 。记住这三个，你能说的话立刻成倍增加。
 
 ### 深入解析
 

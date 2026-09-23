@@ -6,10 +6,6 @@ pretérito perfeito 是巴西人日常表达"已完成动作"的过去时——�
 
 动词词干 + 过去时词尾：-ei/-ou/-amos/-aram（AR），-i/-eu/-emos/-eram（ER），-i/-iu/-imos/-iram（IR）
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - **\-AR 动词** ：-ei, -ou, -amos, -aram（falei, falou, falamos, falaram）
@@ -20,10 +16,6 @@ pretérito perfeito 是巴西人日常表达"已完成动作"的过去时——�
 - \-AR/-IR 动词的 **nós** 形式和现在时长得一模一样（falamos, abrimos）
 - 注意拼写变化：cheguei, fiquei, comecei, paguei（只在 eu 形式里）
 - 讲故事、聊过去经历时最常用的时态
-
-### 为什么重要？
-
-不用 pretérito perfeito，你就没法跟人聊你的周末、交换故事、说清楚发生了什么——这是你一天里要用上一百次的过去时。 *Viajei para o Rio* （我去了里约旅行）、 *Comemos pizza ontem* （我们昨天吃了披萨）、 *Eles assistiram o jogo* （他们看了那场比赛）。最棒的是：规则动词出奇地好预测——每组只要记住一套词尾，你就能叙述任何事，从今早做了什么，到多年前的那趟旅行。
 
 ### 深入解析
 

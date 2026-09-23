@@ -6,10 +6,6 @@
 
 estar 用 imperfeito + -ndo 形式：estava fazendo · 跟着人称变的只有 estar，-ndo 形式不动 · 当单用 imperfeito 会含糊时才用它
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - **estava / estávamos / estavam** ＋ *\-ndo* 形式；只有 *estar* 变
@@ -22,10 +18,6 @@ estar 用 imperfeito + -ndo 形式：estava fazendo · 跟着人称变的只有 
 - ✗ 不用于习惯，也不用于状态： *Eu jogava bola todo dia* 、 *Ela era alta*
 - *Não* 放在两词之前；代词放在 *\-ndo* 之前： **Ele estava me esperando**
 - 从来不是必须的： *Quando cheguei, ele lia o jornal* 完全没问题
-
-### 为什么重要？
-
-中文没有时态，靠「正在」「那时候」和句末的「了」来分工，所以这里学的其实是把你已经会的分工搬进动词形式里。好消息是这个搬运很省力：只有一个词要变，而且你上一课已经学会了。要小心的是用力过猛 —— 因为形式存在，就忍不住每句都加 *estava* 。不必。默认用单纯的 imperfeito，只有当你想把动作钉在某个时间点上时才换成这个形式，通常是因为马上有别的事要插进来。而那正是它最值钱的地方：「你当时在做什么」几乎是所有故事的开头。
 
 ### 深入解析
 

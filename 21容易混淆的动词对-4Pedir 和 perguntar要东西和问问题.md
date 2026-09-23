@@ -6,10 +6,6 @@
 
 pedir algo (a/para alguém) = 要、请求 · pedir para + 不定式 = 请某人做某事 · perguntar algo (a/para alguém) = 询问 · perguntar se… · fazer uma pergunta（提一个问题）
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - **pedir** = 要一样东西或一个动作，也就是 **要、点、请求** ： *Pedi um café.*（我点了杯咖啡。）
@@ -20,14 +16,6 @@ pedir algo (a/para alguém) = 要、请求 · pedir para + 不定式 = 请某人
 - **perguntar se…** 装下所有塞不进一个名词的东西： *Perguntei se ele vem.*（我问他来不来。）
 - 问题在葡语里是 **做** 出来的 —— *fazer uma pergunta* 。中文说「 **问** 问题」，这里不能照搬。
 - *pedir* 的 *eu* 形式不规则： **peço** 。
-
-### 为什么重要？
-
-选错不只是句子听着别扭，而是要错了东西： *Perguntei um café* 不是点咖啡，是在盘问服务员关于咖啡的事。
-
-不过中文母语者几乎不会犯这个错，因为中文本来就把 **要** 和 **问** 分开。这一层确认一下就可以过。
-
-你真正要花时间的是 **框架** 。中文说「我 **向他** 要 **帮助** 」，人在前；葡语说 *Pedi ajuda **para ele*** ， **东西在前** 。「我 **请他** 等」是 *Pedi **para ele** esperar* ，人被夹在 *para* 和动词之间。这套语序没进耳朵，说出来的句子巴西人得在脑子里重新拼一遍。
 
 ### 深入解析
 

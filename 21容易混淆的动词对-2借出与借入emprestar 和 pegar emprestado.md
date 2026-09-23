@@ -6,10 +6,6 @@
 
 emprestar algo A/PARA alguém（借给某人）· pegar/pedir/tomar algo EMPRESTADO DE alguém（从某人那里借）
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - **emprestar 永远是「借给」。** 东西离开你： *Emprestei o carro para o meu irmão.*（我把车借给了我哥。）
@@ -19,16 +15,6 @@ emprestar algo A/PARA alguém（借给某人）· pegar/pedir/tomar algo EMPREST
 - **「借入」的三个档次：** *pegar emprestado* （日常）、 *pedir emprestado* （还在开口阶段）、 *tomar emprestado* （正式书面，接近 **借用** ）。
 - **实际的请求是 *Me empresta…?*** —— *Me empresta sua caneta?*（借我支笔。）和中文一样，是请对方 **借给** 你。
 - 中文的 **借** （无偿）和 **租** （付钱）分得很清楚，葡语的 *emprestar* 和 *alugar* 也一样。这一条白拿。
-
-### 为什么重要？
-
-借来借去每天都在发生——一支笔、一个充电器、一辆车、周五前的二十雷亚尔。
-
-中文母语者在方向上比英语母语者安全，但没有日语母语者那么安全：中文的「借」本身两个方向都能用，全靠 **借给** 和 **跟……借** 里的那个小词来定向。一旦把这个小词丢掉，葡语这边就会翻面。
-
-真正的关口有两个。一是 **不存在** 一个能直接放上去的「借入」动词，必须用 **pegar + emprestado** 搭出来。二是 *emprestado* 的一致：所借之物是阳性还是阴性、单数还是复数，词尾有四种变化。中文没有性，也没有数的一致，所以哪怕意思完全通，这里一错，句子立刻听着像外国话。
-
-把这两点拿下，一整套日常交易就不再靠碰运气。
 
 ### 深入解析
 

@@ -6,10 +6,6 @@
 
 ter（未完成过去时）+ 过去分词 | tinha / tinham + falado / comido / partido
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - 构成： **tinha / tinham** + 过去分词
@@ -22,10 +18,6 @@ ter（未完成过去时）+ 过去分词 | tinha / tinham + falado / comido / p
 - 它能在过去叙事中展示 **因果和先后**
 - 对 **讲故事** 和解释背景非常重要
 - 巴西口语有时会直接用简单过去时替代
-
-### 为什么重要？
-
-过去完成时是你的叙事超能力。它能通过显示“哪件事先发生”，来解释为什么后来会发生别的事。没有它，你就很难完整讲故事（"Ela estava cansada porque tinha trabalhado muito"）、解释问题（"O carro não funcionou porque tinha acabado a gasolina"），或者说明自己为什么做出某个决定（"Mudei de emprego porque já tinha esperado demais"）。它决定了你的时间线是乱成一团，还是清清楚楚；你是在随便罗列事件，还是在真正说明因果。
 
 ### 深入解析
 

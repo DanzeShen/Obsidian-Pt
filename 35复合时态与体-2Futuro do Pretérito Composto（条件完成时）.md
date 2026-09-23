@@ -6,10 +6,6 @@
 
 ter 的条件式（teria、teríamos、teriam）+ 过去分词（-AR 用 -ado，-ER / -IR 用 -ido）
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - 由 **ter** 的条件式 + 过去分词构成
@@ -22,10 +18,6 @@ ter 的条件式（teria、teríamos、teriam）+ 过去分词（-AR 用 -ado，
 - 也常用于涉及过去的间接引语
 - 分词本身不随性和数变化
 - 常和 "se"（如果）从句搭配出现
-
-### 为什么重要？
-
-条件完成时既是“遗憾制造机”，也是“委婉缓冲垫”。巴西人用它来表达所有那些 “coulda, woulda, shoulda” 的时刻，比如 "Eu teria ido, mas..."（我本来会去，但是……）。你会在赛后复盘里听到它（"o time teria ganhado se..."），在委婉批评中听到它（"eu teria feito diferente"），也会在讲错失机会的故事里不断遇到它。它尤其重要，因为在巴西社交语境里，直接批评太硬，"eu teria escolhido outro"（我本来会选另一个）要比 "você escolheu errado"（你选错了）柔和得多。
 
 ### 深入解析
 

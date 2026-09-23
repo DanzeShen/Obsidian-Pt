@@ -6,10 +6,6 @@ Regência 就是一个动词、名词或形容词自己挑中的那个介词—�
 
 动词 + 它自己的介词：gostar DE · precisar DE · assistir A · obedecer A · sonhar COM · 名词或形容词 + 介词：medo DE · favorável A · capaz DE
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - **词挑介词，不是你挑。** 一起学： *gostar de* 、 *precisar de* 、 *assistir a* 、 *obedecer a* 、 *concordar com* 。 **和中文记「跟……说」是同一个动作。**
@@ -18,16 +14,6 @@ Regência 就是一个动词、名词或形容词自己挑中的那个介词—�
 - **巴西口语改写了规范** ： *assistir o jogo* 、 *chegar em casa* 、 *ir na praia* 、 *namorar com alguém* 。说出来完全正常，写下来会被改。
 - **Regência 排在 crase 前面** ：介词必须先在那儿。 *Assisti à aula* 成立，是因为 *assistir* 要求 *a* ；crase 现在有自己独立的一节。
 - **介词也决定代词** ：要求 *a* 的动词取 *lhe* （ *obedeço-lhe* ），带直接宾语的动词取 *o* 或 *a* （ *vejo-o* ）。
-
-### 为什么重要？
-
-Regência 是一个听起来已经很流利的学习者最容易被判错的地方，因为这些错误在会话里看不见，在纸上却刺眼。
-
-它也承载真正的意思： *implicar* 和 *implicar com* 是两个不同的动词， *proceder* 、 *proceder a* 、 *proceder de* 也是。再加上这门语言里每一个 crase 都依赖 regência 放下的那个介词，这里握不牢，下游的重音符号规则就会悄悄崩掉。
-
-中文母语者在这里有一个很硬的支点： **把小词和动词一起记** 这个习惯，你在母语里天生就有。学「依靠」时你记的是「 **依靠** 」不能说成「向依靠」；学「结婚」时你记的是「 **跟** ……结婚」。葡语在这里要求的是完全相同的动作，新的只有内容。
-
-还有一层风景也熟悉：口语和书面语说法不一致。中文里「他 **给** 我打了个电话」和公文里的措辞不一样，巴西人说 *assistir o jogo* 而写 *assistir ao jogo* ——同一种双重生活。
 
 ### 深入解析
 

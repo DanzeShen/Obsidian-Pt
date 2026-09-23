@@ -6,10 +6,6 @@
 
 dar uma + 动词词干 + -ada/-ida = 随便做一次 · dar uma olhada EM algo（看一下某物）—— -ada 还表示一击（facada）· 一群人（criançada）· 一份的量（colherada）
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - 名词从分词造出来： **\-ar** 动词取 **\-ada** ， **\-er** 和 **\-ir** 动词取 **\-ida** ： *olhar → uma **olhada*** 、 *sair → uma **saída*** 、 *correr → uma **corrida*** 。
@@ -20,14 +16,6 @@ dar uma + 动词词干 + -ada/-ida = 随便做一次 · dar uma olhada EM algo�
 - **\-ada** 还给某样东西打出来的一击命名： *faca → **facada*** 、 *cotovelo → **cotovelada*** 。你 *dar* 一下，或者 *levar* 、 *tomar* 一下。
 - 它也把人收成一群 —— *criança → **criançada*** 、 *rapaz → **rapaziada*** —— 而且这一群配 **单数** 动词。
 - 它还量出一份： *colher → **colherada*** （一勺）、 *dente → **dentada*** （一口）。中文的 **量词** 正好对上。
-
-### 为什么重要？
-
-这是把「正确的葡语」和「巴西的葡语」分开的型之一。 *Dá uma olhada aí* （你看一下这个）是同事把文件递给你的方式， *vou dar uma melhorada nisso* （我改一下）是工作被半承诺出去的方式。
-
-没抓住这个型，你听到的是 *dar* （给）加上一个字典里只收在动词条下的词。会用它，你就不再听起来像在翻译： *vou limpar a casa* （我要打扫房子）和 *vou dar uma limpada na casa* （我把房子扫一下）之间的距离，就是 **承诺** 和 **帮个忙** 之间的距离。
-
-中文母语者在这里顺风很大。汉语的 **看看／看一下／试试／歇一会儿** 就是专门表达「轻轻地做一次」的装置，而且 **社交功能也一样** ：中文里「帮我看一下」比「帮我校对一遍」更容易得到「好」，葡语的 *dar uma olhada* 比 *revisar* 更容易得到 *sim* ，理由完全相同。
 
 ### 深入解析
 

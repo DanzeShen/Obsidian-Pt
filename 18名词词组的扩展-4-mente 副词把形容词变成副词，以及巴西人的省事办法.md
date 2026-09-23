@@ -6,10 +6,6 @@
 
 形容词阴性单数 + -mente → rápida + mente = rapidamente（快速地）· 重音符号脱落：fácil → facilmente · bom → bem，mau/ruim → mal（永远不加 -mente）
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - 配方：取 **阴性单数** 加 **\-mente** —— *rápido* → *rápida* → **rapidamente** 。阴阳同形的形容词直接加： *feliz* → **felizmente** 。
@@ -20,16 +16,6 @@
 - **bem** 和 **mal** 还能加强形容词： *bem cansado* （累得很）、 *mal-humorado* （心情不好）。
 - 巴西人常常绕开词尾： **de forma / de maneira / de um jeito + 形容词** ，或者直接用形容词—— *Fala baixo.*（小声点说。）
 - 最有用的 *\-mente* 出现在句首： **infelizmente** （不幸的是）、 **realmente** （确实）、 **geralmente** （通常）、 **finalmente** （终于）。
-
-### 为什么重要？
-
-形容词说事物 **是什么样** ，副词说事情 **怎么做** 。没有这条规则，你想说 *Ele dirige rapidamente* （他开得快）时，只能停在 *Ele é rápido* （他很快）。
-
-对中文母语者来说，这一节有一半已经做完了。中文是一门会规则地从形容词造副词的语言——「慢」到「慢慢地」，「认真」到「认真地」。派生这件事本身不新鲜，新的只有两点： **从哪个形式出发** （阴性单数），以及书面重音符号会脱落。
-
-还有一点值得先说：中文的 **「好」** 在「好人」和「说 **得** 好」里是同一个字，葡语却分成 *bom* 和 *bem* 两个词。这一对是本节里真正要新学的东西。
-
-这条规则还会顺手把巴西人天天用的句首副词交给你——那些能让你从「在翻译的人」变成「在说话的人」的词： *Infelizmente, não deu certo.*（不幸的是，没成。）
 
 ### 深入解析
 

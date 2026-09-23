@@ -6,10 +6,6 @@ Futuro do subjuntivo（将来虚拟式）用在 quando、se、assim que 这类�
 
 第三人称复数简单过去时词干（去掉 -ram）+ -r, -res, -r, -rmos, -rem
 
-### 你的进度
-
-尚未开始
-
 ### 快速概览
 
 - **葡语里的名字** ： *futuro do subjuntivo* （将来虚拟式）
@@ -24,10 +20,6 @@ Futuro do subjuntivo（将来虚拟式）用在 quando、se、assim que 这类�
 - **准确的说法** ：西班牙语保留了这个形式（ *hablare* 、 *tuviere* ），但只用在法律文书和固定说法里；法语和意大利语根本没有发展出来；只有葡语今天还天天在用
 - **永远谈的是未来** ，不是现在或过去
 - **主句** 可以搭配现在时、将来时或命令式
-
-### 为什么重要？
-
-将来虚拟式在巴西日常生活里无处不在，不会它几乎连计划都做不了。从普通承诺（"Quando eu chegar, te aviso"）到工作邮件（"Assim que recebermos o pagamento, enviaremos o produto"），再到约会（"Se você quiser, podemos sair"），这种结构一天能听到无数次。和肥皂剧里那种戏剧化的未完成虚拟式不同，将来虚拟式是实打实的“现实生活语法”：WhatsApp、会议安排、家庭计划都离不开它。
 
 ### 深入解析
 
