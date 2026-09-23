@@ -1,0 +1,250 @@
+# 用关系代词避免重复
+
+关系代词可以把零碎、重复的句子连接成更顺畅、更成熟的话语。巴西葡语在大多数连接里都偏好使用 “que”，但也会避免为了优雅而把结构拉得过长、牺牲清晰度。
+
+### 结构
+
+句子 1 + 关系代词 + 句子 2 的其余部分（去掉重复成分）
+
+### 快速概览
+
+- 合并两个共享同一成分的句子
+- 去掉重复的名词或代词
+- "Que" 能处理 80% 的连接
+- 让表达从生硬变得顺畅
+- 不要连太多层（通常 2 到 3 个从句以内）
+- 有时重复本身就是强调（那就保留）
+- 主语连主语最容易处理
+- 一旦涉及介词，连接会更复杂
+- 清楚永远比优雅重要
+- 口语里允许一定程度的重复
+
+### 深入解析
+
+### 问题：句子太重复
+
+## 不用关系代词时（生硬、断裂）：
+
+Conheci uma pessoa. A pessoa fala cinco línguas. A pessoa trabalha na ONU.
+
+Comprei um carro. O carro é econômico. O carro tem quatro portas.
+
+Visitei uma cidade. A cidade fica no norte. A cidade tem praias lindas.
+
+## 使用关系代词后（更顺畅）：
+
+Conheci uma pessoa que fala cinco línguas e que trabalha na ONU.
+
+Comprei um carro que é econômico e que tem quatro portas.
+
+Visitei uma cidade que fica no norte e que tem praias lindas.
+
+### 基础合并策略
+
+## 第 1 步：找出重复成分
+
+- João comprou um livro. **O livro** é caro.
+- 重复的是："o livro"
+
+## 第 2 步：用关系代词替换
+
+- João comprou um livro **que** é caro.
+
+## 第 3 步：检查是否自然
+
+- 从句太多会让句子变得难懂
+- 只保留最重要的信息
+
+### 常见合并模式
+
+## 主语连主语（最容易）：
+
+- O homem chegou. O homem é meu pai.
+- → O homem **que** chegou é meu pai.
+
+## 主语连宾语：
+
+- Encontrei o livro. Você procurava o livro.
+- → Encontrei o livro **que** você procurava.
+
+## 宾语连主语：
+
+- Vi um filme ontem. O filme ganhou o Oscar.
+- → O filme **que** vi ontem ganhou o Oscar.
+
+## 搭配介词时：
+
+- Conheço a pessoa. Você falou com a pessoa.
+- → Conheço a pessoa **com quem** você falou.
+
+### 多重合并
+
+## 两个从句（常见）：
+
+A mulher que conheci ontem e que trabalha no banco me ligou.
+
+O restaurante que fica no centro e que serve comida italiana está lotado.
+
+## 三个从句（通常是推荐上限）：
+
+O livro que comprei, que foi escrito por Machado de Assis, e que custou caro, é excelente.
+
+## 避免过度连缀：
+
+❌ "A pessoa que conheci na festa que foi organizada pelo João que mora no apartamento que fica no prédio que construíram ano passado..."
+
+### 什么时候不要刻意避免重复
+
+## 1\. 为了强调：
+
+- " **Ele** disse que **ele** mesmo faria"（强调是他本人来做）
+- " **O problema** é que **o problema** não tem solução"（强调这个悖论）
+
+## 2\. 为了清晰：
+
+- 当代词会造成指代不清时
+- 当连接后结构过于复杂时
+
+## 3\. 在正式 / 法律文本中：
+
+- 合同里经常通过重复来保证精确
+- 清楚比优雅更重要
+
+## 4\. 开启新段落 / 新话题时：
+
+- 需要把名词完整重新引入
+- 不要默认读者还记得前文
+
+### 关系代词作为衔接工具
+
+## 让文本更连贯：
+
+衔接差：
+
+"São Paulo é enorme. São Paulo tem 12 milhões de habitantes. São Paulo é o centro financeiro. Em São Paulo há muito trânsito."
+
+衔接好：
+
+"São Paulo, que tem 12 milhões de habitantes, é enorme. A cidade, que é o centro financeiro do país, tem muito trânsito."
+
+## 变化句型结构：
+
+- 短句和带关系从句的长句交替使用
+- 这样可以避免整体节奏单调
+
+### 用关系代词避免重复时的常见错误
+
+## 1\. 关系代词选错：
+
+- ❌ "A cidade onde conheci"（表示地点，但用法不对）
+- ✓ "A cidade onde moro" / "A pessoa que conheci"
+
+## 2\. 先行词追丢了：
+
+- 不清楚代词到底指向哪个名词
+- 让从句尽量贴近它修饰的先行词
+
+## 3\. 造成歧义：
+
+- "O amigo do João que mora longe"（到底是 João 住得远，还是朋友住得远？）
+- 更清楚： "O amigo que mora longe do João"
+
+## 4\. 把简单意思说得过于复杂：
+
+- 有时候分成两句更清楚
+- 不要为了连接而连接
+
+### 巴西葡语里的使用偏好
+
+## 口语中允许一定程度的重复：
+
+- "Ela disse que ela vem"（口语里可以接受）
+- 为了清楚，代词经常会重复出现
+
+## "Que" 的统治地位：
+
+- 正式： "O livro de que gosto"
+- 口语： "O livro que gosto"
+- 避免重复不应该把句子弄得过分正式
+
+## 更偏好较短的连锁结构：
+
+- 英语能容忍更长的关系从句链
+- 葡语通常更倾向于拆开说
+
+## 语境允许省略：
+
+- "Comprei um livro. É muito bom."（主语靠语境即可理解）
+
+### 例子
+
+### 基础合并
+
+- 生硬： "Conheci Maria. Maria é professora. Maria fala inglês."
+- 合并后： "Conheci Maria, **que** é professora e **que** fala inglês."
+- 生硬： "Comprei um celular. O celular é novo. O celular custou caro."
+- 合并后： "Comprei um celular **que** é novo e **que** custou caro."
+
+### 不同关系代词
+
+- 生硬： "Este é o lugar. Nos encontramos no lugar."
+- 合并后： "Este é o lugar **onde** nos encontramos."
+- 生硬： "Conheço o rapaz. Você saiu com o rapaz."
+- 合并后： "Conheço o rapaz **com quem** você saiu."
+
+### 职场写作
+
+- 较差： "O relatório está pronto. O relatório tem 50 páginas. O relatório analisa as vendas. O relatório será apresentado amanhã."
+- 更好： "O relatório **que** analisa as vendas está pronto. O documento, **que** tem 50 páginas, será apresentado amanhã."
+
+### 保持清晰
+
+- 容易混淆： "O chefe do departamento que foi demitido..."（谁被解雇了？）
+- 清楚： "O chefe do departamento, que foi demitido..."（老板被解雇了）
+- 或者： "O departamento cujo chefe foi demitido..."（那个部门的老板被解雇了）
+
+### 自然的上限
+
+- 太多了： "A pessoa que conheci na reunião que aconteceu no escritório que fica no centro que estava lotado..."
+- 更自然： "Conheci uma pessoa na reunião do escritório do centro. A reunião estava lotada e..."
+
+### 常见例外
+
+### 专有名词往往不急着合并
+
+第一次提到时经常单独出现：
+
+- "João chegou. João é meu irmão."
+- 不常说： "João que é meu irmão chegou"（首次引入）
+
+### 通过重复来强调
+
+有意重复以制造效果：
+
+### 法律 / 技术写作
+
+这类文本优先考虑精确，而不是文风：
+
+- 会重复术语来避免歧义
+- 重复一点，也比含糊好
+
+### 话题转换时
+
+新话题就要重新完整引入：
+
+- 不要假设对方还记得
+- 关系代词必须有清楚的先行词
+
+### 口语偏好更简单的说法
+
+有时说话人更愿意直接重复：
+
+- 更容易处理
+- 尤其在情绪化场景里
+
+### 诗歌 / 歌词中的重复
+
+艺术性重复是为了节奏：
+
+- 歌词里会故意重复
+- 风格有时高于“避免重复”的规则

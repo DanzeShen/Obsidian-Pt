@@ -1,0 +1,157 @@
+# 否定命令式与发出命令、提出请求
+
+葡语里的否定命令式是在 "não" 后使用现在虚拟式，因此结构和肯定命令式完全不同。同时，巴西文化在提出否定请求时明显更偏好间接表达，而不是直接下命令。
+
+### 结构
+
+não + 现在虚拟式（所有人称）或 其他更礼貌的替代结构
+
+### 快速概览
+
+- **否定命令 = não + 上一课的 você 形式** ： *fale* → **não fale** 、 *faça* → **não faça** 。
+- 好消息： **você 和 tu 的否定形式相同** ——都说 **não fale** （只有肯定的 *tu* 形式 *fala* 不一样）。
+- 对一群人： **não falem!**、 **não comam!**
+- 同样的不规则，现在加 não： **não seja** 、 **não vá** 、 **não tenha** 、 **não faça** 。
+- 生硬的 *Não faça isso!* 会伤人——软化它： **Melhor não…** 、 **Evite…** 、 **Procure/Tente não…** ，或一句温暖的 **por favor** 。
+- 更委婉？改成提问： *Você **pode** não fumar aqui?*（更正式的“可以请你……吗？”在 B1 出现。）
+
+### 深入解析
+
+### 构成否定命令
+
+很简单：把 **não** 放在上一课的 *você* 命令前面。而且有个好处—— **você 和 tu 用同一个否定形式** ，所以只需学一个。
+
+| 肯定（você） | 否定 | 意思 |
+| --- | --- | --- |
+| fale | **não fale** | 别说 |
+| coma | **não coma** | 别吃 |
+| abra | **não abra** | 别开 |
+| espere | **não espere** | 别等 |
+
+*tu* 使用者注意：简短的肯定式 *Fala!* 在否定里变成 **Não fale!**（正式说话里不用 *não fala* ）。
+
+### 不规则否定
+
+上一课那些不规则动词，现在前面加 **não** ：
+
+| 动词 | 否定 | 例子 |
+| --- | --- | --- |
+| ser | **não seja** | Não seja assim! （别这样！） |
+| ter | **não tenha** | Não tenha medo! （别怕！） |
+| fazer | **não faça** | Não faça isso! （别那样做！） |
+| ir | **não vá** | Não vá embora! （别走！） |
+| vir | **não venha** | Não venha tarde! （别来晚了！） |
+| dar | **não dê** | Não dê bola! （别理它！） |
+| dizer | **não diga** | Não diga isso! （别这么说！） |
+
+### 对一群人说
+
+对 *vocês* 用第三人称复数——加 **\-m** ： **não falem!**、 **não comam!**、 **não venham!**
+
+### 软化“不”
+
+巴西人很少甩出生硬的 *não* 。几种更温和的说法：
+
+- **Melhor não** + 动词： *Melhor não falar disso agora.*（现在最好别谈这个。）
+- **Evite** + 动词/名词： *Evite fazer barulho.*（避免制造噪音。）
+- **Procure não** / **Tente não** + 动词： *Procure não se atrasar.*（尽量别迟到。）
+- 加 **por favor** ： *Por favor, não fume aqui.*（请别在这儿抽烟。）
+- 用 **pode** 提问： *Você **pode** não estacionar aqui?*（你能别停在这儿吗？）
+- **Dá para** + 动词： *Dá para não fazer barulho?*（能不能别出声？）
+
+（更客气的请求——“可以请你……吗？”那种——你会在 B1 用到条件式。）
+
+### 标志和官方告示
+
+无人称的 *não* 遍布巴西的标志——简短、直接，在这里一点也不失礼：
+
+- **Não pise na grama.** （请勿践踏草坪。）
+- **Não ultrapasse esta linha.** （请勿越过此线。）
+- **Favor não tocar.** （请勿触摸。）
+- **Não é permitido fumar.** （禁止吸烟。）
+
+### 巴西人为什么软化
+
+生硬的 *Não faça isso!* 听着像挑衅，所以人们把“不”裹上温度——一个微笑、一句 *por favor* 、一个小理由（ *é que o bebê está dormindo* ）。给个替代方案也管用——别用 *não* ，改说 *Que tal…?*： *Que tal ir amanhã?*（明天去怎么样？）。
+
+### 例子
+
+### 父母对孩子
+
+- " **Não mexa** no fogão!" （别碰炉子！）
+- " **Não saia** sem avisar!" （不打招呼别出去！）
+- " **Não fale** com a boca cheia!" （别满嘴东西说话！）
+- " **Não corra** dentro de casa!" （别在屋里跑！）
+
+### 礼貌的请求
+
+- "Por favor, **não faça** barulho depois das 22h." （请晚上10点后别出声。）
+- "Você **pode não** fumar perto da entrada?" （你能别在入口附近抽烟吗？）
+- " **Dá para não** estacionar na frente da garagem?" （能不能别停在车库门前？）
+
+### 在职场
+
+- " **Procure não** chegar atrasado à reunião." （尽量别开会迟到。）
+- " **Evite** usar o celular durante o expediente." （上班时间避免用手机。）
+- " **Melhor não** comentar isso com os outros." （最好别跟别人说这个。）
+
+### 朋友之间
+
+- " **Tente não** falar de política no jantar." （晚饭时尽量别聊政治。）
+- " **Que tal não** sair tão tarde?" （别那么晚出门怎么样？）
+- " **Melhor não** beber demais hoje." （今天最好别喝太多。）
+
+### 标志和告示
+
+- " **Não** pise na grama." （请勿践踏草坪。）
+- " **Não** ultrapasse esta linha." （请勿越过此线。）
+- " **Favor não** tocar." （请勿触摸。）
+- " **Não** é permitido fumar." （禁止吸烟。）
+
+### 常见例外
+
+### 紧急时不必委婉
+
+情况紧急就直说：
+
+- **Não pule!** （别跳！）
+- **Não toque, está quente!** （别碰，很烫！）
+- **Não entre, perigo!** （别进去，危险！）
+
+### 口语会省掉虚拟式
+
+在亲近的朋友和家人之间会听到简化说法：
+
+- **Não faz isso!** 代替 *Não faça isso!*
+- **Não vai lá!** 代替 *Não vá lá!*
+	大家都懂，虽然不是课本上的形式。
+
+### 句末柔化的“não”
+
+句末再加一个 **não** 是柔化命令，而不是双重否定：
+
+- **Não liga não.** （别放在心上。）
+- **Não faz isso não.** （哎呀，别这样。）
+
+### 有些是现成的
+
+有些否定命令是固定说法：
+
+- **Não se preocupe.** （别担心。）
+- **Não esquenta a cabeça.** （别烦心。）
+
+### 趣闻
+
+卡埃塔诺·维洛佐（Caetano Veloso）把一句否定命令变成了赞歌：他1968年的歌 **É Proibido Proibir** ——“禁止禁止”——借用了那年五月巴黎抗议墙上的口号，把它掷向巴西的军政府审查。他在 Festival Internacional da Canção 上首唱这首歌，它成了 Tropicália 运动的里程碑。来源： [Brazilian Political Pop archive](https://brazilianpoliticalpop.voices.wooster.edu/documents/document-3/) 。[上一个](https://falando.app/grammar/affirmative-imperative)
+
+[
+
+肯定命令式：tu / você 形式（fala!, coma!）
+
+](https://falando.app/grammar/affirmative-imperative)[
+
+下一步
+
+直接宾语代词：me、te、o、a、nos、os、as
+
+](https://falando.app/grammar/direct-object-pronouns)

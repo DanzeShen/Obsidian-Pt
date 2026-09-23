@@ -1,0 +1,171 @@
+# 交际功能：描述过去习惯、制定计划
+
+第1课给了你三个时态，这一课就是花掉它们的地方。在巴西你天天都要做的两件事：讲讲从前日子是怎么过的，以及把一句含糊的 *vamos marcar* 拽进某人一周里具体的某一天。唯一的新零件是 *costumar* ，其余的你都已经有了，只是要学会往哪儿用。
+
+### 结构
+
+过去的习惯：时间框架（quando eu era criança, antigamente）+ imperfeito · 或 costumava + 不定式 —— 计划：vou + 不定式 · Que tal…? · Vamos…? · marcar, combinar, remarcar
+
+### 快速概览
+
+- 先搭框架，imperfeito 自己就会往下走： **Antigamente, a gente morava no interior.**（我们以前住在乡下。）
+- **costumava + 不定式** 是明说的“以前常常”： *Ele costumava pescar.*（他以前常去钓鱼。）
+- *costumar* 不是 *acostumar* ——后者是“习惯于某事”
+- 习惯用普通的 imperfeito，绝不用 *estava fazendo*
+- 只发生一次就打破了习惯，要用 perfeito： *Uma vez eu fui a Salvador.*（我去过一次萨尔瓦多。）
+- 提议用 **Que tal…?**、 **Vamos…?** 或 **Topa…?** ——后接名词或不定式都行
+- **marcar** 把计划记进日程， **combinar** 把它说定， **remarcar** 把它改期
+- **Combinado!** 是给计划收尾的那个词
+- 光说 *Vamos marcar* 是一句热情的告别，不是约定——出现具体日子，计划才开始
+- 委婉拒绝： **Fica para a próxima.**（那就下次吧。）
+
+### 深入解析
+
+### 先搭框架，时态自己往下走
+
+单独一个 imperfeito 是含糊的：可能是习惯，可能是描写，也可能是别的事情的背景。句首的时间短语能把它定下来，而巴西人几乎总会放一个：
+
+| 框架 | 意思 |
+| --- | --- |
+| Quando eu era criança… | 我小时候…… |
+| Quando eu morava em Recife… | 我住在累西腓的时候…… |
+| Na época da faculdade… | 上大学那会儿…… |
+| Antigamente… | 以前、从前…… |
+| Naquela época… | 那个时候…… |
+| Nos anos 90… | 九十年代…… |
+
+框架一旦搭好，后面的一切都可以留在 imperfeito 里，不必重复时间短语： *Quando eu era criança, acordava cedo, ia pescar com o meu avô e voltava para o almoço.*（我小时候总是早早起床，跟爷爷去钓鱼，然后回家吃午饭。）
+
+至于“多久一次”，就用 A2 学过的频率词—— *sempre* 、 *todo dia* 、 *às vezes* 、 *de vez em quando* 。这一课讲的是包在它们外面的框架，不是那架频率梯子本身。
+
+### costumar：明说的“以前常常”
+
+imperfeito 的 *costumar* 加不定式，是这一课唯一的新工具。它说的和普通 imperfeito 是同一件事，但不把习惯交给上下文，而是直接把聚光灯打在习惯上——有点像中文“以前”和“以前常常”的差别：
+
+- Ele **pescava** aos domingos. ——他星期天钓鱼（是习惯，还是只是背景）
+- Ele **costumava pescar** aos domingos. ——他星期天 *常常* 去钓鱼，这就是要说的事
+
+| 人称 | 以前 | 现在 |
+| --- | --- | --- |
+| eu | costumava | costumo |
+| você, ele, ela | costumava | costuma |
+| nós | costumávamos | costumamos |
+| vocês, eles, elas | costumavam | costumam |
+
+两个动词之间什么都不加，绝不加介词： **Costumo acordar cedo.**（我一般起得早。）✗ *Costumo de acordar* 。实际上你只会在这两个时态里碰到它；将来时 *costumarei* 巴西人根本不说。
+
+### 从前对比现在
+
+在对话里，过去的习惯有一半的作用是量出它离今天有多远，所以前后两半通常成对出现：
+
+- **Antigamente** ninguém trancava a porta; **hoje em dia** todo mundo tem interfone.（以前没人锁门，现在家家都装对讲机。）
+- A gente brincava na rua. **Não era como hoje.**（我们以前在街上玩。跟现在不一样。）
+- **Bons tempos aqueles.**（那时候真好。）
+
+### 从一个好点子到日程上的一天
+
+巴西式的计划分四步搭起来，而学习者往往停在第一步：
+
+1. **提议。** *Que tal* 后接名词或不定式； *Vamos* 和 *Topa* 后接不定式。
+	- **Que tal** um churrasco no sábado?（周六烤个肉怎么样？）
+		- **Vamos** almoçar juntos?（一起吃午饭？）
+		- **Topa** ir ao cinema?（去看电影，来不来？）
+2. **试探日子。** —— Que dia você pode?（你哪天有空？）—— Qualquer dia menos quinta.（除了周四哪天都行。）
+3. **敲定。** *Então fica terça, às oito.*（那就周二八点。）
+4. **收尾。** *Combinado!*（就这么定了！）——正是这个词把整件事变成了承诺。
+
+如果说的是你自己的打算、而不是共同的计划，最干净的动词是 *pretender* + 不定式： **Pretendo ficar até domingo.**（我打算待到星期天。）
+
+### 负责安排的动词
+
+| 动词 | 作用 |
+| --- | --- |
+| marcar | 记进日程—— *Vou marcar com ela.*（我跟她约一下。） |
+| combinar | 双方说定—— *A gente combinou de sair.*（我们约好了出去。） |
+| remarcar | 改期—— *Podemos remarcar?*（能改个时间吗？） |
+| desmarcar | 取消—— *Tive que desmarcar.*（我只好取消了。） |
+| confirmar | 确认还作数—— *Confirmo na sexta.*（我周五跟你确认。） |
+
+*Marcar* 用 **com** 引出人，用 **para** 引出时间： **Marquei com o João para sexta.**（我跟若昂约了周五。）
+
+### 拒绝，但不把门关死
+
+干巴巴一句 *não posso* 不算失礼，但太光秃秃了。巴西人会把它说软一点、把门留条缝，通常一句话就够：
+
+- **Essa semana não vai dar.**（这周恐怕不行。）
+- **Fica para outro dia?**（那改天吧？）
+- **Me chama na semana que vem.**（下周再叫我。）
+
+### 从回忆拐到计划
+
+这一课的前后两半，多数时候其实是同一场对话，而且有一个固定的招式把它们接起来：
+
+—— **Lembra** quando a gente ia naquele bar da esquina?（还记得我们以前常去街角那家酒吧吗？）
+
+—— Nossa, **faz tempo**.（天哪，好久了。）
+
+—— Então **vamos marcar** de voltar lá.（那我们约个时间再去一趟吧。）
+
+看看最后一句做了什么：它接过那份怀旧，然后把它花掉。这一课要教的，就是这个本事。
+
+### 例子
+
+### 以前是这样的
+
+- “ **Quando eu era criança**, minha mãe **fazia** bolo toda sexta.”（我小时候，妈妈每个星期五都烤蛋糕。）
+- “ **Na época da faculdade**, eu **estudava** de madrugada.”（上大学那会儿，我都是半夜学习。）
+- “ **Nos anos 90**, a gente **alugava** filme na locadora.”（九十年代我们都去录像店租片子。）
+- “ **Naquela época**, ninguém **usava** capacete.”（那个时候没人戴头盔。）
+
+### costumar 上场
+
+- “Meu pai **costumava** ler o jornal no café da manhã.”（我爸以前常在早饭时看报纸。）
+- “ **Costumávamos** passar o Natal na casa da minha tia.”（我们以前一般在姑姑家过圣诞。）
+- “Eu **costumo** correr antes do trabalho.”（我一般上班前去跑步。）
+
+### 从前和现在
+
+- “ **Antigamente** a gente escrevia carta; **hoje em dia** é tudo mensagem.”（以前我们写信，现在全是发消息。）
+- “A rua **era** cheia de crianças; **agora** só tem carro.”（以前街上满是孩子，现在只剩下车了。）
+- “ **Bons tempos aqueles**, mas não volto atrás.”（那时候真好，不过我可不想回去。）
+
+### 把计划张罗起来
+
+- “ **Vamos** tomar um chope depois do expediente?”（下班后喝一杯？）
+- “ **Topa** um cinema no fim de semana?”（周末看个电影，来不来？）
+- “ **Pretendo** visitar meus pais em julho.”（我打算七月去看我爸妈。）
+- “ **Marquei** com a Bia **para** quinta.”（我跟比娅约了周四。）
+
+### 敲定、改期、放下
+
+- “— Sexta às sete? — **Combinado**.”（——周五七点？——就这么定了。）
+- “Surgiu um imprevisto, **podemos remarcar**?”（临时有点事，能改个时间吗？）
+- “ **Sábado eu não posso**, tenho um aniversário. **E domingo?**”（周六不行，我要去参加一个生日会。周日呢？）
+
+### 常见例外
+
+### costumar 和 acostumar 是两个动词
+
+*Costumar* 是出于习惯做某事； *acostumar-se* 是去适应一件新事物。 **Eu costumava morar no Rio.**（我以前住在里约。）· **Eu me acostumei com o calor.**（我已经习惯了炎热。）两个一换，句子照样合语法，意思却完全变了。
+
+### 只发生一次，就用 perfeito
+
+imperfeito 管的是反复发生的事。一旦你想说“有一次”，脚下的时态立刻就换了： **Eu ia à praia todo domingo** （我以前每个星期天都去海边），但 **Uma vez eu fui à praia de madrugada** （有一次我天刚亮就去了海边）。 *Uma vez* 、 *um dia* 、 *naquele dia* 都会把动词拉进 perfeito。
+
+### vamos marcar 还不算计划
+
+在对话结尾说出的 *vamos marcar* 和 *a gente se fala* 是热情的告别，分量正好等于“改天一起吃饭”。没人在说谎，也没人打算往日程上记什么。只有日子写进去，计划才开始存在——所以 *Que dia você pode?* 才是这一课最有用的一句问话。
+
+### combinar 还管你穿什么
+
+给计划收尾的同一个动词，还表示“搭配”： **A gente combinou de sair sábado.**（我们约好了周六出去。）· **Essa camisa combina com a calça.**（这件衬衫跟裤子很搭。）靠上下文轻松就能分开，但第一次碰到第二个意思还是会吓一跳。
+
+### ficar de 和 ficar para 干的是相反的活
+
+**Ficou de me ligar** 的意思是他答应了要打电话——一个承诺。 **Fica para a próxima** 的意思是往后推——一次延期。就差一个小词，计划要么成立，要么泡汤。
+
+### 趣闻
+
+**巴西最有名的一篇写“过去习惯”的文字，是用一个词和一个时态搭起来的。** 1962年1月7日，卡洛斯·德鲁蒙德·德·安德拉德在《晨邮报》（ *Correio da Manhã* ）上发表了一篇随笔，开头是 *“Antigamente as garotas chamavam-se mademoiselles”* ，接着一连几页全是被遗忘的说法，动词几乎清一色用 imperfeito，最后以 *“Mas tudo isso era antigamente”* 收尾。这篇文章以 *Antigamente* 为题收入文集 *Quadrante* ，至今仍会作为阅读材料出现在巴西的考试里——IFPE 在2016年就考过它。来源： [Portal da Crônica Brasileira](https://cronicabrasileira.org.br/cronicas/17441/era-assim) 、 [Estratégia Concursos](https://concursos.estrategia.com/public/questoes/ANTIGAMENTE-Carlos2025cff42b7/)
+
+**巴西人凑钱办烤肉时，用的是一个有百年历史的足球词。** 通常的说法是：二十世纪初的里约，球迷们凑钱给球员发报酬，并用“动物彩票”（jogo do bicho）里的动物给金额起名——5千雷斯叫 *um cachorro* （狗），2万5千雷斯叫 *uma vaca* （牛）。凑满一整头 *vaca* 需要很多人出手，于是指小形式留了下来，如今 *fazer uma vaquinha* 就只是“大家凑份子”的意思。来源： [Diário do Rio](https://diariodorio.com/expressao-fazer-uma-vaquinha-nasceu-por-conta-do-futebol-carioca-e-do-jogo-do-bicho/) 、 [Diário de um Linguista](https://diariodeumlinguista.com/2021/05/27/fazer-uma-vaquinha/)

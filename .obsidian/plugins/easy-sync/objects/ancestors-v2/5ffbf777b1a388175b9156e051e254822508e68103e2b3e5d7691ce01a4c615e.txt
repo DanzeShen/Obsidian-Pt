@@ -1,0 +1,273 @@
+# 复杂结构中的代词攀升
+
+所谓代词攀升，是指宾语代词可以从不定式或动名词“爬上去”，附着到复杂动词结构中的助动词或情态动词上，于是会出现 \`te quero ver\` 和 \`quero ver-te\` 这样的不同说法。巴西葡语强烈偏好“攀升后”的位置，而欧洲葡语保留了更大的灵活性。
+
+### 结构
+
+助动词 / 情态动词 + 代词 + 不定式 / 动名词 OR 助动词 / 情态动词 + 不定式 / 动名词 + 代词
+
+### 快速概览
+
+- **代词攀升** = 代词可以从不定式 / 动名词位置往主导动词上移动
+- 因而会出现：\` **te** vou chamar\` vs \`vou chamar- **te** \`
+- 常见于：\`querer\`、\`poder\`、\`dever\`、\`ir\`、\`estar\`、\`ter que\`、\`começar a\` 等结构
+- **巴西** ：几乎总是偏好攀升（\` **me** pode ajudar\`）
+- **葡萄牙** ：更灵活（\`pode- **me** \` 和 \`pode ajudar- **me** \` 都可能）
+- 和动名词连用时：\` **te** estou vendo\` vs \`estou vendo- **te** \`
+- 多个助动词时：代词通常爬到第一个动词上
+- 否定 / 疑问：在巴西，代词 **必须** 攀升
+- 有些动词会阻止攀升：\`decidir\`、\`resolver\`、\`conseguir\`
+- 这是让巴西葡语听起来自然的关键点
+
+### 深入解析
+
+### 什么是代词攀升？
+
+把代词想成一只只小猴子，会沿着动词树往上爬。在简单句里，它们老老实实待在自己的动词旁边：\`vejo-te\`（我看见你）。但一旦加上助动词，代词就可能一下子窜到更高的枝条上：\`posso te ver\`，而不是 \`posso ver-te\`。这就是代词攀升。
+
+### 攀升的基本结构
+
+当句子里出现“助动词 / 情态动词 + 不定式 / 动名词”时，代词有三种可能位置：
+
+1. **攀升后（前置到高位动词）** ：\`Te posso ver\`
+2. **中间位（附着在高位动词后）** ：\`Posso-te ver\`
+3. **留在原位（附着在不定式后）** ：\`Posso ver-te\`
+
+在巴西葡语里，第 1 种占主导。欧洲葡语则三种都活得很好。
+
+### 允许攀升的动词
+
+## 情态动词（强攀升者）：
+
+| 动词 | 攀升式 | 不攀升式 | 巴西偏好 |
+| --- | --- | --- | --- |
+| poder | me pode ajudar | pode ajudar-me | me pode ajudar |
+| dever | te devo dizer | devo dizer-te | te devo dizer |
+| querer | o quero ver | quero vê-lo | o quero ver / quero ver ele |
+| precisar | nos precisa avisar | precisa avisar-nos | nos precisa avisar |
+| saber | se sabe defender | sabe defender-se | se sabe defender |
+
+## 助动词（常见攀升者）：
+
+| 动词 | 攀升式 | 不攀升式 | 巴西偏好 |
+| --- | --- | --- | --- |
+| ir | te vou chamar | vou chamar-te | te vou chamar |
+| estar + -ndo | me está vendo | está vendo-me | me está vendo / está me vendo |
+| ter que/de | lhe tenho que falar | tenho que falar-lhe | tenho que falar com ele |
+| começar a | se começou a rir | começou a rir-se | se começou a rir / começou a se rir |
+| continuar a | nos continua ajudando | continua ajudando-nos | nos continua ajudando |
+| acabar de | o acabei de ver | acabei de vê-lo | acabei de ver ele |
+
+### 进行体（Estar + Gerúndio）的特殊情况
+
+进行时提供了最大的灵活度：
+
+1. **完全攀升** ：\`Te estou esperando\`
+2. **中间位** ：\`Estou-te esperando\`（仅葡萄牙）
+3. **夹在两个动词之间** ：\`Estou te esperando\`（巴西最爱）
+4. **留在动名词后** ：\`Estou esperando-te\`（正式 / 古风）
+
+**巴西现实：** \`Estou te esperando\` 或 \`Tô te esperando\`
+
+### 多重助动词链
+
+当有多个助动词时，代词通常会爬到第一个动词上：
+
+- \` **Me** vai poder ajudar\`（他将能够帮我）
+- \` **Te** tenho querido dizer\`（我一直想告诉你）
+- \` **Se** deve poder fazer\`（这应该可以做出来）
+
+但在巴西葡语里，它也可能落在两个动词之间：
+
+- \`Vai **me** poder ajudar\`
+- \`Tenho **te** querido dizer\`
+
+### 阻止攀升的动词
+
+有些动词会抗拒或阻止攀升：
+
+## 弱攀升 / 不攀升：
+
+- \`decidir\`：\`Decidi vê-lo\`（不是：~~\`O decidi ver\`~~）
+- \`resolver\`：\`Resolvi fazê-lo\`（不是：~~\`O resolvi fazer\`~~）
+- \`conseguir\`：\`Consegui encontrá-la\`（很少见：\`A consegui encontrar\`）
+- \`tentar\`：\`Tentei chamá-lo\`（很少见：\`O tentei chamar\`）
+- \`evitar\`：\`Evitei vê-lo\`（不是：~~\`O evitei ver\`~~）
+
+**为什么？** 因为这些动词表达的是完成、决定，而不是情态或体貌。
+
+### 前置触发词会强迫攀升
+
+在巴西葡语中，有些成分会强迫代词往上爬：
+
+| 触发词 | 例子 | 绝不 |
+| --- | --- | --- |
+| 否定 | `Não te posso ver` | ~~ `Não posso ver-te` ~~ |
+| 疑问 | `Quando me vai chamar?` | ~~ `Quando vai chamar-me?`~~ |
+| 从句 | `Disse que o vai fazer` | ~~ `Disse que vai fazê-lo` ~~ |
+| 副词 | `Já te quero ver` | ~~ `Já quero ver-te` ~~ |
+| 不定代词 | `Alguém me pode ajudar` | ~~ `Alguém pode ajudar-me` ~~ |
+
+### 巴西与欧洲的分裂
+
+| 结构 | 巴西葡语 | 欧洲葡语 |
+| --- | --- | --- |
+| “我想见你” | `Te quero ver / Quero te ver` | `Quero-te ver / Quero ver-te` |
+| “我能帮你” | `Te posso ajudar / Posso te ajudar` | `Posso-te ajudar / Posso ajudar-te` |
+| “我要给他打电话” | `Vou chamar ele / O vou chamar` | `Vou-lhe telefonar / Vou telefonar-lhe` |
+| “她正在读它” | `Ela tá lendo isso / Ela o está lendo` | `Está a lê-lo / Está-o a ler` |
+
+### 不定式 + 代词的融合规则
+
+当代词不攀升，而是附着在不定式后面时：
+
+## 和 \`-o, -a, -os, -as\` 连用：
+
+- \`ver + o → vê-lo\`
+- \`fazer + a → fazê-la\`
+- \`abrir + os → abri-los\`
+- \`pôr + as → pô-las\`
+
+## 和其他代词连用：
+
+- \`ver + me → ver-me\`
+- \`fazer + te → fazer-te\`
+- \`dar + lhe → dar-lhe\`
+- \`encontrar + se → encontrar-se\`
+
+### 真实巴西口语模式
+
+语法书怎么写，巴西人实际上怎么说：
+
+| 教材 | 现实生活 | 中文 |
+| --- | --- | --- |
+| Posso vê-lo | Posso ver ele | 我能看见他 |
+| Quero dar-lhe | Quero dar pra ele | 我想把它给他 |
+| Vou encontrá-la | Vou encontrar ela | 我要去见她 |
+| Está a fazer-se | Tá se fazendo | 它正在被做 |
+
+注意：巴西人经常干脆用强式代词，直接绕开整个问题。
+
+### 例子
+
+### 日常对话（巴西）
+
+- \` **Te** posso ligar mais tarde?\`（我晚点能给你打电话吗？）
+- \` **Me** vai esperar aqui?\`（你会在这里等我吗？）
+- \`Não **te** quero incomodar\`（我不想打扰你）
+- \`Ela **me** está devendo dinheiro\`（她欠我钱）
+- \` **Se** pode sentar ali\`（你可以坐那边）
+
+### 夹在两个助动词之间（巴西最爱）
+
+- \`Vou **te** ligar amanhã\`（我明天给你打电话）
+- \`Está **me** esperando lá fora\`（他在外面等我）
+- \`Pode **se** sentar\`（你可以坐下）
+- \`Quero **lhe** pedir um favor\`（我想请你帮个忙）
+- \`Estava **te** procurando\`（我当时在找你）
+
+### 正式写作（仍然偏不攀升）
+
+- \`Gostaria de **cumprimentá-lo** \`（我想向您致意）
+- \`Precisamos **informá-los** \`（我们需要通知你们）
+- \`Decidimos **apoiá-la** \`（我们决定支持她）
+- \`Conseguiram **encontrá-lo** \`（他们成功找到了他）
+
+### WhatsApp / 发短信
+
+- \` **te** vou mandar o link\`（我会把链接发你）
+- \`nao **me** pode ajudar?\`（你不能帮我吗？）
+- \` **se** vai encontrar cmg?\`（你会来和我见面吗？）
+- \`tava **te** querendo falar\`（我一直想和你说话）
+
+### 多个助动词一起
+
+- \` **Te** vou poder ajudar amanhã\`（我明天就能帮你）
+- \` **Me** tinha querido dizer isso\`（她那时本来想跟我说这件事）
+- \`Não **se** vai poder fazer nada\`（什么也做不了）
+- \` **Nos** devem estar esperando\`（他们应该在等我们）
+
+### 进行体的不同位置
+
+- \` **Te** estou vendo\`（我看见你了，正式 / 葡萄牙）
+- \`Estou **te** vendo\`（我看见你了，巴西标准）
+- \`Tô **te** vendo\`（我看见你了，巴西口语）
+- \`Estou vendo- **te** \`（我看见你了，古风 / 诗歌）
+
+### 疑问句会强迫攀升
+
+- \`Quando **me** vai pagar?\`（你什么时候给我钱？）
+- \`Como **te** posso ajudar?\`（我怎么帮你？）
+- \`Onde **o** vamos encontrar?\`（我们去哪儿找他？）
+- \`Por que **se** quer mudar?\`（为什么想搬家？）
+
+### 否定句会强迫攀升
+
+- \`Não **te** vou abandonar\`（我不会抛下你）
+- \`Nunca **me** pode visitar\`（你永远不能来看我）
+- \`Não **se** deve fazer isso\`（不应该这么做）
+- \`Jamais **o** vou esquecer\`（我永远不会忘记他）
+
+### 常见例外
+
+### Decidir / Resolver 的阻断效应
+
+这些动词会强烈抵抗攀升：
+
+- ❌ \`O decidi comprar\`
+- ✅ \`Decidi comprá-lo\`（我决定买它）
+- ❌ \`A resolvi chamar\`
+- ✅ \`Resolvi chamá-la\`（我决定给她打电话）
+
+例外：有些巴西人确实会说 \`Eu a decidi chamar\`，但听起来很用力。
+
+### 动名词位置的混乱
+
+在 \`estar + gerúndio\` 结构里，巴西葡语几乎什么都能出现：
+
+- \`Me está chamando\`（攀升）
+- \`Está me chamando\`（中间位，最常见）
+- \`Está chamando-me\`（末位，罕见）
+- \`Tá me chamando\`（缩减式，日常口语）
+
+### 双代词困境
+
+如果一句话里需要两个代词，攀升就会变得很复杂：
+
+- \`Ele mo pode dar\`（他能把它给我）- 很正式
+- \`Ele pode mo dar\` - 古旧
+- \`Ele pode dar pra mim\` - 巴西人真正会说的
+
+### Ter Que / De 的例外
+
+和其他助动词不同，\`ter que / de\` 在书面语里常常不喜欢攀升：
+
+- 书面：\`Tenho que lhe falar\`
+- 口语：\`Tenho que falar com ele\`
+- 绝不：~~\`Lhe tenho que falar\`~~（对巴西人来说很不自然）
+
+### 地区差异
+
+- **圣保罗** ：最大化攀升（\`Me pode ajudar\`）
+- **里约** ：偏好中间位（\`Pode me ajudar\`）
+- **东北** ：在正式场景里有时不攀升（\`Pode ajudar-me\`）
+- **南部** ：由于欧洲移民影响，会混用多种模式
+- **葡萄牙** ：所有位置都可能接受，选择取决于语境
+
+### Começar / Continuar / Acabar 的灵活性
+
+这些体貌动词对攀升的态度比较温和：
+
+- \`Começou a se rir\`（中间位，常见）
+- \`Se começou a rir\`（攀升，正式）
+- \`Começou a rir-se\`（末位，古风）
+
+和 \`acabar de\` 连用时，巴西人经常干脆回避代词：
+
+- 与其说 \`O acabei de ver\` → 更常说 \`Acabei de ver ele\`
+
+### 书面语与口语的两极
+
+- 学术论文：\`Deve-se observar\` 或 \`Deve observar-se\`
+- 学术报告：\`Se deve observar\`
+- 茶歇聊天：\`A gente deve observar\`

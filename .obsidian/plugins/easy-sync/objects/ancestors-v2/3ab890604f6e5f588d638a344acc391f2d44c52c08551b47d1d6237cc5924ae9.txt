@@ -1,0 +1,262 @@
+# 和愿望、怀疑、情绪表达连用
+
+虚拟语气用来表达主观性，也就是愿望、怀疑、情绪和假设情境；它和表达客观事实的陈述语气形成对比。对英语使用者来说，理解葡语使用者何时把现实看作不确定或主观，是一次重要的思维转换。
+
+### 结构
+
+主句（触发词） + que + 从句（虚拟式）
+
+### 快速概览
+
+- **虚拟式** = 主观 / 不确定的现实
+- **陈述式** = 客观 / 确定的事实
+- 由 WEIRDO 触发： Wishes, Emotions, Impersonal expressions, Recommendations, Doubt/Denial, Ojalá
+- 通常需要两个不同主语： Eu quero que você...
+- 情绪类动词： esperar, temer, alegrar-se
+- 怀疑类动词： duvidar, negar, não acreditar
+- 愿望类动词： querer, desejar, preferir
+- 核心思维变化： “它可能是” vs. “它就是”
+
+### 深入解析
+
+### 虚拟式思维方式
+
+## 陈述式 vs. 虚拟式：两种看待现实的方式
+
+| 陈述式（事实） | 虚拟式（主观性） |
+| --- | --- |
+| Ele está aqui（他在这里） | Duvido que ele esteja aqui（我怀疑他在这里） |
+| Ela sabe a resposta（她知道答案） | Espero que ela saiba（我希望她知道） |
+| Eles vêm amanhã（他们明天来） | Talvez eles venham（也许他们会来） |
+
+## 这种思维转换是：
+
+- Indicative：这就是现实
+- Subjunctive：这可能是 / 这是我感受到的 / 这是我希望的现实
+
+### WEIRDO：虚拟式触发器
+
+## W - Wishes and Desires（愿望与欲望）
+
+- querer que（希望……）
+- desejar que（祝愿……）
+- preferir que（更希望……）
+- esperar que（希望……）
+
+Examples:
+
+- **Quero que** você **seja** feliz（我希望你幸福）
+- **Desejo que** tudo **corra** bem（我希望一切顺利）
+- **Prefiro que** ele **não venha** （我更希望他别来）
+
+## E - Emotions and Feelings（情绪与感受）
+
+- alegrar-se que（为……高兴）
+- sentir que（为……感到遗憾）
+- ter medo que（害怕……）
+- lamentar que（遗憾……）
+- gostar que（喜欢……）
+- odiar que（讨厌……）
+
+Examples:
+
+- **Fico feliz que** você **esteja** aqui（我很高兴你在这里）
+- **Lamento que** ela **não possa** vir（我遗憾她不能来）
+- **Tenho medo que** **seja** tarde（我担心已经晚了）
+
+## I - Impersonal Expressions（无人称表达）
+
+- É importante que（重要的是……）
+- É necessário que（有必要……）
+- É possível que（有可能……）
+- É provável que（很可能……）
+- É bom que（……是好的）
+- É melhor que（最好……）
+
+Examples:
+
+- **É importante que** todos **entendam** （重要的是大家都懂）
+- **É possível que** **chova** （有可能会下雨）
+- **É melhor que** você **fique** （你最好留下）
+
+## R - Recommendations and Requests（建议与请求）
+
+- sugerir que（建议……）
+- recomendar que（推荐 / 建议……）
+- pedir que（请求……）
+- aconselhar que（劝告……）
+- exigir que（要求……）
+- insistir que（坚持要求……）
+
+Examples:
+
+- **Sugiro que** você **estude** mais（我建议你多学一点）
+- **Peço que** me **ajudem** （我请求你们帮我）
+- **Recomendo que** **procure** um médico（我建议你去看医生）
+
+## D - Doubt and Denial（怀疑与否认）
+
+- duvidar que（怀疑……）
+- negar que（否认……）
+- não acreditar que（不相信……）
+- não achar que（不认为……）
+- não é certo que（并不确定……）
+
+Examples:
+
+- **Duvido que** ele **saiba** （我怀疑他知道）
+- **Não acredito que** **seja** verdade（我不相信这是真的）
+- **Nego que** **tenha** dito isso（我否认自己说过这个）
+
+## O - Ojalá（以及类似表达）
+
+- Tomara que（希望……）
+- Oxalá（但愿……）
+- Que（愿……）
+- Talvez（也许）
+
+Examples:
+
+- **Tomara que** **faça** sol!（希望出太阳！）
+- **Oxalá** **pudesse** ajudar（但愿我能帮上忙）
+- **Que** Deus te **abençoe**!（愿上帝保佑你！）
+
+### 双主语规则
+
+## 虚拟式通常要求主句和从句主语不同：
+
+- Main clause subject ≠ Subordinate clause subject
+- Eu quero que **você** venha（我希望你来）
+- NOT: Eu quero que eu venha ❌
+
+## 同主语 = 不定式：
+
+- Eu quero vir（我想来） ✓
+- Ela prefere ficar（她更愿意留下） ✓
+
+## 例外：无人称表达
+
+- É importante (eu) estudar OR É importante que eu estude
+
+### 确定 vs. 不确定
+
+## 确定 = 陈述式：
+
+- Sei que ele **está** em casa（我知道他在家）
+- É certo que ela **virá** （确定她会来）
+- Tenho certeza que **funciona** （我确定这管用）
+
+## 不确定 = 虚拟式：
+
+- Não sei se ele **esteja** em casa（我不知道他是不是在家）
+- Não é certo que ela **venha** （不确定她会不会来）
+- Duvido que **funcione** （我怀疑这管不管用）
+
+### 情绪强度等级
+
+## 不同情绪触发虚拟式的力度也不同：
+
+| 弱情绪 | 强情绪 |
+| --- | --- |
+| Acho que + indicative | Espero que + subjunctive |
+| Parece que + indicative | Temo que + subjunctive |
+| Creio que + indicative | Fico feliz que + subjunctive |
+
+## 巴西葡语的倾向：
+
+- 正向、确定性的表达往往保留陈述式
+- 否定 / 怀疑几乎一定触发虚拟式
+
+### 常见表达模式
+
+## 给别人的祝愿：
+
+- Que você **tenha** um bom dia!（祝你今天愉快！）
+- Que tudo **dê** certo!（愿一切顺利！）
+- Que Deus **te** proteja!（愿上帝保佑你！）
+
+## 礼貌请求：
+
+- Gostaria que você **considerasse**...（我希望你考虑一下……）
+- Seria bom que **pudéssemos**...（如果我们能……会更好）
+
+## 表达担心：
+
+- Receio que **não dê** tempo（我担心来不及）
+- Tenho medo que ele **se machuque** （我怕他会受伤）
+
+### 例子
+
+### 日常愿望与希望
+
+- " **Espero que** você **tenha** um ótimo dia!"（希望你今天过得特别好！）
+- " **Tomara que** não **chova** no fim de semana"（希望周末别下雨）
+- " **Quero que** vocês **sejam** muito felizes"（我希望你们非常幸福）
+- " **Desejo que** todos os seus sonhos **se realizem** "（我希望你的梦想都能实现）
+
+### 表达怀疑
+
+- " **Duvido que** ele **chegue** a tempo"（我怀疑他能按时到）
+- " **Não acredito que** ela **tenha** mentido"（我不相信她撒了谎）
+- " **Não acho que** isso **funcione** "（我不觉得这会奏效）
+- " **É improvável que** **aconteça** hoje"（今天发生的可能性很低）
+
+### 情绪反应
+
+- " **Fico triste que** você **pense** assim"（我很难过你会这样想）
+- " **Me alegra que** vocês **estejam** bem"（你们一切都好让我很高兴）
+- " **Lamento que** as coisas **sejam** assim"（我很遗憾事情是这样）
+- " **Surpreende-me que** ele **não saiba** "（他居然不知道，这让我很惊讶）
+
+### 建议和忠告
+
+- " **Sugiro que** você **fale** com ela"（我建议你和她谈谈）
+- " **É melhor que** **esperemos** um pouco"（我们最好再等一下）
+- " **Recomendo que** **procurem** ajuda"（我建议你们寻求帮助）
+- " **Aconselho que** **pensem** bem"（我劝你们好好想想）
+
+### 无人称表达
+
+- " **É importante que** todos **participem** "（重要的是大家都参与）
+- " **É possível que** **haja** mudanças"（有可能会有变化）
+- " **É necessário que** **tomemos** uma decisão"（我们有必要做出决定）
+- " **É provável que** ele **aceite** "（他很可能会接受）
+
+### 常见例外
+
+### 确定性表达会抵抗虚拟式
+
+即使带着情绪词也一样：
+
+- "Tenho certeza que ele vem"（陈述式）
+- NOT: "Tenho certeza que ele venha"
+
+### 肯定句里的 Achar = 陈述式
+
+- "Acho que ela está certa"（我觉得她是对的）
+- 但否定后： "Não acho que ela esteja certa"
+
+### Talvez 的灵活性
+
+两种语气都可能出现：
+
+- "Talvez ele venha"（虚拟式 - 传统）
+- "Talvez ele vem"（陈述式 - 口语）
+
+### 同主语时的例外
+
+有些无人称表达两种都能用：
+
+- "É importante estudar" OR "É importante que eu estude"
+
+### 地区性的语气偏好
+
+- Portugal：更多虚拟式
+- 巴西城市口语：更多不定式替代
+- 巴西乡村：更保留传统虚拟式
+
+### 肯定 Espero 的歧义
+
+- "Espero que" + 虚拟式 = 我希望
+- "Espero" + 不定式 = 我等待 / 我预期
+- 语境很关键

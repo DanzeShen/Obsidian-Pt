@@ -1,0 +1,266 @@
+# 避免被动语态，改用主动表达
+
+虽然葡语存在正式的被动语态结构，但巴西人压倒性地更偏好使用非人称结构、第三人称复数，或带 se 的表达来替代被动，让语言听起来更自然、更有动作感。
+
+### 结构
+
+ser + 过去分词（正式被动）→ se + 动词、第三人称复数、a gente，或改写成主动句
+
+### 快速概览
+
+- **正式被动** （ser + 分词）在日常巴西葡语里会显得生硬
+- **se 被动** 是最常见的替代： "Vende-se casa"（房屋出售）
+- **第三人称复数** 不说主语也能制造被动意义： "Roubaram meu celular"（我的手机被偷了）
+- **"a gente"** 可用于泛指： "A gente nunca sabe"（谁也说不准）
+- **主动改写** 能改变句子的焦点： "O livro que João escreveu" 比 "O livro foi escrito por João" 更自然
+- **estar / ficar + 分词** 常用于表达结果状态： "A porta está fechada"
+- **带 se 的被动** 在正式书写中需要做一致
+- 不同地区会偏好不同方案，圣保罗更常见 "se" 结构
+- 正式被动主要保留在新闻、学术写作和法律文本里
+
+### 深入解析
+
+### 巴西葡语里的“被动语态问题”
+
+葡语当然有正式被动语态，但在日常对话里频繁使用它，就像穿着燕尾服去海边一样，技术上没错，实际却非常不合场景。巴西人发展出了很多创造性的办法，既能表达被动含义，又能让句子保持主动、自然、流动。
+
+### 正式被动结构（课本里的标准方式）
+
+传统被动语态使用 **ser + 过去分词 + por** ：
+
+- 主动： "João escreveu o livro"（若昂写了这本书）
+- 被动： "O livro foi escrito por João"（这本书是若昂写的）
+
+| 主动句成分 | 被动句中的变化 |
+| --- | --- |
+| 主语（João） | 变成带 "por" 的施事者（por João） |
+| 动词（escreveu） | 变成 ser + 分词（foi escrito） |
+| 宾语（o livro） | 变成新的主语（O livro） |
+
+## 巴西人真正会在什么时候用它：
+
+- 新闻标题： "Presidente foi reeleito"（总统再次当选）
+- 法律文件： "O contrato será assinado"（合同将被签署）
+- 学术写作： "Os dados foram analisados"（数据已被分析）
+- 强调结果： "A casa já foi vendida"（房子已经卖掉了）
+
+### Se 被动（最常见的替代方案）
+
+反身标记 "se" 可以在不使用正式被动结构的情况下制造被动意义：
+
+**模式：** se + 第三人称动词
+
+- "Vende-se casa"（房屋出售 / 房子正在卖）
+- "Aluga-se quarto"（房间出租）
+- "Fala-se português aqui"（这里说葡语）
+- "Come-se bem neste restaurante"（这家餐厅吃得很好）
+
+## 一致规则（正式书写中）：
+
+- 单数宾语： "Vende-se **casa** "（动词单数）
+- 复数宾语： "Vendem-se **casas** "（动词复数）
+- 但口语中： "Vende-se casas"（很常见，但按规范算“不正确”）
+
+### 神秘的“他们”（第三人称复数）
+
+巴西人特别喜欢用“他们”来表达被动意义，却根本不说是谁：
+
+**模式：** 第三人称复数动词（不说主语）
+
+- " **Roubaram** meu celular"（他们偷了我的手机 = 我的手机被偷了）
+- " **Aumentaram** os preços"（他们涨价了 = 价格被提高了）
+- " **Me disseram** que..."（他们告诉我…… = 我被告知……）
+- " **Estão construindo** um shopping"（他们在建商场 = 商场正在被建）
+
+这样既表达了被动意义，又保留了主动句的动感。
+
+### "A Gente" 方案
+
+用于一般事实或泛指说法：
+
+**模式：** a gente + 动词
+
+- "A gente nunca sabe"（人永远说不准 / 谁也说不准）
+- "A gente sempre ouve isso"（这种话总能听到）
+- "A gente vê cada coisa"（人什么都能见到 / 这种事也看得到）
+
+### 主动改写策略
+
+巴西人常常不会把句子变成被动，而是直接换一种说法：
+
+| 倾向使用被动的场合 | 巴西式解决办法 | 例子 |
+| --- | --- | --- |
+| "Foi feito por..." | 改用主动动词 | "João fez" 代替 "Foi feito por João" |
+| "É conhecido como..." | 改成 "Chamam de..." | "Chamam ele de Pelé" 而不是 "É conhecido como Pelé" |
+| "Foi decidido que..." | 改成 "Decidiram que..." | "Decidiram cancelar" 而不是 "Foi decidido cancelar" |
+| "É considerado..." | 改成 "Consideram..." | "Consideram ele o melhor" 而不是 "É considerado o melhor" |
+
+### Estar / Ficar + 分词（状态被动）
+
+当重点不是动作本身，而是动作造成的状态时：
+
+**Estar + 分词** （当前状态）：
+
+- "A loja **está fechada** "（店关着）
+- "O trabalho **está pronto** "（工作已经准备好了）
+- "Ela **está preocupada** "（她很担心）
+
+**Ficar + 分词** （状态变化）：
+
+- "A porta **ficou aberta** "（门一直开着 / 门变成开着）
+- "Ele **ficou surpreso** "（他吃了一惊）
+- "O carro **ficou destruído** "（车毁了）
+
+### 不同语境下的被动替代方案
+
+## 在餐馆：
+
+- ❌ "O prato é servido com arroz"
+- ✅ "O prato **vem** com arroz"（这道菜配米饭）
+- ✅ " **Servem** o prato com arroz"（他们会把这道菜配米饭上）
+
+## 在商店：
+
+- ❌ "Cartão é aceito"
+- ✅ " **Aceitamos** cartão"（我们收卡）
+- ✅ " **Aceita-se** cartão"（可刷卡）
+
+## 在说明指令里：
+
+- ❌ "O botão deve ser pressionado"
+- ✅ " **Aperte** o botão"（按按钮）
+- ✅ " **Tem que apertar** o botão"（得按这个按钮）
+
+## 在描述场景时：
+
+- ❌ "A cidade pode ser vista daqui"
+- ✅ " **Dá pra ver** a cidade daqui"（从这里能看到这座城市）
+- ✅ " **A gente vê** a cidade daqui"（从这里看得到这座城市）
+
+### 语体与正式程度的刻度
+
+| 最正式 | → | → | → | 最口语 |
+| --- | --- | --- | --- | --- |
+| Foi realizado | Realizou-se | Realizaram | Fizeram | Fizeram / Rolou |
+| （它被举行了） | （它被举行了） | （他们办了） | （他们做了） | （就这么发生了） |
+
+### 例子
+
+### 新闻 vs. 对话
+
+**电视新闻：** "O suspeito **foi detido** pela polícia"
+
+**WhatsApp：** " **Prenderam** o cara" / "O cara **foi preso** "
+
+**报纸：** "As medidas **serão implementadas** em janeiro"
+
+**咖啡闲聊：** " **Vão implementar** as medidas em janeiro"
+
+### 餐馆与服务场景
+
+- " **Aceita-se** vale-refeição"（接受餐券）
+- " **Não se devolve** dinheiro"（不退款 / 不退现金）
+- "Aqui **se come** bem e barato"（这里吃得好又便宜）
+- " **Fazem** entrega?"（你们送外卖吗？）
+- " **Como é feito** esse prato?"（这道菜是怎么做的？）
+
+### 标牌与告示
+
+- " **Aluga-se** "（出租）
+- " **Vende-se** esta casa"（此房出售）
+- " **Procura-se** vendedor"（招聘销售）
+- " **Conserta-se** celular"（修手机）
+- " **Não se aceita** devolução"（不接受退货）
+
+### 职场沟通
+
+**正式邮件：** "O projeto **foi aprovado** pela diretoria"
+
+**团队会议：** "A diretoria **aprovou** o projeto"
+
+**茶水间聊天：** " **Aprovaram** o projeto!"
+
+### 社交媒体
+
+- " **Me marcaram** numa foto horrível"（他们把我标进了一张超丑的照片里）
+- " **Hackearam** minha conta!"（我账号被黑了！）
+- " **Cancelaram** o show"（演出取消了）
+- "Meu story **foi visualizado** 100 vezes"（少见地用被动，是为了强调）
+
+### 常见固定说法
+
+- " **Se vê** que..."（看得出来……）
+- " **Dizem** que..."（据说……）
+- " **Como se diz** isso?"（这个怎么说？）
+- " **Não se faz** mais como antigamente"（现在已经没人那样做了）
+- " **Se sabe** lá"（谁知道呢）
+
+### 说明书和菜谱
+
+**正式菜谱：** "Os ingredientes **são misturados**..."
+
+**巴西式菜谱：** " **Mistura** tudo..." 或 " **Misture** os ingredientes..."
+
+**说明书：** "O aparelho **deve ser desligado** "
+
+**真实巴西说法：** " **Tem que desligar** o aparelho"
+
+### 常见例外
+
+### 什么时候被动语态反而更合适
+
+有时巴西人确实会优先用正式被动：
+
+1. **强调事情已经完成：**
+	- "Já **foi pago** "（已经付了）- 强调已经搞定
+		- " **Tá feito** " 也行，但 "foi feito" 更像板上钉钉
+2. **官方通知：**
+	- "O voo **foi cancelado** "（航班已取消）
+		- 新闻和机场会用被动来增强正式感和分量
+3. **施事者未知或不重要：**
+	- "Meu carro **foi roubado** "（我的车被偷了）
+		- 当你根本不知道是谁做的
+4. **法律 / 医疗语境：**
+	- "O paciente **foi operado** "（病人做了手术）
+		- "O réu **foi condenado** "（被告被定罪）
+
+### Se 被动中的一致混乱
+
+## 规范语法要求：
+
+- "Vende-se casa"（单数）
+- "Vendem-se casas"（复数）
+
+## 但很多巴西人会说：
+
+- "Vende-se casas"（把 "se" 当作非人称来处理）
+
+两种都能听到，但正式写作仍要求一致。
+
+### Ter 和 Estar + 分词
+
+- **Estar** ：临时状态 - "A porta **está** fechada"
+- **Ter** ：拥有某种处理好的状态 - " **Tenho** tudo preparado"
+- 地区差异：有的地方更爱用 "ter"，有的地方更爱用 "estar"
+
+### 假被动
+
+这些看起来像被动，其实不是：
+
+- "Estou perdido"（我迷路了）- 不是“我正在被弄丢”
+- "Ela é casada"（她已婚）- 是状态，不是被动动作
+- "Fico irritado"（我会烦）- 是状态变化
+
+### "Por" 的问题
+
+当你不得不用带施事者的被动时：
+
+- "Por" 要缩合： por + o = pelo，por + a = pela
+- 所以很多人干脆完全回避： "O livro de João" 而不是 "escrito por João"
+
+### 地区差异
+
+- **圣保罗：** 更多 "se" 结构
+- **里约：** 更爱第三人称复数
+- **东北部：** 更擅长创造性主动改写
+- **南部：** 对正式被动稍微更能接受一些

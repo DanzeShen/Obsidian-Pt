@@ -1,0 +1,244 @@
+# 巴西葡萄牙语字母表
+
+自 2009 年 K、W 和 Y 被正式纳入后，巴西葡萄牙语字母表共有 26 个字母。它的字母名称和常见发音与英语差异很大，而且若干特殊字母组合会产生非常典型的葡语音色。
+
+### 结构
+
+字母名称 + 常见发音 + 位置规则
+
+
+### 快速概览
+
+- 一共 26 个字母（A-Z）
+- K、W、Y 在 2009 年正式纳入
+- 元音有 A、E、I、O、U，而且通常都会发音
+- 常见特殊组合有 CH、LH、NH、RR、SS
+- Ç（cedilha）不算独立字母，但发软 C / S 音
+- 字母名称和英语差别很大
+- 不像英语那样充满不发音字母
+- 发音规则整体更稳定
+- 这套知识常用于拼写、缩写、编码和电话号码
+- 地区差异主要体现在 R、S、D 等音位上
+
+### 深入解析
+
+### 完整字母表
+
+## 字母名称与基本发音：
+
+| 字母 | 名称 | IPA | 发音提示 |
+| --- | --- | --- | --- |
+| A | á | /a/ | 啊音 |
+| B | bê | /be/ | 贝 |
+| C | cê | /se/ | 塞 |
+| D | dê | /de/ | 得 |
+| E | é | /ɛ/ | 开口 e |
+| F | éfi | /ˈɛfi/ | 埃菲 |
+| G | gê | /ʒe/ | 热 |
+| H | agá | /aˈga/ | 阿加 |
+| I | i | /i/ | 衣 |
+| J | jóta | /ˈʒɔta/ | 若塔 |
+| K | ká | /ka/ | 卡 |
+| L | éli | /ˈɛli/ | 埃利 |
+| M | émi | /ˈemi/ | 埃米 |
+| N | éni | /ˈeni/ | 埃尼 |
+| O | ó | /ɔ/ | 开口 o |
+| P | pê | /pe/ | 佩 |
+| Q | quê | /ke/ | 克 |
+| R | érri | /ˈɛʁi/ | 埃希 |
+| S | éssi | /ˈɛsi/ | 埃西 |
+| T | tê | /te/ | 特 |
+| U | u | /u/ | 乌 |
+| V | vê | /ve/ | 维 |
+| W | dáblio | /ˈdabliu/ | 达布利乌 |
+| X | xis | /ʃis/ | 希斯 |
+| Y | ípsilon | /ˈipsilõ/ | 伊普西隆 |
+| Z | zê | /ze/ | 泽 |
+
+*提示：在学校里也常听到更短的字母名称 \`efe\`、\`ele\`、\`eme\`、\`ene\`、\`erre\`、\`esse\`（对应 F、L、M、N、R、S）——两种说法都正确。*
+
+### 特殊字母组合
+
+## 葡语中的常见双字母：
+
+- **CH** ：通常类似英语里的 \`sh\`（chave = SHA-vee）
+- **LH** ：类似英语 million 中的 \`lli\`（filho = FEE-lyo）
+- **NH** ：类似英语 canyon 中的 \`ny\`（sonho = SO-nyo）
+- **RR** ：较强的 H 音（carro = KAH-ho）
+- **SS** ：普通的 S 音（passo = PAH-so）
+- **QU** ：通常发 \`k\`（quero = KEH-ro）
+- **GU** ：通常发 \`g\`（guerra = GEH-ha）
+
+### 特殊的 Ç（cedilha）
+
+## 它不是独立字母，但非常重要：
+
+- 总是发成 \`S\` 音
+- 不会出现在词首
+- 常见于：ação、coração、começar
+- 在巴西键盘上通常通过 \`' + C\` 输入
+
+### 元音发音
+
+## 每个元音都可能对应不止一种声音：
+
+**A** ：
+
+- 开口音：casa \[KAH-za\]
+- 鼻化音：maçã \[ma-SÃ\]
+
+**E** ：
+
+- 开口音：café \[ka-FÉ\]
+- 闭口音：mesa \[MEH-za\]
+- 弱化音：leite \[LAY-chee\]
+
+**O** ：
+
+- 开口音：nova \[NOH-va\]
+- 闭口音：novo \[NO-vu\]
+- 弱化音：como \[KO-mu\]
+
+### 常见拼写模式
+
+## 口头拼字时：
+
+- 要清楚地说出字母名称
+- 为了更清楚，常补一句：\`A de amor\`（A，像 amor 里的 A）
+- 例如：\`B de bola\`、\`C de casa\`
+- 双写字母：\`S-S\`（dois esses，两个 S）
+- 大写：\`J maiúsculo\`
+- 小写：\`j minúsculo\`
+
+## 口头拼字时的常见写法（A de amor）：
+
+- A - Amor
+- B - Bola
+- C - Casa
+- D - Dado
+
+### K、W、Y 的加入
+
+## 它们主要用于：
+
+- 外来人名：Wilson、Kelly、Yuri
+- 国际词汇：website、kit、yoga
+- 计量单位：kg（quilograma）、km
+- 国家或专名：Kuwait、Wagner
+
+## 传统葡语词汇里一般不用这三个字母。
+
+### 地区发音差异
+
+## 字母 R：
+
+- 里约：更强的 H 音 \[x\]
+- 圣保罗：较柔和的 H 音 \[h\]
+- 南部部分地区：有时会卷舌或颤动
+
+## 字母 S：
+
+- 里约：词尾常像 \`sh\` \[ʃ\]
+- 圣保罗：词尾更常是 \[s\]
+
+## D 在 I 前：
+
+- 里约 / 东北部：常近似 \`dji\`
+- 圣保罗 / 南部：更接近纯 \`di\`
+
+### 例子
+
+### 拼写名字
+
+- \`"Meu nome é Ana. A-N-A."\`（我叫 Ana。A-N-A。）
+- \`"João. J-O-Ã-O. J de José, O, A com til, O."\`（João。J-O-Ã-O。J 取自 José，O，带波浪号的 A，O。）
+- \`"É Smith. S-M-I-T-H. S de sapo..."\`（是 Smith。S-M-I-T-H。S 取自 sapo。）
+- \`"Com dois S. C-A-S-S-I-O."\`（有两个 S。C-A-S-S-I-O。）
+
+### 常见缩写
+
+- CPF \[se-pe-ˈɛfi\]（税号）
+- RG \[ˈɛʁi-ˈʒe\]（身份证）
+- CEP \[se-e-ˈpe\]（邮编）
+- USP \[u-ˈɛsi-ˈpe\]（圣保罗大学）
+
+### 拼写时常见的卡点
+
+- \`"É com C ou com S?"\`（是用 C 还是 S？）
+- \`"Wilson com W de Walter"\`（Wilson，W 取自 Walter。）
+- \`"Kelly com K de Kuwait e Y de ípsilon"\`（Kelly，K 取自 Kuwait，Y 在葡语里叫 ípsilon。）
+- \`"Ph.D. - P-H ponto D"\`（Ph.D.——P-H 点 D。）
+
+### 字母音值练习
+
+- G 在 E/I 前：gente \[ZHEN-chee\]，giro \[ZHEE-ro\]
+- C 在 E/I 前：certo \[SEHR-to\]，cidade \[see-DAH-dee\]
+- 词首 R：Rio \[HEE-o\]，rato \[HA-to\]
+- X 的不同读法：táxi \[TAK-see\]，exemplo \[e-ZEHM-plo\]
+
+### 常见混淆
+
+- 拼写时的 E 和 I：\`"É 'e' de elefante ou 'i' de igreja?"\`
+- G 和 J：\`"É 'gê' ou 'jota'?"\`
+- S 和 Z：\`"Começa com 's' ou 'z'?"\`
+
+### 常见例外
+
+### H 永远不单独发音
+
+- 在单词里通常不发音：hotel \[o-TEW\]、homem \[OH-mem\]
+- 但在 CH、LH、NH 中会参与构成特殊发音
+- 单独拼字母时它念作 \`agá\`
+
+### X 有四种常见读法
+
+- \[ʃ\]：xícara（SHE-ka-ra）
+- \[s\]：próximo（PRÓK-see-mo）
+- \[z\]：exemplo（e-ZEM-plo）
+- \[ks\]：táxi（TAK-see）
+
+### 双写字母
+
+真正改变发音的主要是 RR 和 SS：
+
+- carro \[KA-ho\] 对比 caro \[KA-ro\]
+- passo \[PA-so\] 对比 *paso* （葡语里不存在）
+
+### 外来词保留原拼写
+
+- shopping、notebook、marketing
+- 但会按葡语习惯去读
+
+### QU 和 GU 的不规则情况
+
+有时 U 会真正发出来：
+
+- frequente \[fre-KWEN-te\]
+- linguiça \[lin-GWI-sa\]
+
+### 地区性的字母名称差异
+
+有些地方会说：
+
+- \`fê\` 而不是 \`éfi\`
+- \`lê\` 而不是 \`éli\`
+
+### 趣闻
+
+### K、W、Y 曾被移除，后又重新加入
+
+1943 年至 2009 年间，巴西葡萄牙语的官方字母表只有 23 个字母。1943 年的《Formulário Ortográfico》把 K、W、Y 从字母表中去除（分别以 \`c\`、\`qu\` 或 \`v\` 替代），直到 1990 年的《葡萄牙语正字法协议》——巴西于 2009 年全面实施——才把这三个字母重新纳入，使字母表符合 ISO 拉丁字母 26 字母标准。所以所谓"新加入"的字母，其实只是回归。
+
+*来源： [1943 年葡萄牙语正字法（Wikipedia）](https://en.wikipedia.org/wiki/1943_Portuguese_Orthographic_Form) 、 [1990 年正字法协议（Wikipedia）](https://en.wikipedia.org/wiki/Portuguese-Language_Orthographic_Agreement_of_1990) 。*
+
+### "Cedilha" 字面意思就是"小 z"
+
+*cedilha* 一词源自西班牙语指小词 *cedilla* （意为"小 *ceda* /zeta"）。在中世纪的西哥特文书体中，字母 \`z\` 的带尾变体（ꝣ）常被写在 \`c\` 旁边以表示 /ts/ 音；久而久之，那个小 \`z\` 就和 \`c\` 融合成今天我们写的带小尾巴的 \`ç\`。葡萄牙语保留了这个符号；西班牙语则在 1726 年正式废除。
+
+*来源： [Cedilla（Wikipedia）](https://en.wikipedia.org/wiki/Cedilla) 、 [Ç（Wikipedia）](https://en.wikipedia.org/wiki/%C3%87) 。*
+
+### 波浪符（~）原本是一个小小的"n"
+
+中世纪的拉丁抄写员为了节省羊皮纸，常常省略词尾的 \`n\` 或 \`m\`，并在前面的元音上方写一个小小的 \`n\` 作为缩略符号。几个世纪后，那个上标的 \`n\` 逐渐演化为今天的 \`~\`，这也解释了为什么葡萄牙语的鼻化元音 \`ã\`、\`õ\` 在词源上"藏着"一个 \`n\`：\`mão\` 来自拉丁语 \`manus\`，\`pão\` 来自 \`panis\`，\`cão\` 来自 \`canis\`。
+
+*来源： [Tilde（Wikipedia）](https://en.wikipedia.org/wiki/Tilde) 。

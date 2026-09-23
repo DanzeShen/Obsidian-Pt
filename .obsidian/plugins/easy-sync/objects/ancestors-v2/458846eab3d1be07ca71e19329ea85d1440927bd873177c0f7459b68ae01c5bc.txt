@@ -1,0 +1,229 @@
+# 学术写作惯例
+
+葡语中的学术写作要求掌握正式语体、非人称结构、被动语态、高级词汇、复杂句式，以及一整套与日常葡语截然不同的引用和论证规范。
+
+### 结构
+
+非人称主语 + 被动 / 反身结构 + 正式词汇 + 复杂从句 + 学术连接词 + 虚拟式
+
+### 快速概览
+
+- 使用 **第三人称** ，避免 "eu / nós"；更偏好 "o presente trabalho" 或被动语态
+- **被动语态** 和 **反身结构** 占主导（"foi observado"、"observa-se"）
+- **正式词汇** 替代日常词（"utilizar" 不说 "usar"，"verificar" 不说 "ver"）
+- **虚拟式** 常用于假设和间接陈述
+- **复杂句** 和多重从句是常态
+- **学术连接词** 组织论证（"portanto"、"não obstante"、"destarte"）
+- **名词化** 会把动词变成名词（"a análise" 而不是 "analisar"）
+- **引用** 遵循 ABNT 规范，并有固定格式
+- **模糊化表达** 会弱化断言（"sugere-se"、"aparentemente"、"possivelmente"）
+- **拉丁表达** 仍会出现（apud、et al.、ibidem、sic）
+
+### 深入解析
+
+### 基础：非人称化与客观性
+
+巴西的学术写作把客观性看得高于一切。这意味着你几乎要把自己从文本里完全移除：
+
+## 不要用个人化表达：
+
+- ❌ "Eu analisei os dados"（我分析了数据）
+- ✅ "Os dados foram analisados"（数据被分析了）
+- ✅ "Analisaram-se os dados"（数据被分析了，反身结构）
+- ✅ "O presente estudo analisou os dados"（本研究分析了数据）
+
+### 被动语态的掌握
+
+被动语态（voz passiva）会成为你的好朋友：
+
+| 主动（较口语） | 被动（学术） | 反身替代 |
+| --- | --- | --- |
+| Eu observei | Foi observado | Observou-se |
+| Nós concluímos | Foi concluído | Concluiu-se |
+| O autor disse | Foi afirmado pelo autor | Afirma-se |
+| Eles descobriram | Foi descoberto | Descobriu-se |
+| A equipe testou | Foi testado pela equipe | Testou-se |
+
+### 学术语境中的虚拟式
+
+虚拟式在学术语境中会不断出现，用来表示：
+
+## 假设与推测：
+
+- "Supõe-se que **haja** correlação entre as variáveis"
+- "É possível que os resultados **demonstrem** tendências significativas"
+- "Caso **sejam** confirmadas as hipóteses..."
+
+## 间接引语：
+
+- "O autor sugere que se **considere** esta perspectiva"
+- "Argumenta-se que **seja** necessário reformular"
+
+### 学术词汇升级
+
+把日常词汇换成学术语体：
+
+| 日常词 | 学术词 | 语境 |
+| --- | --- | --- |
+| usar | utilizar, empregar | "Utilizou-se metodologia qualitativa" |
+| fazer | realizar, efetuar | "Realizaram-se entrevistas" |
+| ver | observar, verificar, constatar | "Verificou-se aumento significativo" |
+| dizer | afirmar, argumentar, postular | "O autor postula que..." |
+| mostrar | demonstrar, evidenciar | "Os dados evidenciam..." |
+| achar | considerar, julgar | "Considera-se pertinente" |
+| começar | iniciar, principiar | "Iniciou-se a coleta" |
+| acabar | finalizar, concluir | "Finalizou-se a análise" |
+| conseguir | lograr, obter êxito | "Logrou-se identificar" |
+| tentar | buscar, procurar | "Buscou-se compreender" |
+
+### 名词化：学术表达的变形术
+
+把动作转化为概念：
+
+| 动词短语 | 名词化形式 |
+| --- | --- |
+| analisar os dados | a análise dos dados |
+| desenvolver o projeto | o desenvolvimento do projeto |
+| coletar informações | a coleta de informações |
+| revisar a literatura | a revisão da literatura |
+| aplicar o questionário | a aplicação do questionário |
+
+### 学术连接词与衔接
+
+用更复杂的连接词来组织论证：
+
+## 因果：
+
+- " **Destarte**, evidencia-se que..."（因此，可以看出……）
+- " **Por conseguinte**, deduz-se..."（因此，可以推断……）
+- " **Em decorrência disso**..."（由此可见 / 由此产生……）
+
+## 对比与转折：
+
+- " **Não obstante**..."（尽管如此……）
+- " **Em contrapartida**..."（与之相对……）
+- " **Todavia**, cabe ressaltar..."（然而，需要强调的是……）
+
+## 补充与强调：
+
+- " **Ademais**, verifica-se..."（此外，可以观察到……）
+- " **Outrossim**, convém mencionar..."（此外，值得一提的是……）
+- " **Com efeito**..."（确实……）
+
+## 结论：
+
+- " **Diante do exposto**..."（鉴于以上所述……）
+- " **Em suma**..."（总之……）
+- " **Posto isso**..."（既然如此……）
+
+### 模糊化语言：学术谨慎
+
+不要让你的结论显得过于绝对：
+
+| 过于直接 | 更合适的学术表达 |
+| --- | --- |
+| É | Sugere-se que seja |
+| Prova | Indica |
+| Sempre | Frequentemente |
+| Todos | A maioria |
+| Causa | Pode contribuir para |
+| Demonstra | Aparentemente demonstra |
+
+### 引用规范（ABNT）
+
+巴西学术写作通常遵循 ABNT（Associação Brasileira de Normas Técnicas）：
+
+## 直接引用：
+
+- 短引用（3 行以内）： "..." (SILVA, 2023, p. 45)
+- 长引用（4 行及以上）：缩进区块、10 号字、单倍行距
+
+## 间接引用：
+
+- Segundo Silva (2023), observa-se que...
+- Conforme apontado pela literatura (SILVA, 2023; SANTOS, 2022)...
+
+## 仍在使用的拉丁表达：
+
+- **apud** （转引自）： Silva (1990 apud SANTOS, 2023)
+- **et al.**（及其他人）： Silva et al. (2023)
+- **ibidem** （同处）
+- **idem** （同作者）
+- **op. cit.**（前引作品）
+
+### 开头与结尾公式
+
+## 引言常见表达：
+
+- "O presente trabalho tem como objetivo..."
+- "Este estudo visa analisar..."
+- "A presente pesquisa propõe-se a investigar..."
+
+## 结论常见表达：
+
+- "Diante dos resultados obtidos, conclui-se que..."
+- "Os dados apresentados permitem inferir que..."
+- "Face ao exposto, evidencia-se que..."
+
+### 例子
+
+### 把日常语言改写成学术语言
+
+## 日常表达：
+
+"Eu acho que o problema do Brasil é que as pessoas não leem muito."（我觉得巴西的问题就是大家不怎么读书。）
+
+## 学术表达：
+
+"Observa-se que um dos desafios enfrentados pela sociedade brasileira relaciona-se aos índices de leitura apresentados pela população."（可以观察到，巴西社会面临的挑战之一，与民众所呈现的阅读率有关。）
+
+### 真实学术文本片段
+
+- " **Verificou-se**, mediante análise estatística, que há correlação significativa entre as variáveis estudadas (p<0,05)."（通过统计分析发现，所研究变量之间存在显著相关性。）
+- " **Não obstante** os avanços observados, **faz-se necessário** aprofundar a investigação acerca dos mecanismos subjacentes."（尽管已经观察到进展，仍有必要进一步深入研究其背后的机制。）
+- " **Consoante** o exposto por Silva (2023), **depreende-se** que o fenômeno em questão **apresenta** múltiplas facetas."（根据 Silva（2023）的论述，可以推知该现象具有多个面向。）
+
+### 方法部分示例
+
+" **Realizou-se** pesquisa de caráter exploratório-descritivo, com abordagem quali-quantitativa. **Utilizou-se** como instrumento de coleta de dados um questionário semiestruturado, o qual **foi aplicado** a uma amostra de 150 participantes. Os dados **foram analisados** mediante estatística descritiva e análise de conteúdo, **conforme proposto** por Bardin (2011)."（本研究采用质性与量化相结合的取径，进行探索性—描述性调查。以半结构式问卷作为资料搜集工具，施测于 150 名受试者的样本。资料按巴尔丹（2011）所提出的方法，以描述统计与内容分析加以处理。）
+
+### 文献综述示例
+
+" **No que tange** às teorias contemporâneas, **diversos autores** (SANTOS, 2021; OLIVEIRA, 2022; COSTA, 2023) **convergem** no entendimento de que o fenômeno **caracteriza-se** por sua natureza multifacetada. **Cumpre destacar** que, **embora haja** consenso quanto aos aspectos gerais, **persistem** divergências no que **concerne** aos mecanismos específicos."（就当代各家理论而言，多位学者（Santos 2021；Oliveira 2022；Costa 2023）在「该现象以其多面性为特征」这一理解上趋于一致。值得强调的是，尽管在总体层面已有共识，但就具体机制而言分歧依然存在。）
+
+### 常见例外
+
+### 什么时候第一人称可以接受
+
+尽管学术写作强调非人称化，但有些场景还是允许第一人称：
+
+- **致谢** ： "Agradeço ao meu orientador..."
+- **某些质性研究** ： "Durante minhas observações etnográficas..."
+- **作者说明** ： "Esclareço que..."
+- **某些人文学科** 对 "nós"（我们）更宽容
+
+### 要避免的常见错误
+
+1. **过度被动：**
+	- ❌ "Foi sido observado"（双重被动）
+		- ✅ "Foi observado" 或 "Observou-se"
+2. **语体混杂：**
+3. **反身位置错误：**
+	- ❌ "Se observou"（以代词起句）
+		- ✅ "Observou-se"
+4. **过于口语的连接词：**
+
+### 学科差异
+
+- **自然科学** ：高度非人称化，大量使用被动
+- **社会科学** ：质性研究中有时允许第一人称
+- **人文学科** ：对 "nós" 和主观解释更灵活
+- **法学** ：极度正式，仍使用古旧词汇
+
+### ABNT 与现实
+
+虽然 ABNT 是正式规范，但很多老师有自己的偏好：
+
+- 有些人讨厌 "o presente trabalho"（更喜欢纯被动）
+- 有些人完全禁止 "nós"（即便在人文学科）
+- 即使在 ABNT 标准下，不同院校的引文风格也会有差异

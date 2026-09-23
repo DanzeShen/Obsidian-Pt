@@ -1,0 +1,167 @@
+# 数词、限定词与数量词
+
+凡是能站在巴西名词前面的词，都会排进一条固定的队伍： *todos os seus quatro netos* （他们的四个孙辈全都）。而且数字要排在表示次序的词前面： *os dois primeiros dias* （头两天）。顺带你还会拿到 A1 没给的三个数量词： *cada* 、 *vários* 和 *ambos* 。
+
+### 结构
+
+todos + 冠词 + 物主词/指示词 + 数词 + 名词 · 数字在次序词之前：os dois primeiros dias · cada + 单数名词，或 cada um / cada uma · milhão、dúzia、metade + de + 名词
+
+### 快速概览
+
+- 名词前面只有一种排法： **todos → 冠词 → 物主词/指示词 → 数字 → 名词**
+- *os meus dois filhos* （我的两个孩子） · *todos os seus quatro netos* （他们的四个孙辈全都）
+- 中文没有的冠词还要站在物主词前面， *todos* 后面更是必须： **todos os meus amigos** （我所有的朋友）
+- 数字排在次序词前面： **os dois primeiros dias** （头两天）
+- 不用量词，数字直接放上、名词变复数就行
+- **cada** 从不变形，后面接单数名词： *cada dia* （每天）
+- *cada* 后面没有名词了？那就用 **cada um / cada uma** ： *cinco reais cada um* （每个五雷亚尔）
+- **vários / várias** （好几个）只有复数形式，还要跟名词分性别
+- *Ambos os irmãos* （两兄弟都）是写出来的， **os dois** 是说出来的
+- *mil* 和 *cem* 不要 *de* ； **milhão** 、 **dúzia** 、 **metade** 一定要： *um milhão de reais* （一百万雷亚尔）
+
+### 深入解析
+
+### 名词前面的词只有一种排法
+
+零件你已经有了：冠词、物主词、指示词、数字。没人说的是，当它们一起出现时，葡萄牙语会把它们排成一条固定的队伍，从不打乱。
+
+| 位置 | 站在这里的词 |
+| --- | --- |
+| 1 | **todos / todas** |
+| 2 | 冠词 **os** 、 **as** |
+| 3 | 物主词或指示词 **meus** 、 **aqueles** |
+| 4 | 数字 **dois** 、 **três** |
+| 5 | 名词 |
+
+- **os meus dois** filhos（我的两个孩子）
+- **aquelas três** amigas（那三个女性朋友）
+- **todos os seus quatro** netos（他们的四个孙辈全都）
+
+第 2 个位置正是中文完全没有的部分。葡萄牙语的冠词甚至要站在物主词前面，而在 *todos* 后面这个冠词是必须的： **todos os meus amigos** （我所有的朋友）。指示词则自己就担了冠词的活，所以两者永远不同时出现： **aquelas três amigas** 成立，✗ *as aquelas três amigas* 不成立。
+
+还有一个让人松口气的差别：葡萄牙语没有量词。不用挑「个、本、张、天」，把数字放上去、名词变复数就行了。
+
+### 数字排在次序词前面
+
+中文通常先说次序，「最初的两天」；葡萄牙语总是先数数。
+
+| 中文 | 葡萄牙语 |
+| --- | --- |
+| 最初的两天 | os **dois primeiros** dias |
+| 最后三个星期 | as **três últimas** semanas |
+| 前三个问题 | as **três primeiras** perguntas |
+
+不过中文里的「头两天」正好是同一个思路：先数量，再位置。 *os dois primeiros* 直译就是「前面那两个」。说成 *os primeiros dois dias* 别人也听得懂，只是带着一股翻译腔。
+
+### cada 从不变形，也从不单独站着
+
+*Cada* （每）是这门语言里唯一没有阴性、也没有复数的数量词，一个形状用到底，跟中文的「每」一样安稳。
+
+- **cada** dia（每天） · **cada** semana（每周） · **cada** aluno（每个学生）
+
+它带着两个习惯。后面的名词永远是 **单数** ，✗ *cada dias* 不成立，就像中文说「每天」而不说「每些天」。另外 *cada* 不能孤零零地吊在句尾；当后面没有名词可说时，就由 **um** 或 **uma** 顶上，相当于中文的「每个」「每人」。
+
+- Os cadernos custam cinco reais **cada um**.（本子每本五雷亚尔。）
+- **Cada uma** das meninas trouxe um presente.（每个女孩都带了一份礼物。）
+- **Cada um** pagou a sua parte.（各人付了各人的那份。）
+
+### alguns、vários、muitos：大概有多少
+
+在「两三个」和「一大堆」之间有一小段阶梯，A1 只给了你两头。
+
+| 词 | 多少 | 例子 |
+| --- | --- | --- |
+| **alguns / algumas** | 几个、两三个 | **alguns** dias（几天） |
+| **vários / várias** | 好几个、不少 | **várias** vezes（好几次） |
+| **muitos / muitas** | 很多 | **muitas** pessoas（很多人） |
+
+新面孔是 *vários* ，它有个特点：只有复数形式。没有 *vário livro* 这种说法，直接从 **vários livros** 开始。它还像形容词一样跟着名词的性别走： *vários amigos* 、 *várias amigas* ，而且放在名词前面。
+
+要表达很巴西味的「一大堆」，就用 **um monte de** ： *Comprei um monte de coisas na feira.*（我在集市上买了一大堆东西。）
+
+### ambos，以及巴西人真正会说的说法
+
+*Ambos* 意思是「两个都」。它跟 *cada* 不同，要分性别：男性一对用 **ambos** ，女性一对用 **ambas** ，这是中文「两者」不需要操心的事。后面接名词时，冠词照旧留着。
+
+- **Ambos os** irmãos moram em Recife.（两兄弟都住在累西腓。）
+- **Ambas as** janelas dão para a rua.（两扇窗都朝着街。）
+
+接下来是实话：日常对话里，巴西人几乎总是说 **os dois** / **as duas** 。
+
+- **Os dois** chegaram atrasados.（两个人都迟到了。）
+- Gosto **das duas** músicas.（这两首歌我都喜欢。）
+
+*Ambos* 是报纸上读到的词， *os dois* 是饭桌上听到的词。至于你也会听到的 *ambos os dois* ，那不过是把「二」说了两遍。
+
+### 要 de 的数量词
+
+有几个表示数量的词其实是名词，只是穿着数字的外衣。既然是名词，在所数的东西前面就得加 **de** 。中文这里靠量词直接连接，葡萄牙语则要这个介词。
+
+| 直接贴着名词 | 要 **de** |
+| --- | --- |
+| **mil** reais（一千雷亚尔） | um **milhão de** reais（一百万雷亚尔） |
+| **cem** pessoas（一百个人） | uma **dúzia de** ovos（一打鸡蛋） |
+| **vinte** anos（二十年） | **metade do** bolo（半个蛋糕） |
+
+界线不难感觉：包括 *mil* 和 *cem* 在内的普通数字直接压在名词上，而 *milhão* 、 *dúzia* 、 *dezena* 、 *metade* 、 *monte* 是名词，要等它们的 *de* 。
+
+- Ela ganhou **um milhão de** reais na loteria.（她中彩票赢了一百万雷亚尔。）
+- Comi **metade do** bolo antes do jantar.（我在晚饭前吃掉了半个蛋糕。）
+
+### 例子
+
+### 把词排进队伍
+
+- 「Os meus dois irmãos trabalham juntos.」（我的两个哥哥在一起工作。）
+- 「Aquelas três amigas viajaram para o Nordeste.」（那三个女性朋友去了东北部旅行。）
+- 「Todos os seus quatro netos estudam na mesma escola.」（他们的四个孙辈都在同一所学校读书。）
+- 「As duas últimas semanas foram bem difíceis.」（最近两个星期相当难熬。）
+
+### cada，一个一个来
+
+- 「O professor deu um livro para cada aluno.」（老师给每个学生发了一本书。）
+- 「As camisetas custam trinta reais cada uma.」（T恤每件三十雷亚尔。）
+- 「Cada um trouxe uma sobremesa diferente.」（每个人都带了不一样的甜点。）
+- 「Cada uma das professoras deu a sua opinião.」（每位女老师都说了自己的看法。）
+
+### 大概有多少
+
+- 「Passei alguns dias em Salvador.」（我在萨尔瓦多待了几天。）
+- 「Já vi esse filme várias vezes.」（这部电影我已经看过好几次了。）
+- 「Ela tem vários primos em Minas.」（她在米纳斯有好几个表兄弟。）
+- 「Tirei um monte de fotos na viagem.」（我在旅行中拍了一大堆照片。）
+
+### 两个都，以及要 de 的词
+
+- 「Ambos os candidatos falaram muito bem.」（两位候选人都讲得很好。）
+- 「Eu gostei dos dois filmes.」（这两部电影我都喜欢。）
+- 「Ele gastou um milhão de reais na obra.」（他在工程上花了一百万雷亚尔。）
+- 「Comprei uma dúzia de ovos na padaria.」（我在面包店买了一打鸡蛋。）
+
+### 常见例外
+
+### cada 后面加数字，一切又变回复数
+
+在 *cada* 后面放一个数字，复数就回来了： **cada dois meses** （每两个月）、 **cada três anos** （每三年）。动词跟着数字走，而不是跟着 *cada* ： *Cada três laranjas custam cinco reais.*（每三个橙子五雷亚尔。）单数规则管的是紧贴 *cada* 的那个名词，而数字不是名词。
+
+### cada um 让动词保持单数
+
+无论人群多大， *cada um* 一次只看一个人： **Cada um dos alunos escolheu um tema.**（每个学生都选了一个题目。）不能写成 *escolheram* 。复数被关在 *dos alunos* 里面，动词完全不理它。
+
+### 打破规则的价签
+
+走进巴西任何一家店，价签上写的都是 **R$ 5 cada** 。语法书把这叫作一时疏忽，要求写成 **cada um** 或 **cada uma** ，那才是永远不会错的写法；可没有人会去重印价签。所以做好准备：读到的是一种，写出来的是另一种。
+
+### cada 也可以表示「你可真会…」
+
+放进感叹句里， *cada* 就不数数了，改成惊叹： **Você tem cada ideia!**（你可真会想点子！） · **Ele me conta cada história!**（他给我讲的那些故事哟！）语气亲切，带点打趣，你会不停地听到。
+
+### vários 从复数开始
+
+没有 *vário livro* 这种形式，这个词直接从 **vários / várias** 起步。它也不是加强版的 *muito* ： *vários amigos* 是你叫得出名字的一小把人， *muitos amigos* 是你根本不会去数的一大群。
+
+### 趣闻
+
+**巴西的空中交通手册把数字 6 写成 *meia* 。** 巴西空军司令部发布的通话术语手册 MCA 100-16 里有一张发音表，6 读作 **MEIA** ，也就是 *meia dúzia* （半打）留下的残余；表下还有一条注释，要求管制员在阴性名词前把 *uno* 和 *dois* 换成 *uma* 和 *duas* ，连性数一致都照做。另一条注释规定 6 海里这个距离必须读成 *meia dúzia de milhas* ，免得有人听成 *meia milha* （半海里）。资料来源： [DECEA — MCA 100-16, Fraseologia de Tráfego Aéreo](https://publicacoes.decea.mil.br/publicacao/mca-100-16) 、 [MCA 100-16, §2.6 Algarismos (PDF)](https://biblioteca.ite.edu.br/download/mca_100-16_20160219.pdf)
+
+**巴西的语法学家为 *ambos os dois* 争论了几十年。** 拿破仑·门德斯·德·阿尔梅达把它斥为粗俗，因为 *ambos* 本身已经含着「二」；德奥尼西奥·达席尔瓦却为它辩护，说它完全正确，还搬出鲁伊·巴尔博萨和卡蒙斯；《Aurélio》词典也收了这个词条，配了一句卡米洛·卡斯特洛·布兰科的引文。今天的巴西文体指南站在阿尔梅达一边，判定它冗余，所以在 *ambos* 和 *os dois* 之间挑一个，另一个就放下吧。资料来源： [Exame — Diogo Arrais](https://exame.com/carreira/e-errado-usar-a-expressao-ambos-os-dois-professor-responde/) 、 [Dicio — Ambos ou ambos os](https://www.dicio.com.br/ambos-ou-ambos-os/)

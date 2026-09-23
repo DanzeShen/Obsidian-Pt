@@ -1,0 +1,156 @@
+# 说时间
+
+葡萄牙语报时要用动词 *ser* ，而且小时是 **阴性** （ *É uma hora* 、 *São duas horas* ），并用 *da manhã / da tarde / da noite* 来代替"上午/下午"——不过巴西人对时间的把握，是出了名地比钟表要松。
+
+### 结构
+
+提问：Que horas são?（现在几点？）· É uma hora（1:00，用单数）· São duas/três horas（2:00 及以后，用复数）· 小时 + e + 分钟（oito e meia）· da manhã / da tarde / da noite
+
+### 快速概览
+
+- 提问： **Que horas são?**（现在几点？）
+- 用 **ser** 来回答： **É uma hora** （1:00——用单数！）但 **São duas horas** （2:00 及以后——用复数）
+- 小时是 **阴性** ： *uma, duas* （绝不用 *um, dois* ）
+- 分钟用 **e** 连接： *oito e dez* 、 *três e meia* （:30）、 *e quinze* （:15）
+- **meio-dia** （中午）和 **meia-noite** （午夜）——不说 *doze horas*
+- "上午/下午/晚上" = **da manhã / da tarde / da noite** （凌晨用 *da madrugada* ）
+- "在某点钟" = **às** ： *às oito* 、 *à uma* 、 *ao meio-dia*
+- 巴西特色： *"às oito"* 常常意味着 8:15 到 8:30 😉
+
+### 深入解析
+
+### 怎么问时间
+
+- **Que horas são?** = 现在几点？（标准问法）
+- **A que horas...?** = 在几点……？（ *A que horas começa o filme?* 电影几点开始？）
+- **Tem horas?** = 有时间吗 / 几点了？（随口问陌生人时用）
+
+### 核心规则：ser + 阴性的小时
+
+小时要用 **ser** ，而且是 **阴性** ——所以是 *uma* 和 *duas* ，绝不是 *um* 或 *dois* 。和中文很不一样：中文说"现在几点"既不用动词，也不分阴阳，统统是 点/分；葡萄牙语却离不开 **ser** 这个动词，而且它还会 **变** ——
+
+- **É uma hora.**（1:00）——单数的 **é** ，因为只有一点
+- **São duas horas.** / **São três horas.**（2:00 及以后）——复数的 **são**
+- **É meio-dia.** / **É meia-noite.**（中午 / 午夜）——也是单数
+
+| 时间 | 葡萄牙语 |
+| --- | --- |
+| 1:00 | É **uma** hora |
+| 2:00 | São **duas** horas |
+| 3:00 | São **três** horas |
+| 12:00 | É **meio-dia** / É **meia-noite** |
+
+### 加上分钟
+
+用 **e** （"和"）把小时和分钟连起来：
+
+- 3:10 = **três e dez**
+- 8:30 = **oito e meia** （ *meia* = 半，正好对应中文的"半"）
+- 9:25 = **nove e vinte e cinco**
+
+到了:15，巴西人几乎总是说 **e quinze** （ *cinco e quinze* ，五点一刻）。你也许会听到 *e quarto* （"一刻"），但在巴西要少见得多——记住用 **e quinze** 就好。
+
+要表示"差几分到整点"，用 **para** ： *quinze para as três* （2:45，三点差一刻）。在巴西，照样保留 *e* 的说法（ *duas e quarenta e cinco* ）或者干脆用 24 小时制，都同样地道。
+
+### meio-dia 和 meia-noite
+
+12 点有它专属的说法——别说成 *doze horas* ：
+
+- **meio-dia** = 中午 · **meia-noite** = 午夜
+- **meio-dia e meia** = 12:30
+
+### 上午、下午、晚上（巴西的"AM/PM"）
+
+巴西人不用 AM/PM，而是用 **da** 加上一天里的时段：
+
+- **da manhã** = 上午（约 5 点到 12 点）
+- **da tarde** = 下午（约 12 点到 18 点）
+- **da noite** = 傍晚 / 夜里（约 18 点到 24 点）
+- **da madrugada** = 凌晨（约 0 点到 5 点）
+
+所以 *três da tarde* = 下午三点， *três da madrugada* = 凌晨三点。
+
+### "在某点钟"：às, à, ao
+
+要说某件事 *在何时* 发生，用 **a** 加上冠词（而且会缩合）：
+
+- **às** três、 **às** oito（在三点、在八点）
+- **à** uma（在一点）· **ao** meio-dia（在中午）
+- **das** 8 **às** 17 = 从 8 点到 17 点 · **até** as 10 = 直到 10 点
+
+### 24 小时制（书面）对 12 小时制（口语）
+
+巴西人书面上写 24 小时制，说话时用 12 小时制：
+
+- 书面 / 正式： *O voo sai às **20h*** （或 *vinte horas* ，航班 20 点起飞）
+- 口语： *O voo sai às **oito da noite*** （航班晚上八点起飞）
+
+### 例子
+
+### 一问一答
+
+- "Que horas são?" — "São oito e meia."（现在几点？——现在八点半。）
+- "Que horas são?" — "É uma e quinze."（——现在一点一刻。）
+- "A que horas você chega?" — "Chego às sete."（你几点到？——我七点到。）
+
+### 日常作息
+
+- "Acordo às seis da manhã."（我早上六点起床。）
+- "Almoço ao meio-dia."（我中午吃午饭。）
+- "Saio do trabalho às seis da tarde."（我下午六点下班。）
+- "Durmo à meia-noite."（我午夜睡觉。）
+
+### 约时间（普通的发消息口吻）
+
+- "A que horas é a consulta?" — "Às duas e meia."（预约是几点？——两点半。）
+- "Pode ser na terça às dez?"（可以约周二十点吗？）
+- "A gente se encontra sexta à noite."（我们周五晚上见。）
+
+### 交通
+
+- "O ônibus passa às sete e quinze."（公交车七点一刻来。）
+- "O voo sai às vinte e duas horas."（航班 22 点起飞。）
+
+### 常见例外
+
+### meio-dia 是阳性，meia-noite 是阴性
+
+- "É **meio-dia**."（中午——阳性；绝不写成 *meia-dia* ）
+- "É **meia-noite**."（午夜——阴性）
+- " **meio-dia e meia** " = 12:30（这里的 *meia* 仍是"半"）
+
+### 冠词时有时无
+
+跟着 *horas* 时要保留它，单说时则常常省掉——两种都对：
+
+- "São **três horas**." / "Às **três**."
+- "É **uma hora**." / "À **uma**."
+
+### 巴西人 24 小时制和 12 小时制随意混用
+
+同一个人会说航班 *às vinte horas* ，转头在社交场合又说 *às oito da noite* 。两种都没错——24 小时制只是听起来更正式。
+
+### 巴西时间（horário brasileiro） 🇧🇷
+
+这是凌驾于上面一切规则之上的文化例外：
+
+- "Vamos às 8" → 大家 8:15 到 8:30 才到
+- 一场 "às 21h" 的派对 → 22:30 左右才热闹起来
+- "Chego em 5 minutos"（我五分钟就到） → 实际 15 到 30 分钟
+- 只有航班和面试才是真正准时的！
+
+### 趣闻
+
+这里有个小彩蛋，正好跟你刚学到的词 *meia* 有关。除了"半点"的意思，巴西人在大声读数字时，会用 **meia** （是 *meia dúzia* 的简称，"半打" = 6）来表示数字 **6** ——所以电话号码 3651 读作 *três– **meia** –cinco–um* ，绝不会读成 *seis* 。这个习惯一般认为源自从前嘈杂的老式电话线路，那时 *seis* 太容易被听成 *três* 了。
+
+Sources: [Ciberdúvidas da Língua Portuguesa](https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/meia-em-vez-de-seis/26043), [Mega Curioso](https://www.megacurioso.com.br/artes-cultura/por-que-no-brasil-falamos-meia-no-lugar-de-seis)
+
+### 外部资源
+
+#### [How to Ask and Say the Time in Portuguese](https://streetsmartbrazil.com/ask-say-time-portuguese-need-know/)
+
+By Street Smart Brazil
+
+#### [What Time Is It? How to Say the Time in Portuguese](https://unclebrazil.com/what-time-is-it-how-to-say-the-time-in-portuguese/)
+
+By Uncle Brazil

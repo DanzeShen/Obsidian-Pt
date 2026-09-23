@@ -1,0 +1,976 @@
+{
+  "easy-sync-profile-cache": {
+    "displayName": "Maxwell Atwood",
+    "accountId": "7fc2d731203507d5"
+  },
+  "easy-sync-base-snapshot": {},
+  "easy-sync-pending-conflicts": [],
+  "easy-sync-pending-remote-deletes": [],
+  "easy-sync-pending-issues": [
+    {
+      "path": "未命名.canvas",
+      "actionType": "upload",
+      "reason": "ENOENT: no such file or directory, open '/Users/maxwellatwood/Documents/Obsidian-Pt/未命名.canvas'",
+      "updatedAt": 1790148290685,
+      "fileSize": 2,
+      "localHash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "consecutiveFailures": 1
+    }
+  ],
+  "easy-sync-last-sync-time": 1790148221163,
+  "easy-sync-plan-review-active": false,
+  "easy-sync-plan-review-counts": null,
+  "easy-sync-plan-review-items": [],
+  "easy-sync-plan-review-digest": "",
+  "easy-sync-plan-review-revision": 1,
+  "easy-sync-plan-review-scope": null,
+  "easy-sync-plan-review-canonical-identity-v2": null,
+  "easy-sync-history": [
+    {
+      "id": "1790148286700-1790148290689",
+      "mode": "auto",
+      "status": "partial",
+      "startedAt": 1790148286700,
+      "endedAt": 1790148290689,
+      "uploaded": 2,
+      "downloaded": 0,
+      "foldersCreated": 0,
+      "foldersMoved": 0,
+      "foldersDeleted": 0,
+      "filesMoved": 0,
+      "deleted": 0,
+      "conflicts": 0,
+      "deferred": 0,
+      "skipped": 0,
+      "skippedLarge": 0,
+      "skippedIgnored": 0,
+      "skippedInvalidName": 0,
+      "errors": 1,
+      "message": "同步部分完成：1 项失败",
+      "files": [
+        {
+          "path": "2026-09-23.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 0
+        },
+        {
+          "path": "未命名.base",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 0
+        },
+        {
+          "path": "未命名.canvas",
+          "status": "error",
+          "actionType": "upload",
+          "reason": "ENOENT: no such file or directory, open '/Users/maxwellatwood/Documents/Obsidian-Pt/未命名.canvas'",
+          "fileSize": 2,
+          "failedAt": 1790148290685
+        }
+      ],
+      "uploadBytes": 0,
+      "uploadReadMs": 1,
+      "uploadNetworkMs": 2407,
+      "peakUploads": 2,
+      "transferRates": {
+        "measuredAt": 1790148290689,
+        "uploadBytes": 0,
+        "uploadMs": 2407
+      },
+      "runFacts": {
+        "termination": "normal",
+        "ordinaryPlanning": "entered",
+        "userFileChanges": "performed"
+      }
+    },
+    {
+      "id": "1790148219030-1790148221165",
+      "mode": "auto",
+      "status": "success",
+      "startedAt": 1790148219030,
+      "endedAt": 1790148221165,
+      "uploaded": 0,
+      "downloaded": 0,
+      "foldersCreated": 0,
+      "foldersMoved": 0,
+      "foldersDeleted": 0,
+      "filesMoved": 0,
+      "deleted": 0,
+      "conflicts": 0,
+      "deferred": 0,
+      "skipped": 0,
+      "skippedLarge": 0,
+      "skippedIgnored": 0,
+      "skippedInvalidName": 0,
+      "errors": 0,
+      "message": "同步完成",
+      "files": [],
+      "uploadBytes": 0,
+      "uploadReadMs": 0,
+      "uploadNetworkMs": 0,
+      "peakUploads": 0,
+      "runFacts": {
+        "termination": "normal",
+        "ordinaryPlanning": "entered",
+        "userFileChanges": "none"
+      }
+    },
+    {
+      "id": "1790148216093-1790148218752",
+      "mode": "auto",
+      "status": "success",
+      "startedAt": 1790148216093,
+      "endedAt": 1790148218752,
+      "uploaded": 0,
+      "downloaded": 0,
+      "foldersCreated": 0,
+      "foldersMoved": 0,
+      "foldersDeleted": 0,
+      "filesMoved": 0,
+      "deleted": 0,
+      "conflicts": 0,
+      "deferred": 0,
+      "skipped": 0,
+      "skippedLarge": 0,
+      "skippedIgnored": 0,
+      "skippedInvalidName": 0,
+      "errors": 0,
+      "message": "同步完成",
+      "files": [],
+      "uploadBytes": 0,
+      "uploadReadMs": 0,
+      "uploadNetworkMs": 0,
+      "peakUploads": 0,
+      "runFacts": {
+        "termination": "normal",
+        "ordinaryPlanning": "entered",
+        "userFileChanges": "none"
+      }
+    },
+    {
+      "id": "1790148039036-1790148040325",
+      "mode": "auto",
+      "status": "success",
+      "startedAt": 1790148039036,
+      "endedAt": 1790148040325,
+      "uploaded": 0,
+      "downloaded": 0,
+      "foldersCreated": 0,
+      "foldersMoved": 0,
+      "foldersDeleted": 0,
+      "filesMoved": 0,
+      "deleted": 0,
+      "conflicts": 0,
+      "deferred": 0,
+      "skipped": 0,
+      "skippedLarge": 0,
+      "skippedIgnored": 0,
+      "skippedInvalidName": 0,
+      "errors": 0,
+      "message": "同步完成",
+      "files": [],
+      "uploadBytes": 0,
+      "uploadReadMs": 0,
+      "uploadNetworkMs": 0,
+      "peakUploads": 0,
+      "runFacts": {
+        "termination": "normal",
+        "ordinaryPlanning": "entered",
+        "userFileChanges": "none"
+      }
+    },
+    {
+      "id": "1790148036097-1790148037801",
+      "mode": "auto",
+      "status": "success",
+      "startedAt": 1790148036097,
+      "endedAt": 1790148037801,
+      "uploaded": 0,
+      "downloaded": 0,
+      "foldersCreated": 0,
+      "foldersMoved": 0,
+      "foldersDeleted": 0,
+      "filesMoved": 0,
+      "deleted": 0,
+      "conflicts": 0,
+      "deferred": 0,
+      "skipped": 0,
+      "skippedLarge": 0,
+      "skippedIgnored": 0,
+      "skippedInvalidName": 0,
+      "errors": 0,
+      "message": "同步完成",
+      "files": [],
+      "uploadBytes": 0,
+      "uploadReadMs": 0,
+      "uploadNetworkMs": 0,
+      "peakUploads": 0,
+      "runFacts": {
+        "termination": "normal",
+        "ordinaryPlanning": "entered",
+        "userFileChanges": "none"
+      }
+    },
+    {
+      "id": "1790147856148-1790147859038",
+      "mode": "auto",
+      "status": "success",
+      "startedAt": 1790147856148,
+      "endedAt": 1790147859038,
+      "uploaded": 0,
+      "downloaded": 0,
+      "foldersCreated": 0,
+      "foldersMoved": 0,
+      "foldersDeleted": 0,
+      "filesMoved": 0,
+      "deleted": 0,
+      "conflicts": 0,
+      "deferred": 0,
+      "skipped": 0,
+      "skippedLarge": 0,
+      "skippedIgnored": 0,
+      "skippedInvalidName": 0,
+      "errors": 0,
+      "message": "同步完成",
+      "files": [],
+      "uploadBytes": 0,
+      "uploadReadMs": 0,
+      "uploadNetworkMs": 0,
+      "peakUploads": 0,
+      "runFacts": {
+        "termination": "normal",
+        "ordinaryPlanning": "entered",
+        "userFileChanges": "none"
+      }
+    },
+    {
+      "id": "1790147601218-1790147687133",
+      "mode": "manual",
+      "status": "success",
+      "startedAt": 1790147601218,
+      "endedAt": 1790147687133,
+      "uploaded": 198,
+      "downloaded": 0,
+      "foldersCreated": 0,
+      "foldersMoved": 0,
+      "foldersDeleted": 0,
+      "filesMoved": 0,
+      "deleted": 0,
+      "conflicts": 0,
+      "deferred": 0,
+      "skipped": 0,
+      "skippedLarge": 0,
+      "skippedIgnored": 0,
+      "skippedInvalidName": 0,
+      "errors": 0,
+      "message": "同步完成",
+      "files": [
+        {
+          "path": "26虚拟式入门-4Futuro do subjuntivo（将来虚拟式）quando você chegar.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 13488
+        },
+        {
+          "path": "27关系从句与复杂句-1关系代词que、quem、onde、cujocuja.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 7478
+        },
+        {
+          "path": "27关系从句与复杂句-2限定性与非限定性从句.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 7524
+        },
+        {
+          "path": "27关系从句与复杂句-3用关系代词避免重复.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 6994
+        },
+        {
+          "path": "27关系从句与复杂句-4交际功能补充附加信息.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 9296
+        },
+        {
+          "path": "28“SE” 结构-1无人称 se（vende-se, precisa-se）.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 6244
+        },
+        {
+          "path": "28“SE” 结构-2带 se 的被动态.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 1480
+        },
+        {
+          "path": "28“SE” 结构-3反身用法与非人称用法.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 6733
+        },
+        {
+          "path": "29高级连接词与语篇-1对比embora、mas、porém、entretanto.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 7011
+        },
+        {
+          "path": "29高级连接词与语篇-2原因  结果por isso、portanto、já que.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 7850
+        },
+        {
+          "path": "29高级连接词与语篇-3时间关系enquanto、quando、depois que.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 8469
+        },
+        {
+          "path": "29高级连接词与语篇-4mesmo 的五份活同一个、自己、真的、甚至、mesmo que.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10235
+        },
+        {
+          "path": "30转述与语域-1间接引语disse que、perguntou se.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 7148
+        },
+        {
+          "path": "30转述与语域-2转述语中的时态变化.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 7843
+        },
+        {
+          "path": "30转述与语域-3转述疑问句和命令句.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10414
+        },
+        {
+          "path": "31句子结构-1宾语、补足语和表语.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 2435
+        },
+        {
+          "path": "31句子结构-2附加语、同位语和呼语.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 1638
+        },
+        {
+          "path": "31句子结构-3并列与从属.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 2235
+        },
+        {
+          "path": "31句子结构-4不定式、动名词和分词.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 1990
+        },
+        {
+          "path": "31句子结构-5人称不定式.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 1713
+        },
+        {
+          "path": "32体、代词与巴西用法-1体貌迂回结构.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 1957
+        },
+        {
+          "path": "32体、代词与巴西用法-2巴西葡语中的代词口语与书面语模式.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 2523
+        },
+        {
+          "path": "32体、代词与巴西用法-3语气与体作为系统.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 2019
+        },
+        {
+          "path": "32体、代词与巴西用法-4Dar 的搭配dá para、dar certo、dar um jeito.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10363
+        },
+        {
+          "path": "33复合过去时态-1Pretérito perfeito compostotenho falado（最近一直在说）.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 9707
+        },
+        {
+          "path": "33复合过去时态-2复合过去完成时（Past Perfect  Pluperfect）.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 8830
+        },
+        {
+          "path": "34高级虚拟式形式-1过去未完成虚拟式（se eu falasse）.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12320
+        },
+        {
+          "path": "34高级虚拟式形式-2现在完成虚拟式（tenha falado）.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 9177
+        },
+        {
+          "path": "34高级虚拟式形式-3巴西与欧洲葡语在虚拟式上的用法差异.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10523
+        },
+        {
+          "path": "35复合时态与体-1Futuro Perfeito Composto（将来完成时）.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 9489
+        },
+        {
+          "path": "35复合时态与体-2Futuro do Pretérito Composto（条件完成时）.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 9612
+        },
+        {
+          "path": "35复合时态与体-3巴西葡语中的体貌区别.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10973
+        },
+        {
+          "path": "36被动结构及其替代形式-1用 ser + 过去分词构成被动语态.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10587
+        },
+        {
+          "path": "36被动结构及其替代形式-2用 ter + sido + 过去分词构成被动语态.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 8832
+        },
+        {
+          "path": "36被动结构及其替代形式-3避免被动语态，改用主动表达.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 9789
+        },
+        {
+          "path": "37构词法-1常用前缀des-、re-、in- 和其余的词汇放大器.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 11313
+        },
+        {
+          "path": "37构词法-2Dar uma olhada-ada  -ida 名词和它「随便做一下」的意味.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 11233
+        },
+        {
+          "path": "38假设结构-1条件句第一类、第二类和第三类.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10471
+        },
+        {
+          "path": "38假设结构-2混合条件句.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10400
+        },
+        {
+          "path": "38假设结构-3替代表达caso、a não ser que.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 11055
+        },
+        {
+          "path": "38假设结构-4交际功能推测、遗憾与建议.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10934
+        },
+        {
+          "path": "39巴西文化表达-1固定表达与俗语.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12543
+        },
+        {
+          "path": "39巴西文化表达-2地区词汇差异.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12031
+        },
+        {
+          "path": "39巴西文化表达-3幽默模式与文字游戏.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 11383
+        },
+        {
+          "path": "39巴西文化表达-4职业沟通规范.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12842
+        },
+        {
+          "path": "40规范语法要点-1名词一致与动词一致.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 2008
+        },
+        {
+          "path": "40规范语法要点-2Regência动词或名词要求的那个介词.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 11013
+        },
+        {
+          "path": "40规范语法要点-3Crase介词 a 与阴性定冠词 a 的融合.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10558
+        },
+        {
+          "path": "40规范语法要点-4标点与正字法要点.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 1739
+        },
+        {
+          "path": "40规范语法要点-5容易混淆的词对maumal、meiomeia、ondeaonde、senãose não 等.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10163
+        },
+        {
+          "path": "41高级动词与从句结构-1支配价与及物性.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 2053
+        },
+        {
+          "path": "41高级动词与从句结构-2不定式、动名词与分词缩略从句.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 2858
+        },
+        {
+          "path": "41高级动词与从句结构-3使役结构让人做、允许做、请人做.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10066
+        },
+        {
+          "path": "41高级动词与从句结构-4复杂结构中的代词攀升.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10754
+        },
+        {
+          "path": "42复杂语篇中的虚拟式-1带虚拟式的名词从句必要、情感、怀疑.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12371
+        },
+        {
+          "path": "42复杂语篇中的虚拟式-2形容词从句寻找未知先行词.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10598
+        },
+        {
+          "path": "42复杂语篇中的虚拟式-3状语从句目的、让步、条件.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12400
+        },
+        {
+          "path": "42复杂语篇中的虚拟式-4学术与职业语境中的虚拟式.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 14307
+        },
+        {
+          "path": "43高级语篇衔接-1回指与下指.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 13350
+        },
+        {
+          "path": "43高级语篇衔接-2话题延续与转换.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 15833
+        },
+        {
+          "path": "43高级语篇衔接-3篇章推进模式.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 15760
+        },
+        {
+          "path": "43高级语篇衔接-4段落与文本组织.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 18293
+        },
+        {
+          "path": "44精确连接词与过渡-1高级连接词contudo、outrossim、por conseguinte.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 11263
+        },
+        {
+          "path": "44精确连接词与过渡-2对比关系ao passo que、enquanto que.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12826
+        },
+        {
+          "path": "44精确连接词与过渡-3时间精确连接词tão logo、assim que、mal.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12776
+        },
+        {
+          "path": "45名词化与学术文体-1抽象名词构词-ção、-mento、-agem、-ura.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12198
+        },
+        {
+          "path": "45名词化与学术文体-2把从句转成名词短语.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10614
+        },
+        {
+          "path": "45名词化与学术文体-3学术引用结构segundo、conforme、de acordo com.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12842
+        },
+        {
+          "path": "46文体与语域的精细运用-1正式 ↔ 非正式转换.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12487
+        },
+        {
+          "path": "46文体与语域的精细运用-2职业沟通风格.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 14264
+        },
+        {
+          "path": "46文体与语域的精细运用-3学术写作惯例.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 9404
+        },
+        {
+          "path": "46文体与语域的精细运用-4法律与官僚语言.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 13871
+        },
+        {
+          "path": "47修辞手法与强调-1用于强调的语序变化.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12855
+        },
+        {
+          "path": "47修辞手法与强调-2裂句结构é que、foi que.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 9518
+        },
+        {
+          "path": "47修辞手法与强调-3省略与高级留白.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 9879
+        },
+        {
+          "path": "48文学与公文语法-1Pretérito mais-que-perfeito simples读懂 falara、fizera 和 fora.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12141
+        },
+        {
+          "path": "48文学与公文语法-2将来时  条件式中的 mesóclise（dir-se-á, far-se-ia）.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 9290
+        },
+        {
+          "path": "48文学与公文语法-3Pronomes de tratamentoVossa Excelência、Vossa Senhoria 与敬称的语法.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 13282
+        },
+        {
+          "path": "49高级语用与微妙表达-1反讽、讽刺与言外之意.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10778
+        },
+        {
+          "path": "49高级语用与微妙表达-2礼貌策略与面子维护.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 14427
+        },
+        {
+          "path": "49高级语用与微妙表达-3文化语用规范.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 11965
+        },
+        {
+          "path": "50互文性与声音融合-1自由间接引语.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 13584
+        },
+        {
+          "path": "50互文性与声音融合-2文本典故与文化指涉.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 15939
+        },
+        {
+          "path": "50互文性与声音融合-3复杂文本中的声音整合.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 23398
+        },
+        {
+          "path": "50互文性与声音融合-4文学与新闻写作技巧.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 16438
+        },
+        {
+          "path": "51复杂名词结构-1超复杂名词短语.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12397
+        },
+        {
+          "path": "51复杂名词结构-2多重嵌入修饰语.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 11257
+        },
+        {
+          "path": "51复杂名词结构-3高级限定词系统.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 13306
+        },
+        {
+          "path": "51复杂名词结构-4语域特定的名词模式.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12823
+        },
+        {
+          "path": "52地区与历史变体-1巴西各地的方言差异.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12930
+        },
+        {
+          "path": "52地区与历史变体-2俚语与口语创新.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 14125
+        },
+        {
+          "path": "52地区与历史变体-3正式语境中的古旧形式.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 13889
+        },
+        {
+          "path": "52地区与历史变体-4接触现象与借词.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 14659
+        },
+        {
+          "path": "53修辞精通与创新-1经典修辞格hipérbato（倒装）与 quiasmo（交错配列）.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 8862
+        },
+        {
+          "path": "53修辞精通与创新-2现代风格创新.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 10130
+        },
+        {
+          "path": "53修辞精通与创新-3散文中的诗性语言.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 5882
+        },
+        {
+          "path": "53修辞精通与创新-4创造性语言使用与新词.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 11880
+        },
+        {
+          "path": "54双重过去分词与缺位动词-1双重过去分词pago 还是 pagado，aceito 还是 aceitado.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 12721
+        },
+        {
+          "path": "55巴西葡萄牙语中的脏话-1脏话101foda、foder 和 caralho.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 8279
+        },
+        {
+          "path": "55巴西葡萄牙语中的脏话-2脏话102puta、porra、merda 和 bosta.md",
+          "status": "upload",
+          "actionType": "upload",
+          "fileSize": 8181
+        }
+      ],
+      "uploadBytes": 1826324,
+      "uploadReadMs": 53,
+      "uploadNetworkMs": 217544,
+      "peakUploads": 4,
+      "transferRates": {
+        "measuredAt": 1790147687133,
+        "uploadBytes": 1826324,
+        "uploadMs": 217544
+      },
+      "runFacts": {
+        "termination": "normal",
+        "ordinaryPlanning": "entered",
+        "userFileChanges": "performed"
+      }
+    }
+  ],
+  "easy-sync-transfer-rates-window": [
+    {
+      "measuredAt": 1790148290689,
+      "uploadBytes": 0,
+      "uploadMs": 2407
+    },
+    {
+      "measuredAt": 1790147687133,
+      "uploadBytes": 1826324,
+      "uploadMs": 217544
+    }
+  ],
+  "easy-sync-generation": 6,
+  "easy-sync-bound-account": "7fc2d731203507d5",
+  "easy-sync-mutation-ledger": [],
+  "easy-sync-v2-mutation-ledger": [],
+  "easy-sync-v2-manual-mutation-resolution-audit": [],
+  "easy-sync-v2-recovery-quarantine": [],
+  "easy-sync-v2-force-reset-audit": null,
+  "easy-sync-local-folder-move-hints": [],
+  "easy-sync-local-file-move-hints": [],
+  "easy-sync-local-folder-delete-hints": [],
+  "community-plugin-manifest-observations": [],
+  "remote-community-plugin-catalog": null,
+  "community-plugin-adoption-memory": null,
+  "easy-sync-cloud-bootstrap-checkpoint-v2": {
+    "version": 1,
+    "scope": {
+      "accountId": "7fc2d731203507d5",
+      "driveId": "7FC2D731203507D5",
+      "vaultFolderId": "7FC2D731203507D5!sb1ad5d5aaf144366a4d2dd49debe224d",
+      "filesRootId": "7FC2D731203507D5!s9194bdcdb6f64fd490741a6449279514"
+    },
+    "anchorDigest": "da2d0ca62063382342663495bc0161eaf4902a9c17ca34dbec51e57e9ce8287d",
+    "objectId": "7FC2D731203507D5!s8de06af19cae41b0adfaa1c42be65578",
+    "eTag": "\"{8DE06AF1-9CAE-41B0-ADFA-A1C42BE65578},1\"",
+    "revision": 1
+  },
+  "easy-sync-confirmed-descendant-file-reconstruction": null,
+  "easy-sync-sync-path-settings-revision": 0,
+  "easy-sync-sync-path-settings-fingerprint": "",
+  "easy-sync-sync-scope-expansion": null,
+  "easy-sync-public-1.1.3-cutover-v2": {
+    "version": 2,
+    "kind": "public-1.1.3-cutover",
+    "sourceStateDigest": "55e18ee892c4350f59257db5c9e51309dbdedf676bc256261e18b2350bfb5b7b",
+    "finalizedAt": 1790147614726,
+    "importedLegacyMutationRecords": 0,
+    "retired": {
+      "conflicts": 0,
+      "remoteDeletes": 0,
+      "issues": 0,
+      "reviewActive": false,
+      "localFolderMoveHints": 0
+    }
+  },
+  "sync-interval": 3,
+  "auto-sync-change-delay-seconds": 7,
+  "auto-sync-restore-interval": 3,
+  "auto-sync-restore-change-delay-seconds": 7,
+  "sync-diagnostic-logging": false,
+  "sync-plugin-files": false,
+  "sync-editor": false,
+  "sync-appearance": false,
+  "sync-themes": false,
+  "sync-hotkeys": false,
+  "sync-core-plugins": false,
+  "sync-bookmarks": false,
+  "sync-plugin-data": false,
+  "sync-community-plugins": false,
+  "community-plugin-sync-policy": {
+    "version": 1,
+    "files": {
+      "mode": "all",
+      "pluginIds": []
+    },
+    "data": {
+      "mode": "all",
+      "pluginIds": []
+    }
+  },
+  "sync-excluded-folders": [],
+  "auto-sync-paused": true,
+  "sync-max-file-size-mb": 512,
+  "sync-auto-conflict-policy": {
+    "autoDeleteLocalFiles": false,
+    "mergeNonOverlappingText": true
+  },
+  "notification-popups": "all",
+  "easy-sync-size-exclusion-baseline": []
+}

@@ -1,0 +1,265 @@
+# 交际功能：补充附加信息
+
+关系从句可以作为信息管理工具，让说话者高效地把细节、背景和语境层层叠加进表达中。巴西葡语偏好有策略地摆放这些补充信息，在信息完整和对话流畅之间取得平衡。
+
+### 结构
+
+核心信息 + 关系从句（补充细节） 或 背景语境（关系从句） + 主句重点
+
+### 快速概览
+
+- 不用另起新句，也能补充细节
+- 背景 → 核心信息 → 额外细节
+- 回答的是：哪一个？什么样？怎样？为什么？
+- 信息层级很重要
+- 太多就会变成信息过载
+- 可以通过摆放位置来突出重点
+- 口语和写作的组织方式不同
+- 巴西文化偏好更丰富的背景信息
+- 关系从句也是讲故事的工具
+- 在完整和清晰之间保持平衡
+
+### 深入解析
+
+### 关系从句的信息功能
+
+## 1\. 指认（是哪一个？）：
+
+- "O cliente **que ligou ontem** quer remarcar"（说明是哪位客户）
+- "A proposta **que enviamos na sexta** foi aprovada"（说明是哪份提案）
+
+## 2\. 描述性质（什么样的？）：
+
+- "Procuro um apartamento **que seja silencioso** "（什么样的公寓）
+- "Precisamos de alguém **que tenha experiência** "（什么样的人）
+
+## 3\. 背景 / 语境（为什么相关？）：
+
+- "Maria, **que estudou na França**, fala francês perfeitamente"（解释原因或背景）
+- "O projeto, **que começou há dois anos**, finalmente terminou"（补充背景）
+
+## 4\. 评价 / 观点：
+
+- "O filme, **que achei fantástico**, ganhou vários prêmios"
+- "A reunião, **que foi uma perda de tempo**, durou três horas"
+
+## 5\. 结果 / 后果：
+
+- "Ele chegou atrasado, **o que irritou o chefe** "
+- "Choveu muito, **o que cancelou o evento** "
+
+### 复杂句中的信息层级
+
+## 基本原则：核心信息 → 补充细节
+
+## 模式 1：主事实 + 细节
+
+主事实：Contratamos uma nova gerente
+
+细节：que tem MBA em Harvard
+
+que fala quatro línguas
+
+que trabalhou na Amazon
+
+结果： "Contratamos uma nova gerente que tem MBA em Harvard, fala quatro línguas e trabalhou na Amazon."
+
+## 模式 2：背景 + 主事实
+
+背景：que mora no meu prédio
+
+主事实：O médico me atendeu ontem
+
+结果： "O médico que mora no meu prédio me atendeu ontem."
+
+## 模式 3：主事实 + 评价
+
+主事实：Visitamos o novo restaurante
+
+评价：que estava lotado
+
+o que mostra que é popular
+
+结果： "Visitamos o novo restaurante, que estava lotado, o que mostra que é popular."
+
+### 策略性摆放信息
+
+## 前置（先给背景）：
+
+- "A empresa **que fundei em 2010** acaba de abrir filial"
+- 先把场景交代出来，再进入主消息
+
+## 后置（后补细节）：
+
+- "Comprei um carro **que é híbrido e econômico** "
+- 先说核心信息，再补规格细节
+
+## 中插（插入补充）：
+
+- "João, **que aliás é seu primo**, foi promovido"
+- 在主句中插入一个相关旁注
+
+### 如何有效构建复杂句
+
+## 第 1 层：单个关系从句
+
+简单：Ana é professora.
+
+增强：Ana, que tem doutorado, é professora.
+
+## 第 2 层：多个并列从句
+
+Ana, que tem doutorado e que morou na Alemanha, é professora.
+
+## 第 3 层：嵌套信息
+
+Ana, que tem doutorado pela USP, onde estudou literatura alemã, é professora.
+
+## 信息过载的信号：
+
+- 超过 3 个关系从句
+- 听者说 "espera, não entendi"
+- 你自己说到一半也跟丢了
+- 出现多层嵌套
+
+### 口语信息组织 vs 书面信息组织
+
+## 在对话中：
+
+- 更短的块状信息： "Conheci a Maria. Ela trabalha no Google. Estudou em Stanford."
+- 听者可以互动追问
+- 语气和手势也能补充意义
+- 适度重复是可以接受的
+
+## 在写作中：
+
+- 更倾向于整合成长句： "Conheci Maria, que trabalha no Google e estudou em Stanford."
+- 第一次就要把信息说完整
+- 标点很关键
+- 更重视效率
+
+## 邮件 / 职场：
+
+"Segue o relatório que solicitou, que contém a análise do trimestre e que já foi revisado pela equipe financeira."
+
+## WhatsApp / 随意场景：
+
+"o relatório que vc pediu ta pronto"
+
+（如果需要，细节可以拆成后续几条消息）
+
+### 巴西式信息偏好
+
+## 文化倾向：高语境交流
+
+- 关系很重要： "O Pedro, que é filho da dona Maria..."
+- 社会定位也常被提到： "...que mora em Higienópolis..."
+- 专业可信度也常一并交代： "...que trabalhou 10 anos no Itaú..."
+
+## “把整幅图讲完整”的期待：
+
+巴西人常常期待你说明：
+
+1. 这个人是谁
+2. 你怎么认识他 / 她
+3. 他 / 她为什么相关
+4. 有什么背景或资历
+
+例如："Vou almoçar com Carlos" 可能会引来 "Qual Carlos?"，于是你会接着说：
+
+"Carlos que era meu colega de faculdade, que agora trabalha no Bradesco, casou com a Fernanda"
+
+### 常见的信息组织模式
+
+## 介绍一个人：
+
+"Este é o Roberto, que é nosso novo diretor, que veio de São Paulo e que tem vasta experiência em marketing digital."
+
+## 描述一个地方：
+
+"Fomos àquele restaurante que fica no Jardins, que serve comida italiana autêntica e onde sempre tem fila."
+
+## 解释一个情况：
+
+"Tive um problema com o computador, que comprei há apenas dois meses, o que me obrigou a levar na assistência."
+
+## 给出推荐：
+
+"Você deveria falar com a Dra. Silva, que é especialista nisso, que atende no Hospital Albert Einstein e que foi muito recomendada."
+
+### 例子
+
+### 职场场景
+
+- "O candidato **que entrevistamos ontem**, **que tem experiência internacional** e **que fala três idiomas**, seria perfeito para a vaga"（我们昨天面试的那位候选人，有国际经验又会三门语言，非常适合这个职位）
+- "A empresa **que nos contratou**, **que fica em Alphaville**, quer o projeto **que orçamos em junho** "（雇用我们的那家公司位于阿尔法维尔，他们想做我们六月报价的那个项目）
+- "O software **que desenvolvemos**, **que levou seis meses** e **que custou R$500 mil**, já está operacional"（我们开发的这套软件，耗时半年、花费五十万雷亚尔，现已投入运行）
+
+### 社交信息
+
+- "A Ana, **que você conheceu no meu aniversário**, **que namora o Paulo** e **que trabalha comigo**, vai casar"（安娜——你在我生日会上见过的、跟保罗在交往、和我同事的那位——要结婚了）
+- "Encontrei o Marcos, **que foi nosso vizinho**, **que agora mora em Floripa** e **que abriu uma startup** "（我碰到了马科斯——他从前是我们的邻居，现在住在弗洛里亚诺波利斯，还开了家初创公司）
+- "Aquela moça **que sempre cumprimentamos**, **que tem um cachorro pequeno**, é juíza"（我们总打招呼的那位小姐，牵着小狗的那位，是位法官）
+
+### 实际生活场景
+
+- "O mecânico **que me indicaram**, **que fica perto de casa** e **que não cobra caro**, resolveu o problema"（别人给我推荐的那位修车师傅，就在我家附近、收费也不贵，把问题解决了）
+- "A escola **que visitamos**, **que tem ótima estrutura** mas **que fica longe**, aceitou a matrícula"（我们参观的那所学校，设施很好但路远，已经接受了报名）
+- "O apartamento **que vimos ontem**, **que tem três quartos** e **que fica no 10º andar**, está dentro do orçamento"（我们昨天看的那套公寓，三居室、在十楼，在预算之内）
+
+### 层层叠加的信息
+
+- "O livro **que li**, **que foi escrito por um autor nigeriano** **que ganhou o Nobel**, mudou minha perspectiva"（我读的那本书，出自一位获得诺贝尔奖的尼日利亚作家之手，改变了我的看法）
+- "A viagem **que fizemos**, **que incluiu cinco países** **onde nunca tínhamos ido**, foi inesquecível"（我们那趟旅行走了五个从没去过的国家，令人难忘）
+- "O curso **que estou fazendo**, **que é online** mas **que tem aulas ao vivo**, está sendo muito útil"（我在上的这门课是线上的，但有直播课，非常有用）
+
+### 信息过载（应避免）
+
+- ❌ "A pessoa que conheci na festa que foi organizada pela empresa que trabalho que fica no centro que estava celebrando o aniversário que coincidiu com o feriado..."
+- ✓ "Conheci alguém interessante na festa da empresa. Foi no centro, durante as comemorações de aniversário."
+
+### 常见例外
+
+### 拆开说往往更好
+
+有些时候分成几句更合适：
+
+- 技术信息过于复杂时
+- 情绪强烈或令人震惊的消息
+- 当清晰度最重要时
+
+### 关系从句的使用禁区
+
+尽量避免把以下内容塞进关系从句：
+
+- 当着当事人的面说坏消息
+- 敏感的个人信息
+- 在介绍时加入负面特征
+
+### 提问场景
+
+提问时通常更简单：
+
+- "Você conhece a Maria?" 而不是 "Você conhece a Maria que trabalha..."
+- 对方回应之后再补细节
+
+### 紧急 / 迫切信息
+
+这时不要堆关系从句：
+
+- "Chama a ambulância!" 而不是 "Chama a ambulância que fica..."
+- 紧急性优先于完整性
+
+### 文化敏感度
+
+有些信息最好别主动补充：
+
+- 薪资 / 财务情况
+- 婚姻问题
+- 健康问题（除非确实相关）
+
+### 年龄与信息量
+
+- 年轻人：关系从句背景通常更少
+- 中年人：最喜欢把前因后果都交代清楚
+- 老年人：往往期待更完整的故事

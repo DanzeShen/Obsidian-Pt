@@ -1,0 +1,325 @@
+# 用 ser + 过去分词构成被动语态
+
+巴西葡语会通过多种结构表达被动意义，包括 ser + 过去分词（正式被动）、反身 se（常见替代）、不定主语以及主动改写。具体选哪种形式，要看正式程度、地区差异，以及你是否想隐藏、点明或模糊动作的执行者。
+
+### 结构
+
+ser + 过去分词（施事者可用 por / pelo / pela 引出）OR se + 第三人称动词 OR 第三人称复数主动句 OR a gente 主动句
+
+### 快速概览
+
+- **正式被动** ：ser + 过去分词（foi feito）
+- **反身被动** ：se + 动词（fez-se, vende-se）
+- **Estar 被动** ：estar + 分词（está fechado）
+- **不定主语** ：第三人称复数动词（fizeram, roubaram）
+- **主动替代** ：a gente + 主动动词
+- 分词要在性和数上与主语一致
+- 施事者通常由 "por"（被、由）引出
+- ser 被动强调动作，estar 被动强调结果状态
+- 巴西人更偏好正式被动之外的替代说法
+- se 被动只能和及物动词一起使用
+
+### 深入解析
+
+### 被动语态的整体系统
+
+巴西葡语有多种表达被动意义的方式，而且各有不同用途：
+
+| 结构 | 例子 | 用法 | 正式程度 |
+| --- | --- | --- | --- |
+| Ser + 分词 | Foi construído | 动作被动 | 很正式 |
+| Estar + 分词 | Está construído | 状态被动 | 中性 |
+| Se + 动词 | Construiu-se | 反身被动 | 正式 |
+| 第三人称复数 | Construíram | 不定主语 | 非正式 |
+| A gente | A gente construiu | 主动替代说法 | 很不正式 |
+
+### 经典被动：SER + 过去分词
+
+这是教材里最标准的被动结构，使用 ser + 过去分词，并且要做一致配合：
+
+## 构成规则：
+
+1. 主语承受动作
+2. 分词在性和数上与主语一致
+3. 施事者（可选）用 "por" 引出
+
+## 现在时被动
+
+- O livro **é lido** por milhões（这本书被数百万人阅读）
+- As casas **são vendidas** rapidamente（这些房子卖得很快）
+
+## 简单过去时被动
+
+- O prédio **foi construído** em 1950（这栋楼建于 1950 年）
+- As propostas **foram aceitas** （这些提案被接受了）
+
+## 未完成过去时被动
+
+- A cidade **era governada** por...（这座城市曾由……治理）
+- Os jogos **eram transmitidos** ao vivo（比赛曾被现场直播）
+
+## 将来时被动
+
+- O projeto **será aprovado** amanhã（这个项目明天将被批准）
+- As mudanças **serão implementadas** （这些改动将被落实）
+
+### 分词配合表
+
+| 主语 | 分词词尾 | 例子 |
+| --- | --- | --- |
+| 阳性单数 | \-o | foi feito |
+| 阴性单数 | \-a | foi feita |
+| 阳性复数 | \-os | foram feitos |
+| 阴性复数 | \-as | foram feitas |
+
+## 一致配合示例：
+
+- O bolo foi **feito** （阳性单数）
+- A pizza foi **feita** （阴性单数）
+- Os documentos foram **enviados** （阳性复数）
+- As cartas foram **enviadas** （阴性复数）
+
+### 状态被动：ESTAR + 过去分词
+
+这个结构强调的是结果状态，而不是动作本身：
+
+## Ser 和 Estar 的区别：
+
+- Ser: A porta **foi fechada** （门被关上了，强调动作）
+- Estar: A porta **está fechada** （门是关着的，强调状态）
+
+## 常见状态被动：
+
+- **Está escrito** na lei（法律里写着）
+- **Estão proibidos** de entrar（他们被禁止进入）
+- **Estava previsto** para hoje（原定在今天）
+- **Estamos perdidos** （我们迷路了）
+
+### 反身被动：SE + 动词
+
+这是正式场合里替代 ser 被动的常见方式：
+
+## 构成：
+
+- SE + 第三人称单数（单数主语）
+- SE + 第三人称复数（复数主语）
+
+## 例子：
+
+- **Vende-se** casa（房屋出售）
+- **Vendem-se** casas（房屋出售）
+- **Aluga-se** quarto（房间出租）
+- **Conserta-se** computadores（维修电脑）
+
+## 语序变化：
+
+- Vende-se casa = Casa se vende
+- Fala-se português = Português se fala
+- Procura-se empregado = Empregado se procura
+
+## 限制：
+
+- 只能和及物动词连用
+- 不能出现明确的施事者
+- 常见于告示、广告和正式书面语
+
+### 不定主语：第三人称复数
+
+这是口语里最常见的替代方式：
+
+## 没有主语代词：
+
+- **Roubaram** meu carro（他们偷了我的车 = 我的车被偷了）
+- **Disseram** que vai chover（他们说要下雨了）
+- **Aumentaram** os preços（他们把价格涨了）
+- **Cancelaram** o show（他们取消了演出）
+
+## 优点：
+
+- 听起来更自然、更口语
+- 暗示施事者是人
+- 避开复杂的被动结构
+- 在口语里最常见
+
+### 用 "A gente" 做主动替代
+
+可以用 "a gente"（我们 / 人们）来表达泛指陈述：
+
+- 不说： "Português é falado no Brasil"
+- 可以说： "A gente fala português no Brasil"
+- 不说： "Isto não é feito aqui"
+- 可以说： "A gente não faz isso aqui"
+
+### 复合被动时态
+
+## 现在完成时被动
+
+- Tem sido + 分词： **Tem sido discutido** （一直在被讨论 / 已被讨论）
+- Foi + 分词： **Foi decidido** （已经被决定）
+
+## 过去完成时被动
+
+- Tinha sido + 分词： **Tinha sido aprovado** （已经被批准了）
+
+## 将来完成时被动
+
+- Terá sido + 分词： **Terá sido concluído** （到时将已经完成）
+
+## 条件式被动
+
+- Seria + 分词： **Seria aceito** （会被接受）
+
+### 施事者表达（por, pelo/a）
+
+## 使用 POR：
+
+- Foi feito **por** mim（这是我做的）
+- Escrito **por** Machado de Assis（由马沙多·德·阿西斯所写）
+
+## 使用 PELO/PELA（por + o/a）：
+
+- Aprovado **pelo** diretor（由主管批准）
+- Escolhido **pela** empresa（由公司选定）
+- Selecionados **pelos** juízes（由评委选出）
+- Eleitas **pelas** comunidades（由社区选举出来）
+
+### 什么时候用哪一种结构
+
+| 语境 | 最佳选择 | 例子 |
+| --- | --- | --- |
+| 新闻标题 | Ser 被动 | "Ministro foi demitido" |
+| 告示 / 通知 | Se 被动 | "Aceita-se cartões" |
+| 日常口语 | 第三人称复数 | "Me ligaram ontem" |
+| 使用说明 | Se 被动 | "Serve-se gelado" |
+| 抱怨 | 第三人称复数 | "Aumentaram o aluguel!" |
+| 学术写作 | Ser 被动 | "Foi observado que..." |
+| 状态 / 结果 | Estar 被动 | "Está resolvido" |
+
+### 例子
+
+### 新闻与新闻写作
+
+- "O presidente **foi reeleito** com 55% dos votos"（总统以 55% 的得票率再次当选）
+- "Três suspeitos **foram presos** pela polícia"（三名嫌疑人被警方逮捕）
+- " **Foi anunciado** novo lockdown"（新的封锁措施已被宣布）
+- "A lei **será votada** na próxima sessão"（这项法律将在下次会议中表决）
+
+### 告示与公共通知
+
+- " **Vende-se** apartamento com vista para o mar"（出售海景公寓）
+- " **Alugam-se** quartos para estudantes"（学生房间出租）
+- " **Consertam-se** sapatos"（修鞋）
+- " **Procura-se** cozinheiro com experiência"（招聘有经验的厨师）
+- " **Aceita-se** Pix e cartão"（接受 Pix 和刷卡）
+
+### 日常抱怨（不定主语）
+
+- " **Roubaram** minha bicicleta!"（我的自行车被偷了！）
+- " **Aumentaram** o preço da gasolina de novo"（油价又涨了）
+- " **Derrubaram** a árvore da praça"（广场上的树被砍倒了）
+- " **Cancelaram** meu voo sem avisar"（他们没通知就取消了我的航班）
+
+### 正式文件
+
+- " **Foi acordado** entre as partes que..."（双方已约定……）
+- "O contrato **foi assinado** por ambos"（合同由双方签署）
+- "Os termos **foram estabelecidos** previamente"（条款已事先确定）
+- " **Fica determinado** que..."（特此规定……）
+
+### 餐厅 / 菜谱语境
+
+- "O prato **é servido** com arroz"（这道菜配米饭上桌）
+- " **Sirva-se** à vontade"（请随意自取）
+- "A carne **é temperada** com alho"（肉用大蒜调味）
+- " **Mistura-se** todos os ingredientes"（把所有材料混合起来）
+
+### 状态描述
+
+- "A loja **está fechada** para reforma"（这家店因装修而关闭）
+- "Os documentos **estão organizados** por data"（文件按日期整理好了）
+- "O problema **está resolvido** "（问题已经解决）
+- "Vocês **estão convidados** para a festa"（你们被邀请参加聚会）
+
+### 学术 / 科学写作
+
+- " **Foi observado** que..."（已经观察到……）
+- "Os dados **foram coletados** durante três meses"（数据在三个月内被收集）
+- " **Conclui-se** que..."（可以得出结论……）
+- "Os resultados **serão publicados** "（结果将会发表）
+
+### WhatsApp / 非正式
+
+- " **me add** no grupo"（把我拉进群里吧，受英语影响）
+- " **fui hackeado** "（我被黑了）
+- " **me baniram** do servidor"（我被服务器封禁了）
+- " **deletaram** meu comentário"（他们把我的评论删了）
+
+### 常见例外
+
+### 不太进入被动态的动词
+
+有些动词很少用 ser 被动：
+
+- ❌ "É tido"（被有）→ 通常改用 "se tem" 或 "há"
+- ❌ "É havido"（被有）→ 通常改用 "há" 或 "existe"
+- ❌ "É custado" → 通常改用 "custa"
+- ✅ 例外：动词 "ser" 本身，"Foi sido difícil"（只见于文学语体）
+
+### 一致配合的过度纠正
+
+巴西人经常忘记分词一致：
+
+- 正式： "As casas foram **construídas** "
+- 常见错误： "As casas foram **construído** "
+- 和 "se" 连用时，口语里也常常不做一致
+
+### 假被动
+
+并不是所有 ser + 分词 都是真正的被动：
+
+- "Ele **é chegado** "（他很喜欢 / 他已经到了，地区说法）
+- "Sou **nascido** em SP"（我出生在圣保罗）
+- "É **preciso** "（这是必要的）
+	这些都是固定表达，不是真正的被动
+
+### Se 的位置之争
+
+巴西葡语更喜欢把 se 放在动词前（前置）：
+
+- 巴西： " **Se** vende casa"
+- 葡萄牙： "Vende- **se** casa"
+- 两种都对，但位置会暴露说话人的国别背景
+
+### 双重被动禁止
+
+不能把两种被动结构叠在一起：
+
+- ❌ "Foi se vendido"
+- ❌ "Está sendo sido feito"
+- ✅ "Está sendo feito"（正在被做）
+
+### 地区差异
+
+**东北部** ：经常省略一致
+
+- "As música foi tocada"（省掉了复数 -s）
+
+**南部** ：更保持正式一致
+
+- 更可能说 "foram construídas"
+
+**圣保罗** ：商业语境里常见被动
+
+- 到处都能听到 "Foi decidido que..."
+
+**里约** ：更偏好不定主语
+
+- "Decidiram que..." 更常见
+
+### 假的 Se 被动
+
+和不及物动词连用时，它不是被动，而是不定主语：
+
+- "Vive-se bem aqui"（这里生活得很好 / 人们在这里过得不错）
+- "Dorme-se mal neste hotel"（这家酒店里睡得不好）
+- "Precisa-se de..."（需要……）

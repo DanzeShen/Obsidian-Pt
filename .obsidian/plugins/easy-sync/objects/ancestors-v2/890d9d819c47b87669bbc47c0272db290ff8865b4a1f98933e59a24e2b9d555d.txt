@@ -1,0 +1,173 @@
+# 形容词位置与意义变化
+
+葡萄牙语的形容词通常放在名词后面： *um carro rápido* （快车）。把一小批很熟悉的形容词挪到前面，你就不再测量这个东西，而是在评价它—— *um homem grande* （块头大的人）不是 *um grande homem* （伟大的人物）。
+
+### 结构
+
+名词 + 形容词 → 单纯的事实 · 形容词 + 名词 → 你的评价，或者干脆是另一个意思
+
+### 快速概览
+
+- 安全中立的语序是 **名词 + 形容词** ： *uma cidade linda* （美丽的城市）
+- 颜色、形状、来源、类别永远不动： *um vestido azul* （蓝色的裙子），不能说 ✗ *um azul vestido*
+- 把一个短评价词放到前面，整个词组就变成了判断： *uma linda cidade* （多么美丽的城市）
+- 真正改变意思的五对： **grande、novo、velho、pobre、certo**
+- *um homem grande* （块头大的人）不是 *um grande homem* （伟大的人物）
+- **bom** 和 **mau** 默认站在前面： *um bom motivo* （充分的理由）
+- 巴西人也把强调放在前面： *um baita susto* （吓得不轻）
+- 中文习惯要调头：描写放在名词 **后面** ，不是前面
+
+### 深入解析
+
+### 形容词的老家在名词后面
+
+中文的形容词永远站在名词前面：「红色的自行车」，绝无例外。葡萄牙语正好相反，先点名，再描写。 *Uma casa amarela* （黄色的房子）、 *um problema chato* （麻烦的问题）、 *uma pergunta difícil* （难回答的问题）——名词在前，描写在后，十次里有九次都是这个顺序。
+
+有一类形容词从不离开这个位置，因为它们陈述事实，而不是意见：
+
+| 形容词说的是 | 它留在名词后面 |
+| --- | --- |
+| 颜色 | uma bicicleta **vermelha** （红色的自行车） |
+| 形状 | uma janela **redonda** （圆形的窗户） |
+| 来自哪里 | um sotaque **mineiro** （米纳斯州口音） |
+| 属于哪一类 | uma conta **bancária** （银行账户） |
+
+除非在写诗，否则 ✗ *uma vermelha bicicleta* 听起来只是坏掉了。
+
+### 挪到前面，它就不再测量，而是开始评价
+
+能挪动的是那些又短又日常、带着态度的形容词。东西本身没变，变的是说话的人：
+
+- Foi uma noite **linda**.（那是个美丽的夜晚。）——你在陈述
+- Foi uma **linda** noite.（那真是个美丽的夜晚。）——你在感慨
+
+这就是你要转的弯。中文只有「前面」这一个位置，所以「往前挪」本身对你是全新的工具。安全的默认值是后面；前面，是你有意做出的选择。
+
+### 真正翻转意思的五对
+
+在一小群高频形容词身上，差别就不再是语气了。请成对记：
+
+| 在前 → 你的评价 | 在后 → 单纯的事实 |
+| --- | --- |
+| um **grande** homem（伟大的人物） | um homem **grande** （块头大的人） |
+| um **novo** carro（另一辆车，下一辆） | um carro **novo** （刚出厂的新车） |
+| um **velho** amigo（老朋友，交情久） | um amigo **velho** （上了年纪的朋友） |
+| uma **pobre** mulher（可怜的女人） | uma mulher **pobre** （没钱的女人） |
+| um **certo** dia（某一天） | o dia **certo** （正确的那天） |
+
+第三行你其实早就会了： *velho amigo* 就是中文的「老朋友」——老的是交情，不是人；要说人老，中文得改口叫「年老的朋友」。中文靠构词区分（大人物／大的人、老朋友／年老的朋友），葡萄牙语则靠同一个词换位置。
+
+### bom 和 mau 生来就在前面
+
+*Bom* 、 *boa* 、 *mau* 、 *má* 、 *belo* 通常站在名词前面：
+
+- um **bom** motivo（充分的理由）· uma **boa** notícia（好消息）
+- um **mau** hábito（坏习惯）· um **belo** presente（漂亮的礼物）
+
+放到后面也说得通，但重心会移到那个性质本身： *um médico bom* 回答的是「他到底行不行」，而 *um bom médico* 只是介绍他的方式。几句冻住的问候语说明了哪个位置赢了： **Bom dia** 、 **Boa tarde** 、 **Boa noite** 、 **Boa sorte** 、 **Boa viagem** ——从不倒过来说。
+
+### 前面这个位置，是巴西人放重音的地方
+
+有几个非常巴西的词只活在名词前面。它们不描写什么，只负责把音量拧大：
+
+| 说法 | 作用 |
+| --- | --- |
+| um **baita** susto | 吓得不轻 |
+| um **senhor** almoço | 一顿像样的午饭 |
+| um **tremendo** erro | 天大的错误 |
+| **pura** sorte | 纯粹靠运气 |
+| um **mero** detalhe | 不过是个小细节 |
+
+把它们挪到后面，句子就塌了：✗ *um susto baita* 。至于 *um senhor almoço* ，那不是一顿被人尊称的午饭，而是一顿大到配得上这个头衔的午饭。
+
+### 两个一起用：评价在前，事实在后
+
+想把两件事一次说完，各回各的位置：
+
+- um **bom** vinho **tinto** （好喝的红酒）
+- uma **velha** casa **amarela** （一栋黄色的老房子）
+
+同一类的两个事实一起留在后面，用 *e* 连起来：
+
+- uma casa **grande e branca** （又大又白的房子）
+- um filme **longo e chato** （又长又闷的电影）
+
+而当放在前面的一个形容词要管两个名词时，它跟紧挨着它的那个保持一致：
+
+- Comprei **novas** camisas e sapatos.（我买了新衬衫和新鞋。）—— *novas* 跟 *camisas* 一致
+- Comprei **novos** sapatos e camisas.（我买了新鞋和新衬衫。）——现在跟 *sapatos* 一致
+
+### 例子
+
+### 日常语序
+
+- 「Moro numa rua tranquila.」 （我住在一条安静的街上。）
+- 「Ela tem um cachorro enorme.」 （她养了一条巨大的狗。）
+- 「O ônibus vermelho para perto da minha casa.」 （红色的公交车停在我家附近。）
+- 「Eu prefiro música brasileira.」 （我更喜欢巴西音乐。）
+
+### Grande 和 novo
+
+- 「Pelé foi um grande jogador.」 （贝利是一位伟大的球员。）
+- 「O irmão dela é um rapaz grande.」 （她哥哥是个块头很大的小伙子。）
+- 「Ele arrumou um novo emprego.」 （他另找了一份工作。）
+- 「Minha tia comprou um sofá novo.」 （我姑姑买了一张全新的沙发。）
+
+### Velho 和 pobre
+
+- 「O Marcos é um velho amigo do meu pai.」 （马科斯是我爸爸的老朋友。）
+- 「Ela adotou um gato velho.」 （她收养了一只上了年纪的猫。）
+- 「A pobre moça perdeu a bolsa no ônibus.」 （那个可怜的姑娘把包丢在公交车上了。）
+- 「Ele cresceu num bairro pobre.」 （他在一个贫穷的社区长大。）
+
+### Certo、bom 和冻住的问候语
+
+- 「Um certo cliente ligou três vezes hoje.」 （今天有位客户打了三次电话。）
+- 「Você escolheu a hora certa.」 （你挑对了时候。）
+- 「Foi um bom motivo para comemorar.」 （那是个值得庆祝的好理由。）
+- 「Boa sorte na prova!」 （考试加油！）
+
+### 巴西人的「前排座位」
+
+- 「Levei um baita susto ontem.」 （我昨天吓得不轻。）
+- 「A gente comeu um senhor almoço no domingo.」 （星期天我们吃了一顿像样的午饭。）
+- 「Isso foi um tremendo mal-entendido.」 （那是个天大的误会。）
+- 「Ganhar aquele jogo foi pura sorte.」 （赢下那场比赛纯粹是运气。）
+
+### 常见例外
+
+### 表示次序的词，做次序时一律在前
+
+*Primeiro* 、 *último* 、 *próximo* 放在名词前面： **o primeiro ônibus** （第一班公交）、 **a última vez** （上一次）、 **a próxima segunda-feira** （下周一）。日常里唯一让 *primeiro* 跑到后面的地方是日期—— **dia primeiro de maio** （五月一日）就是巴西人朗读 *1º de maio* 的说法。另外 *próximo* 一旦挪到名词后面就不再排序，而是开始描写： **um amigo próximo** 是亲近的朋友。
+
+### caro：亲爱的，还是贵的，看座位
+
+每一封以 **Caro João** 或 **Cara Ana** 开头的巴西邮件， *caro* 用的都是「亲爱的」。把它送到名词后面，它就回到钱上： **um presente caro** （贵重的礼物）。所以 *um caro amigo* 是亲爱的朋友， *um amigo caro* 则是一个很费钱的朋友。
+
+### único：只有一个，还是独一无二
+
+在前面是计数，在后面是赞美： **um único problema** （只有一个问题）对上 **um problema único** （独一无二的问题）。
+
+### 带着行李的形容词只能留在后面
+
+形容词一旦拖着补语，前面的座位就关闭了： **uma sala cheia de gente** （挤满人的房间）、 **um exercício fácil de entender** （容易理解的练习）。✗ *uma cheia de gente sala* 根本不成句。中文可以把长长的修饰语全塞在名词前，葡萄牙语不行。
+
+### ser 和 estar 后面根本没有前排座位
+
+这套翻转只在形容词紧挨着自己的名词时才起作用。 **Ele é grande** 说的是体格， **Ela é velha** 说的是年纪——这就是默认读法。想夸这个人，就得把名词请回来： **Ele é um grande homem.**
+
+### 趣闻
+
+**巴西最受喜爱的喜剧演员，先被写成 *Pequeno* ，后来才被写成 *Grande* 。** 塞巴斯蒂昂·贝尔纳德斯·德索萨·普拉塔在 Companhia Lírica Nacional 取了「奥赛罗」这个艺名，因为指挥认定他那副嗓子将来能唱威尔第的《奥赛罗》；而他个子矮小，于是成了 **Pequeno Otelo** （小奥赛罗）。等他成名之后，报界在同一个位置换上另一个形容词，这个名字跟了他一辈子： **Grande Otelo** 。他一厘米都没长高——放在名字前面的 *grande* ，意思是「伟大的」。资料来源： [USP — FFLCH](https://www.fflch.usp.br/39623) 、 [Câmara Municipal de São Paulo](https://www.saopaulo.sp.leg.br/memoria/especial/grande-otelo/) 。
+
+**巴西音乐里最有名的歌曲之一其实是一封信，而开头就是这一课。** 1975 年 7 月，希科·布阿尔基提笔写信给流亡葡萄牙的朋友奥古斯托·博阿尔，信里的草稿后来成了 **Meu caro amigo** ：与弗朗西斯·希梅合作完成，唱片发行前先录成家庭卡带寄往里斯本。名词前面的 *caro* ，就是今天巴西邮件开头那句「亲爱的」；挪到后面， *um amigo caro* 就成了一个花钱如流水的朋友。资料来源： [Blog do IMS — Instituto Moreira Salles](https://blogdoims.com.br/a-estrofe-perdida/) 、 [chicobuarque.com.br](https://www.chicobuarque.com.br/obra/album/18) 。
+
+### 外部资源
+
+#### [A posição do adjetivo. Antes ou depois do substantivo? A ordem pode alterar o sentido.](https://portuguessemmisterio.com.br/2015/10/14/a-posicao-do-adjetivo/)
+
+By Português sem Mistério
+
+#### [Portuguese Adjective Placement — Order and Meaning](https://portuguesewitheli.com/brazilian-portuguese-grammar/using-portuguese-adjectives/)
+
+By Portuguese with Eli

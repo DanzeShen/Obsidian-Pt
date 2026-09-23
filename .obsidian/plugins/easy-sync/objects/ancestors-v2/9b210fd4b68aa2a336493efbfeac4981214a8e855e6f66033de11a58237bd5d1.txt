@@ -1,0 +1,147 @@
+# 交际功能：避免重复，让表达更流畅
+
+巴西人说话尽量不把同一件事说两遍：主语藏进动词词尾，宾语常常干脆不说，一个小词——lá、também——就能顶替一整个句子。
+
+### 结构
+
+第一次提到说全 → 用 ele/ela 或宾语代词 → 等上下文撑得住，就什么都不说
+
+### 快速概览
+
+- 说一次，然后开始做减法
+- **省略主语** ——词尾已经交代了是谁： *Acordei, tomei café e saí*
+- 意思清楚时 **省略宾语** ： *Comprei o livro. Ainda não li*
+- 第二次提到某人 = **ele / ela** ，第三次往往什么都不用
+- **lá** 和 **aqui** 顶替你刚说过的地点
+- **também** 、 **também não** 、 **nem eu** 顶替一整句重复的话
+- 回答是非问句时 **重复动词** ： *Você foi? — Fui.*
+- 需要对比时，主语代词要回来： *Eu fui, mas ela ficou*
+
+### 深入解析
+
+### 说一次，然后放手
+
+葡萄牙语的动词词尾已经带着人称，其余的交给上下文。所以第一次提到之后，巴西人就开始做减法：
+
+| 啰嗦的说法 | 自然的说法 |
+| --- | --- |
+| **Eu** acordei cedo. **Eu** tomei café. **Eu** saí correndo. | Acordei cedo. Tomei café. Saí correndo. |
+| A Ana chegou. A Ana trouxe o bolo. | A Ana chegou. **Ela** trouxe o bolo. |
+| Comprei o livro. Não li o livro. | Comprei o livro. Não li. |
+
+这里同时用了三招：省主语、把名字换成代词、省宾语。本课接下来逐一拆开。好消息是：这三招中文全都有，你在这一课等于回到主场。
+
+### 省略主语
+
+*Falo* 、 *falamos* 、 *falaram* ——词尾已经说明是谁在说，所以主语代词就待在家里不出门了：
+
+- "Acordei, tomei café e saí." （我醒来，喝了咖啡，就出门了。）
+- "Chegou tarde de novo." （他又迟到了。）
+
+注意第二句根本没提任何人。在一段本来就在聊你哥哥的对话里，也确实不需要提。
+
+### 省略宾语：最巴西的一招
+
+| 问题 | 课本式回答 | 巴西人怎么说 |
+| --- | --- | --- |
+| Você comprou o pão? | Eu **o** comprei | **Comprei.** |
+| Você viu a Ana? | Eu **a** vi | **Vi ela.** / **Vi.** |
+| Já leu o livro? | Já **o** li | **Já li.** |
+
+这里你又回到主场：中文回答 你买面包了吗 就是一句 买了，宾语根本不出现。 *o、a、os、as* 你两课前学过，写在纸上依然好好的；但说出口时，巴西人要么说 **ele/ela** ，要么什么都不说，而什么都不说是这三种里最自然的。
+
+### 用一个小词顶替一整句
+
+| 与其重复 | 就用 | 例子 |
+| --- | --- | --- |
+| 已经说过的地点 | **lá** 、 **aqui** | Fui à festa. **Lá** comi muito bolo |
+| 表示同意 | **também** | Ela gosta de café. Eu **também** |
+| 附和否定 | **também não** 、 **nem eu** | Não gosto de chá. Eu **também não** |
+| 整个问句 | 重复动词 | Você foi? — **Fui.** |
+
+### 动词也不用重复
+
+当一句话的前后两半共用一个动词时，后半句直接把它丢掉：
+
+- "Eu quero café e ela, chá." （我要咖啡，她要茶。）
+- "Eu vou de ônibus e ele de carro." （我坐公交，他开车。）
+
+第一句里的逗号，干的就是那个消失的 *quer* 的活儿。
+
+### 合起来看
+
+同样三句话，讲两遍：
+
+- **机器人版：** "O João comprou um carro. O João gosta muito do carro. O João dirige o carro todo dia." （若昂买了一辆车。若昂很喜欢这辆车。若昂每天开这辆车。）
+- **自然版：** "O João comprou um carro. **Ele** gosta muito. Dirige todo dia." （若昂买了一辆车。他很喜欢。每天都开。）
+
+三句话，三种手法：名字变成 **ele** ，宾语消失，最后一句连主语都不要了。地道的巴西葡萄牙语不是用更多的词堆出来的，而是用更少的词。
+
+### 例子
+
+### 回答时不重复
+
+- "Você trouxe o bolo?" — " **Trouxe**." （你把蛋糕带来了吗？——带了。）
+- "Você já almoçou?" — " **Já**." （你吃午饭了吗？——吃了。）
+- "Você vai à festa?" — " **Vou** sim." （你去派对吗？——去。）
+
+### 先说名字，再用代词，然后什么都不说
+
+- "A Ana chegou. **Ela** trouxe o bolo. Ficou até tarde." （安娜来了。她带了蛋糕。待到很晚。）
+- "O Pedro ligou. **Ele** quer falar com você." （佩德罗来过电话。他想跟你谈谈。）
+- "Comprei o vestido. Adorei!" （我买了那条裙子。太喜欢了！）
+
+### 一个词代替一个地点
+
+- "Fomos ao mercado. **Lá** compramos tudo." （我们去了市场。在那儿把东西都买齐了。）
+- "Estudei na Bahia. **Lá** aprendi a cozinhar." （我在巴伊亚念过书。做饭就是在那儿学的。）
+
+### 表示同意时不重复
+
+- "Ela gosta de café. Eu **também**." （她喜欢咖啡。我也是。）
+- "Não gosto de chá." — " **Nem eu**." （我不喜欢茶。——我也不喜欢。）
+- "A Ana já foi e o Pedro **também**." （安娜已经走了，佩德罗也走了。）
+
+### 一整段话，自然的说法
+
+- "Ontem encontrei a Júlia no mercado. **Ela** chegou com o filho. Compramos tudo junto e depois tomamos um café. Adorei." （昨天我在市场碰到茱莉亚。她带着儿子来的。我们一起买完东西，又喝了杯咖啡。非常开心。）
+- "O filme começou tarde. Mesmo assim, gostei muito." （电影开场晚了。即便如此我还是很喜欢。）
+
+### 常见例外
+
+### 省略造成混淆时，把名字说回来
+
+场上有两个人时，一个光秃秃的 *ele* 帮不了任何人：
+
+- "O João e o Pedro saíram juntos. **O João** voltou primeiro." （若昂和佩德罗一起出去了。若昂先回来了。）
+
+如果你说 *Ele voltou primeiro* ，听的人只能猜是哪一个。
+
+### 故意重复
+
+有时候重复本身就是重点，巴西人很爱这么用：
+
+- "Falei, falei, falei e ninguém me ouviu." （我说了又说、说了又说，没人听。）
+- "Muito, muito obrigado!" （太谢谢、太谢谢了！）
+
+那是强调，不是笨拙。
+
+### 写下来的时候，宾语要还回去
+
+口语丢掉宾语，讲究的书面语通常保留 *o、a、os、as* ：
+
+- "Recebi o e-mail e já **o** respondi." （我收到了邮件，并且已经回复了。）
+
+同一个人说出口时，会直接说 *Recebi o e-mail e já respondi* ，一个宾语都不带。
+
+### 需要对比时主语会回来
+
+省略主语是常态，但只要你在比较两个人，代词立刻回来：
+
+- " **Eu** trabalho de manhã e **ela** trabalha à noite." （我上午上班，她晚上上班。）
+
+少了这两个代词，这句话就没有意义了。
+
+### 趣闻
+
+你刚花了一整课学 *o* 、 *a* 和 *lhe* ，那么反转来了：在巴西的口语里，第三人称的那几个正在悄悄消失。研究巴西葡萄牙语回指宾语的学者把宾格弱化代词描述为一个 **正在消失** 的形式，被 *ele/ela* 取代，或者干脆什么都不用；另一项跨越两个世纪的巴伊亚文本研究发现，弱化代词的使用率下降的幅度，正好等于零形宾语上升的幅度。也就是说，本课里最空的那个选项——什么都不说——才是赢家。来源： [Revista da Anpoll](https://revistadaanpoll.emnuvens.com.br/revista/article/view/1924) · [Estudos da Língua(gem)](https://periodicos2.uesb.br/index.php/estudosdalinguagem/article/view/1169) 。

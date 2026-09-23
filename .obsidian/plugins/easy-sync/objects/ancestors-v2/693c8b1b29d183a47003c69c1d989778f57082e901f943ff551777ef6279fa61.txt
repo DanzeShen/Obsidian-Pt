@@ -1,0 +1,223 @@
+# 规则 -IR 动词
+
+规则 -IR 动词和 -AR、-ER 一样可以表达现在或习惯性的动作，但它们有自己的一套词尾模式，其中最值得注意的是 nós 形式用 -imos。
+
+### 结构
+
+动词词干（去掉 -IR）+ 现在时词尾（-o, -e, -imos, -em）
+
+### 快速概览
+
+- 去掉 **\-IR** 找词干
+- 词尾： **eu** -o、 **você / ele / ela** -e、 **nós** -imos、 **vocês / eles / elas** -em
+- **Tu** -es 存在，但在巴西很少用
+- **A gente** 取第三人称单数 (-e)
+- 和 -ER 唯一不同就是 **nós** 形式 (-imos 而不是 -emos)
+- 是最小的一组，但里面都是常用动词
+- 很多 -IR 动词围绕"移动、决定、分享"展开
+- 像 **dormir、cobrir、tossir** 这类只在 **eu** 形式有词干变化
+- 注意：在书面体里 **assistir** 要带介词 **a** （assistir **ao** filme）
+
+### 深入解析
+
+### \-IR 动词的变位规则
+
+\-IR 动词的变位和 -ER 几乎一模一样，只有 **nós** 这一形式不同。掌握了 -ER 之后，再学 -IR 只需几分钟。
+
+我们以 **PARTIR** （离开 / 弄断）为模板：
+
+1. 找出词干：PARTIR − IR = PART-
+2. 根据主语加上相应词尾：
+
+## EU → -O
+
+- part + o = parto（我离开）
+
+**TU → -ES** （在巴西很少使用）
+
+- part + es = partes（你离开 — 非正式）
+
+## VOCÊ / ELE / ELA → -E
+
+- part + e = parte（你 / 他 / 她离开）
+
+**NÓS → -IMOS** （这是 -IR 唯一独有的词尾！）
+
+- part + imos = partimos（我们离开）
+
+**A GENTE → -E** （与 ele/ela 相同）
+
+- part + e = parte（我们离开 — 口语）
+
+## VOCÊS / ELES / ELAS → -EM
+
+- part + em = partem（你们 / 他们 / 她们离开）
+
+### 完整变位表
+
+| 人称 | 词尾 | 示例 (ABRIR) | 示例 (PARTIR) | 示例 (DIVIDIR) |
+| --- | --- | --- | --- | --- |
+| eu | \-o | abro | parto | divido |
+| tu | \-es | abres | partes | divides |
+| você | \-e | abre | parte | divide |
+| ele/ela | \-e | abre | parte | divide |
+| nós | \-imos | abrimos | partimos | dividimos |
+| a gente | \-e | abre | parte | divide |
+| vocês | \-em | abrem | partem | dividem |
+| eles/elas | \-em | abrem | partem | dividem |
+
+### 三组变位对照
+
+- \-AR：-o, -a, - **a** mos, -am
+- \-ER：-o, -e, - **e** mos, -em
+- \-IR：-o, -e, - **i** mos, -em
+
+只属于 -IR 的词尾就是 **nós** 的 **\-imos** 。
+
+### 常用 -IR 动词
+
+组别虽小，但每个都是高频词：
+
+## 动作 & 方位：
+
+- **abrir** （打开）
+- **partir** （离开 / 弄断）
+- **sair** （出去、离开）— 不规则！
+- **subir** （上升、上去）
+- **cair** （掉落）— 不规则！
+
+## 决定 & 发现：
+
+- **decidir** （决定）
+- **descobrir** （发现、得知）
+- **discutir** （讨论、争论）
+
+## 分享 & 允许：
+
+- **dividir** （分、分担）
+- **permitir** （允许）
+
+## 日常生活：
+
+- **assistir** （看、观看；出席）
+- **dormir** （睡觉）— 词干变化！
+- **tossir** （咳嗽）— 词干变化！
+
+### 会变词干的 -IR 动词
+
+有一小部分 -IR 动词只在 **eu** 形式发生词干元音变化，其它人称都按规则走：
+
+**DORMIR（睡觉）** ： **eu** 形式里 o → u
+
+- eu d **u** rmo（不是 "dormo"）
+- você dorme
+- nós dormimos
+- eles dormem
+
+## 同样的 o → u 模式：
+
+### 常见用法
+
+和你已经学过的其它现在式动词一样：
+
+1. **正在发生** ：「Eu abro a porta agora」（我现在正在开门）
+2. **习惯** ：「Nós dividimos o bolo」（我们分着吃蛋糕）
+3. **近期将来** ：「Eles partem amanhã」（他们明天出发）
+4. **普遍事实** ：「Pássaros sobem nas árvores」（鸟儿往树上爬）
+
+### 例子
+
+### 日常生活场景
+
+- 「Eu **abro** a porta de manhã.」（我早上开门。）
+- 「Você **divide** o apartamento?」（你合租公寓吗？）
+- 「A que horas vocês **partem**?」（你们几点出发？）
+- 「Ela **assiste** televisão todo dia.」（她每天看电视。）
+- 「Nós **dividimos** o bolo.」（我们一起分蛋糕。）
+
+### 做决定 & 安排
+
+- 「Eu **decido** depois.」（我等等再决定。）
+- 「A gente **decide** isso agora.」（我们现在就决定这件事。）
+- 「Vocês **permitem** cachorro?」（你们允许带狗吗？）
+- 「Ele **descobre** tudo.」（他什么都能查出来。）
+
+### 餐馆 / 社交
+
+- 「Vocês **dividem** a conta?」（要不要 AA？）
+- 「Eles **assistem** ao jogo no bar.」（他们在酒吧看球。）
+- 「Eu **subo** no elevador.」（我搭电梯上去。）
+- 「Nós **partimos** amanhã cedo.」（我们明天一早出发。）
+
+### WhatsApp / 发消息
+
+- 「vc **abre** a porta?」（你来开下门？）
+- 「 **partimos** em 10min」（我们 10 分钟后出发）
+- 「a gente **divide** a conta」（账单我们 AA）
+- 「ela **dorme** muito」（她睡很多）
+
+### 常见表达
+
+- 「 **Abre** o olho!」（小心点！/ 留神！）
+- 「 **Divide** comigo?」（分我一点？）
+- 「 **Descobre**!」（自己想办法！）
+- 「 **Sobe** rápido」（快上来 / 快上去）
+
+### 常见例外
+
+### dormir 这一类会改词干
+
+**eu** 形式里 **o → u** ，其它人称不变：
+
+- dormir → eu **durmo**
+- cobrir → eu **cubro**
+- descobrir → eu **descubro**
+- tossir → eu **tusso**
+
+### 使用 -IR 动词时的几个要点
+
+- **assistir** （看、出席）在书面体里要带介词 **a** ：assistir **ao** filme、assistir **ao** jogo；不过日常口语里巴西人经常直接说 assistir o filme。
+- **partir** 在葡萄牙语里同时表示"离开"和"弄断 / 切"——partir para o aeroporto（出发去机场）和 partir o bolo（切蛋糕）用的是同一个词。
+- **subir** 是"往上 / 上去"。中文常用的"上车"在葡萄牙语里通常用 **entrar no ônibus / metrô / avião** ，而不是 subir。
+- 表示中文的"分享"时，巴西人用 -AR 动词 **compartilhar** ，不要用 *compartir* （虽然存在，但听起来很古老）。
+
+### 常见错误
+
+1. **assistir 加介词 a**
+	- 规范体：「Eu assisto **ao** filme」
+		- 口语：「Eu assisto o filme」— 在巴西非常普遍
+2. **把 -ER 和 -IR 弄混（nós 形式）**
+	- ❌ Nós partemos
+		- ✅ Nós **partimos**
+3. **忘了词干变化**
+	- ❌ Eu dormo
+		- ✅ Eu **durmo**
+
+### "compartilhar"，不是 "compartir"
+
+*compartir* 在字典里能查到，但在巴西用得非常少，听起来很古旧。日常表达"分享"用 -AR 动词 **compartilhar** ：
+
+- 自然：「Nós compartilhamos a foto」（我们分享了那张照片）
+
+### 看起来像 -IR 但其实不规则的动词
+
+有一些以 -ir 结尾的动词不能完全按规则套，需要单独记：
+
+- **sair** （出去）：eu saio
+- **cair** （掉落）：eu caio
+- **ouvir** （听）：eu ouço
+- **pôr** （放）：源自古葡萄牙语 *poer* ，今天看上去已经完全不像 -IR，但历史上属于这一组
+
+### 趣闻
+
+### "Partir" 同时表示「离开」和「弄断」— 这其实是同一件事
+
+*Partir* 来自拉丁语 *partīre* （"分、分享"），同源词在英文里还衍生出 *part、party、particle、apartment* 等"部分"相关的词。"弄断 / 切"的意思保留了拉丁语原意——把东西分成几块；而"离开"的意思则是从"把自己和某个地方分开"这一比喻发展而来。所以 **partir o bolo** （切蛋糕）和 **partir para o aeroporto** （出发去机场）其实是同一个动词在做两件密切相关的事。
+
+*资料来源： [Wiktionary — partir（葡萄牙语词源）](https://en.wiktionary.org/wiki/partir) 。*
+
+### \-IR 类是拉丁语两组动词合并的结果
+
+古典拉丁语原本有四组规则动词变位，葡萄牙语精简到三组。大多数现代 -IR 动词来自拉丁语第 4 组 *\-īre* （ **partīre** → partir， **aperīre** → abrir），还有一小部分来自第 3 组短音 *\-ere* （ **dīvidere** → dividir）。这种"混血"来源也是 -IR 在葡萄牙语三组动词里数量最少的原因之一。
+
+*资料来源： [Wiktionary — 葡萄牙语后缀「-ir」](https://en.wiktionary.org/wiki/-ir) ， [Wiktionary — dividir](https://en.wiktionary.org/wiki/dividir) 。*

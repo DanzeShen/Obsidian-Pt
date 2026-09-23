@@ -1,0 +1,257 @@
+# 限定性与非限定性从句
+
+限定性从句提供识别具体人 / 物所必需的信息（不用逗号），而非限定性从句只是补充额外、非必要的信息（要用逗号）；不过巴西葡语在口语中经常不严格区分这两者。
+
+### 结构
+
+限定性： antecedent + que + 必要信息 或 非限定性： antecedent +, que + 额外信息,
+
+### 快速概览
+
+- **Restrictive** = 用来识别对象（不加逗号）
+- **Non-restrictive** = 加额外信息（要加逗号）
+- 意思会改变： "Os alunos que estudaram passaram" vs. "Os alunos, que estudaram, passaram"
+- 葡语用逗号整体少于英语
+- 口语里经常忽略这种差别
+- 正式写作会保留这个区别
+- 两种里最常见的都是 "que"
+- 口语里停顿往往表示非限定性
+- 商务 / 学术葡语需要精确
+
+### 深入解析
+
+### 理解核心差别
+
+## 限定性从句（Restrictive / Defining Clauses）：
+
+- 对识别“到底是哪一个”至关重要
+- 拿掉之后意思会变
+- **不用逗号**
+- 回答的是： "具体是哪一个？"
+
+## 非限定性从句（Non-restrictive / Non-defining Clauses）：
+
+- 添加额外信息
+- 删掉后句子依然说得通
+- **要用逗号**
+- 回答的是： "额外补充了什么信息？"
+
+## 意思会完全改变：
+
+- Restrictive: Os alunos **que chegaram atrasados** perderam a prova
+	（只有迟到的学生错过了考试）
+- Non-restrictive: Os alunos**, que chegaram atrasados,** perderam a prova
+	（所有学生都迟到了，也都错过了考试）
+
+### 限定性从句（不用逗号）
+
+## 什么时候用：
+
+- 要从很多个里面指定是哪一个
+- 信息对识别对象是必要的
+- 不能省略
+
+## 按类别举例：
+
+## 人：
+
+- A mulher **que mora ao lado** é médica（哪位女士？住在隔壁的那位）
+- Os candidatos **que passaram no teste** serão chamados（只有通过测试的人）
+- Procuro alguém **que fale inglês** （我在找会说英语的人）
+
+## 事物：
+
+- O livro **que você me emprestou** sumiu（哪本书？你借给我的那本）
+- Comprei as frutas **que estavam maduras** （只买了成熟的那些）
+- Preciso de um computador **que seja rápido** （我需要一台够快的电脑）
+
+## 地点：
+
+- Os restaurantes **que servem feijoada** são populares（只指供应 feijoada 的餐馆）
+- As cidades **que visitamos** eram lindas（指我们去过的那些城市）
+
+### 非限定性从句（带逗号）
+
+## 什么时候用：
+
+- 补充额外信息
+- 这部分去掉后也不影响主句成立
+- 经常用于独一无二的对象
+
+## 按类别举例：
+
+## 独特实体：
+
+- São Paulo**, que é a maior cidade do Brasil,** tem 12 milhões de habitantes
+- Meu chefe**, que mora em Santos,** chega tarde às segundas
+- O sol**, que nasce no leste,** estava lindo hoje
+
+## 附加信息：
+
+- Meus pais**, que moram no interior,** vêm me visitar
+- O novo projeto**, que começou ontem,** já tem problemas
+- Maria**, que fala cinco línguas,** conseguiu o emprego
+
+## 对整句的评论：
+
+- Ele passou no exame**, o que me surpreendeu**
+- Choveu muito**, o que cancelou o jogo**
+- Ela não veio**, o que foi uma pena**
+
+### 标点规则
+
+## 限定性 - 不加标点：
+
+As pessoas que chegaram cedo conseguiram lugar
+
+O restaurante que fica na esquina fechou
+
+Os dias que passei lá foram ótimos
+
+## 非限定性 - 必须加逗号：
+
+João, que é meu vizinho, viajou
+
+O Brasil, que fica na América do Sul, fala português
+
+Minha mãe, que faz 70 anos hoje, está feliz
+
+## 葡语和英语的倾向差异：
+
+- 葡语整体上用逗号更少
+- 英语对逗号规则更严格
+- 巴西口语里经常忽略这种区分
+
+### 两种从句都能用哪些关系代词
+
+## 两种都可以用：
+
+- que（最常见）
+- quem（介词后）
+- onde（地点）
+- cujo/cuja（正式）
+
+## 非限定性更偏好的：
+
+- o qual/a qual（更正式）
+- 专有名词后面通常更容易触发非限定性
+
+## 例子：
+
+- Restrictive: A pessoa **que** ligou não deixou recado
+- Non-restrictive: Pedro, **que/o qual** ligou ontem, não deixou recado
+
+### 口语 vs. 书面语
+
+## 在口语里：
+
+- 停顿表示非限定性
+- 没停顿 = 限定性
+- 语调往往比语法更重要
+
+## 在正式写作里：
+
+- 逗号规则会严格遵守
+- 法律 / 学术文本要求精确
+- 商务文件需要清晰
+
+## 口语倾向：
+
+- 两种从句经常并在一起用
+- 靠语境判断意思
+- 逗号常常被省略
+
+### 常见模式和错误
+
+## 专有名词通常 = 非限定性：
+
+- ✓ Paulo**, que** trabalha comigo, foi promovido
+- ❌ Paulo **que** trabalha comigo foi promovido
+
+## 最高级通常 = 非限定性：
+
+- O melhor aluno da classe**, que** se chama José, ganhou bolsa
+
+## "all/every" 这类表达常常 = 非限定性：
+
+- Todos os funcionários**, que** receberam treinamento, melhoraram
+
+## 错误：把独一无二的事物过度限定
+
+- ❌ A lua que brilha no céu
+- ✓ A lua, que brilha no céu,
+
+### 例子
+
+### 限定性（用于识别）
+
+- "Os alunos **que estudaram** passaram no exame"（只有学习过的学生通过了）
+- "Preciso do documento **que você mencionou** "（你提到的那份特定文件）
+- "As empresas **que investem em tecnologia** crescem mais"（只有投资科技的公司）
+- "Quero conhecer a pessoa **que fez isso** "（做这件事的那个具体的人）
+
+### 非限定性（额外信息）
+
+- "Meu irmão**, que mora em Londres,** vem nos visitar"（我哥哥刚好住在伦敦）
+- "O diretor**, que chegou atrasado,** pediu desculpas"（主任刚好迟到了）
+- "As rosas**, que são minhas flores favoritas,** estão caras"（玫瑰碰巧是我最喜欢的花）
+- "Ana**, que fala alemão,** foi escolhida"（Ana 碰巧会说德语）
+
+### 意义变化
+
+- "Os médicos **que trabalham aqui** são competentes"（只有在这里工作的医生）
+- "Os médicos**, que trabalham aqui,** são competentes"（我们这里所有医生都很优秀）
+- "Os carros **que são elétricos** pagam menos imposto"（只有电动车）
+- "Os carros**, que são elétricos,** pagam menos imposto"（这些车全都是电动车）
+
+### 正式和非正式混用
+
+- Formal: "O presidente**, que assumiu ontem,** fez promessas"
+- Informal speech: "O presidente que assumiu ontem fez promessas" (no pause)
+- Email: "O relatório, que enviei ontem, contém os dados"
+- WhatsApp: "o relatório que enviei tem os dados"
+
+### 常见错误避免
+
+- ❌ "São Paulo que é enorme tem trânsito"
+- ✓ "São Paulo, que é enorme, tem trânsito"
+- ❌ "Meu pai, que tem carro azul, chegou" (unless he has only one car)
+- ✓ "Meu pai que tem carro azul chegou" (distinguishing from other father/car)
+
+### 常见例外
+
+### 头衔和职位比较灵活
+
+两种都可能：
+
+- "O presidente Obama que governou..."（哪个 Obama 总统）
+- "O presidente Obama, que governou..."（Obama 总统，他……）
+
+### 家庭成员要看语境
+
+- "Meu irmão que mora longe"（我有不止一个兄弟）
+- "Meu irmão, que mora longe,"（我只有一个兄弟）
+
+### 口语常不遵守书面规则
+
+口头葡语很少严格区分：
+
+### 新闻媒体会简化
+
+标题常把逗号拿掉：
+
+- "Empresa que lucrou milhões declara falência"
+- 即使理论上应该是非限定性
+
+### 法律葡语极度限定化
+
+合同为了避免歧义：
+
+- 经常叠很多限定性从句
+- 很少用非限定性从句
+
+### 地区性逗号偏好
+
+- 南部：逗号更多（欧洲影响）
+- 东北部：逗号更少
+- São Paulo：商务文本里逗号更多
