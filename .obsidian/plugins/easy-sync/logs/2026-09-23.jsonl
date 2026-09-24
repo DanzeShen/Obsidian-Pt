@@ -1,5 +1,0 @@
-{"ts":1790147559900,"cat":"state","lvl":"warn","msg":"V2 controlled activation held on a canonical migration plan","data":{"phase":"activation","holdRevision":1,"planItems":198,"mutations":0,"previousHold":null,"nextCandidate":{"remoteItems":0,"anchors":0,"folderAnchors":0},"drift":null,"planIdentityUnchanged":null}}
-{"ts":1790147559912,"cat":"execute","lvl":"warn","msg":"auto sync paused after incomplete run: 同步已暂停：计划可在侧边栏查看"}
-{"ts":1790147614764,"cat":"state","lvl":"warn","msg":"V2 migration authority committed from the reviewed hold","data":{"phase":"activation","holdRevision":4,"planItems":198,"mutations":0}}
-{"ts":1790148290684,"cat":"execute","lvl":"error","msg":"[3/3] upload 未命名.canvas FAILED: ENOENT: no such file or directory, open '/Users/maxwellatwood/Documents/Obsidian-Pt/未命名.canvas'","data":{"message":"ENOENT: no such file or directory, open '/Users/maxwellatwood/Documents/Obsidian-Pt/未命名.canvas'"}}
-{"ts":1790148290701,"cat":"execute","lvl":"warn","msg":"auto sync paused after incomplete run: 同步部分完成：1 项失败"}
